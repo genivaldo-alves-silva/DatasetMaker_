@@ -1,0 +1,595 @@
+{
+  "doi": "10.1016/j.mycres.2008.01.008",
+  "title": "",
+  "authors": [],
+  "year": null,
+  "journal": "",
+  "gb_accessions": [
+    "AF373282.1",
+    "DQ208421.1",
+    "AY586703.1",
+    "AF389190.1",
+    "DQ674818",
+    "AY780067.1",
+    "DQ674806",
+    "AY684164.1",
+    "DQ674811",
+    "DQ674819",
+    "DQ674823",
+    "DQ674832",
+    "Lentinus squarrosulus AF261563",
+    "DQ674803",
+    "DQ674826",
+    "DQ674805",
+    "DQ674812",
+    "DQ674813",
+    "AY684166.1",
+    "DQ674810",
+    "DQ674831",
+    "AY097325.1",
+    "DQ674817",
+    "DQ674827",
+    "Lentinus tigrinus AF135173",
+    "AF261511.1",
+    "DQ674820",
+    "DQ674804",
+    "AF373284.1",
+    "DQ674816",
+    "AY684163.1",
+    "DQ674830",
+    "DQ674802",
+    "AY207180.1",
+    "DQ674814",
+    "DQ674821",
+    "EU118665.1",
+    "DQ674815",
+    "AF261563.1",
+    "DQ208418.1",
+    "DQ674809",
+    "AB067709.1",
+    "DQ674822",
+    "DQ674825",
+    "DQ678044.1",
+    "DQ674824",
+    "DQ094786.1",
+    "DQ674808",
+    "EF420088.1",
+    "AY544676.1",
+    "AF506490.1",
+    "DQ674807",
+    "DQ923534.1",
+    "DQ674829",
+    "AY686634.1",
+    "DQ071725.2",
+    "DQ674828"
+  ],
+  "species_mentioned": [
+    "Lachnocladiaceae sp.",
+    "Pleosporaceae sp.",
+    "Bionectriaceae sp.",
+    "Lentinus sp.",
+    "Meripilus sp.",
+    "Wrightoporia sp.",
+    "Schizophyllum sp.",
+    "Polyporaceae sp.",
+    "Coprinellus sp.",
+    "Clavicipitaceae sp.",
+    "Ganoderma sp.",
+    "Phlebioid sp.",
+    "Xylariaceae sp.",
+    "Sordariales sp.",
+    "Hypocreales sp.",
+    "Piptoporus sp."
+  ],
+  "vouchers_found": [
+    "DIS 358",
+    "DIS 354",
+    "DIS 327",
+    "DIS 226",
+    "DIS 358f",
+    "DIS 320g",
+    "DIS 360g",
+    "DIS 341i(ii)",
+    "DIS 216",
+    "DIS 356",
+    "DIS 372",
+    "DIS 276f",
+    "DIS 357f",
+    "DIS 341k",
+    "DIS 227",
+    "DIS 216i",
+    "DIS 341eii",
+    "DIS 330fi",
+    "DIS 217j",
+    "DIS 229",
+    "DIS 359",
+    "DIS 360aii",
+    "DIS 357",
+    "DIS 357aii",
+    "DIS 337bii",
+    "DIS 328",
+    "DIS 276",
+    "DIS 274j",
+    "DIS 106g",
+    "DIS 360",
+    "DIS 274",
+    "DIS 276i",
+    "DIS 325h",
+    "DIS 227k",
+    "DIS 326i",
+    "DIS 330i",
+    "DIS 322",
+    "DIS 355",
+    "DIS 274g"
+  ],
+  "countries_found": [],
+  "has_gb_table": true,
+  "has_supplementary": false,
+  "pdf_downloaded": true,
+  "json_path": "/home/genivaldo/DatasetMaker_/get_taxon_ref_/articles_db/articles_data/cea07bbf63d21b9e0badee5ca43264a9.json",
+  "pdf_path": "/home/genivaldo/DatasetMaker_/get_taxon_ref_/downloads/10.1016_j.mycres.2008.01.008.pdf",
+  "md_path": "",
+  "processed_date": "2026-03-14T16:57:15.165381",
+  "source": "",
+  "gb_table": [
+    {
+      "species": "",
+      "voucher": "DIS 360",
+      "country": "",
+      "gb_site/tissue": "DQ674802"
+    },
+    {
+      "species": "Coprinellus sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AY207180.1"
+    },
+    {
+      "species": "Coprinellus sp.",
+      "voucher": "DIS 274g",
+      "country": ""
+    },
+    {
+      "species": "Coprinellus sp.",
+      "voucher": "DIS 320g",
+      "country": ""
+    },
+    {
+      "species": "Coprinellus sp.",
+      "voucher": "DIS 337bii",
+      "country": ""
+    },
+    {
+      "species": "Coprinellus sp.",
+      "voucher": "DIS 355",
+      "country": ""
+    },
+    {
+      "species": "Coprinellus sp.",
+      "voucher": "DIS 357aii",
+      "country": ""
+    },
+    {
+      "species": "Coprinellus sp.",
+      "voucher": "DIS 276",
+      "country": "",
+      "gb_site/tissue": "DQ674804"
+    },
+    {
+      "species": "Ganoderma sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "DQ208418.1"
+    },
+    {
+      "species": "Ganoderma sp.",
+      "voucher": "DIS 276",
+      "country": ""
+    },
+    {
+      "species": "Ganoderma sp.",
+      "voucher": "DIS 276f",
+      "country": ""
+    },
+    {
+      "species": "Ganoderma sp.",
+      "voucher": "DIS 358",
+      "country": "",
+      "gb_site/tissue": "DQ674805"
+    },
+    {
+      "species": "Lachnocladiaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "DQ094786.1"
+    },
+    {
+      "species": "Lachnocladiaceae sp.",
+      "voucher": "DIS 360",
+      "country": "",
+      "gb_site/tissue": "DQ674807"
+    },
+    {
+      "species": "Lentinus sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AF261563.1"
+    },
+    {
+      "species": "Lentinus sp.",
+      "voucher": "DIS 326i",
+      "country": "",
+      "gb_site/tissue": "DQ674806"
+    },
+    {
+      "species": "Lentinus sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AF261563.1"
+    },
+    {
+      "species": "Lentinus sp.",
+      "voucher": "DIS 274",
+      "country": "",
+      "gb_site/tissue": "DQ674808"
+    },
+    {
+      "species": "Lentinus sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AF261511.1"
+    },
+    {
+      "species": "Lentinus sp.",
+      "voucher": "DIS 330i",
+      "country": "",
+      "gb_site/tissue": "DQ674803"
+    },
+    {
+      "species": "Meripilus sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AY684166.1"
+    },
+    {
+      "species": "Meripilus sp.",
+      "voucher": "DIS 276i",
+      "country": "",
+      "gb_site/tissue": "DQ674809"
+    },
+    {
+      "species": "Phlebioid sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "EU118665.1"
+    },
+    {
+      "species": "Phlebioid sp.",
+      "voucher": "DIS 330fi",
+      "country": "",
+      "gb_site/tissue": "DQ674810"
+    },
+    {
+      "species": "Piptoporus sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AY684164.1"
+    },
+    {
+      "species": "Piptoporus sp.",
+      "voucher": "DIS 360aii",
+      "country": "",
+      "gb_site/tissue": "DQ674813"
+    },
+    {
+      "species": "Polyporaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "DQ208421.1"
+    },
+    {
+      "species": "Polyporaceae sp.",
+      "voucher": "DIS 357f",
+      "country": ""
+    },
+    {
+      "species": "Polyporaceae sp.",
+      "voucher": "DIS 328",
+      "country": "",
+      "gb_site/tissue": "DQ674812"
+    },
+    {
+      "species": "Polyporaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "DQ208421.1"
+    },
+    {
+      "species": "Polyporaceae sp.",
+      "voucher": "DIS 227",
+      "country": ""
+    },
+    {
+      "species": "Polyporaceae sp.",
+      "voucher": "DIS 274",
+      "country": ""
+    },
+    {
+      "species": "Polyporaceae sp.",
+      "voucher": "DIS 356",
+      "country": ""
+    },
+    {
+      "species": "Polyporaceae sp.",
+      "voucher": "DIS 357",
+      "country": ""
+    },
+    {
+      "species": "Polyporaceae sp.",
+      "voucher": "DIS 229",
+      "country": "",
+      "gb_site/tissue": "DQ674811"
+    },
+    {
+      "species": "Polyporaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AY684163.1"
+    },
+    {
+      "species": "Polyporaceae sp.",
+      "voucher": "DIS 359",
+      "country": "",
+      "gb_site/tissue": "DQ674814"
+    },
+    {
+      "species": "Polyporaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AY586703.1"
+    },
+    {
+      "species": "Polyporaceae sp.",
+      "voucher": "DIS 372",
+      "country": "",
+      "gb_site/tissue": "DQ674815"
+    },
+    {
+      "species": "Schizophyllum sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "DQ071725.2"
+    },
+    {
+      "species": "Schizophyllum sp.",
+      "voucher": "DIS 229",
+      "country": "",
+      "gb_site/tissue": "DQ674816"
+    },
+    {
+      "species": "Wrightoporia sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AF506490.1"
+    },
+    {
+      "species": "Wrightoporia sp.",
+      "voucher": "DIS 325h",
+      "country": "",
+      "gb_site/tissue": "DQ674824"
+    },
+    {
+      "species": "Bionectriaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AY686634.1"
+    },
+    {
+      "species": "Bionectriaceae sp.",
+      "voucher": "DIS 341i(ii)",
+      "country": "",
+      "gb_site/tissue": "DQ674828"
+    },
+    {
+      "species": "Clavicipitaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AF373284.1"
+    },
+    {
+      "species": "Clavicipitaceae sp.",
+      "voucher": "DIS 217j",
+      "country": "",
+      "gb_site/tissue": "DQ674829"
+    },
+    {
+      "species": "Clavicipitaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AF373284.1"
+    },
+    {
+      "species": "Clavicipitaceae sp.",
+      "voucher": "DIS 216",
+      "country": "",
+      "gb_site/tissue": "DQ674830"
+    },
+    {
+      "species": "Clavicipitaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AF373282.1"
+    },
+    {
+      "species": "Clavicipitaceae sp.",
+      "voucher": "DIS 274",
+      "country": ""
+    },
+    {
+      "species": "Clavicipitaceae sp.",
+      "voucher": "DIS 226",
+      "country": "",
+      "gb_site/tissue": "DQ674831"
+    },
+    {
+      "species": "Clavicipitaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AF389190.1"
+    },
+    {
+      "species": "Clavicipitaceae sp.",
+      "voucher": "DIS 358f",
+      "country": "",
+      "gb_site/tissue": "DQ674821"
+    },
+    {
+      "species": "Hypocreales sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AB067709.1"
+    },
+    {
+      "species": "Hypocreales sp.",
+      "voucher": "DIS 106g",
+      "country": "",
+      "gb_site/tissue": "DQ674822"
+    },
+    {
+      "species": "Hypocreales sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AY097325.1"
+    },
+    {
+      "species": "Hypocreales sp.",
+      "voucher": "DIS 355",
+      "country": "",
+      "gb_site/tissue": "DQ674825"
+    },
+    {
+      "species": "Pleosporaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "DQ678044.1"
+    },
+    {
+      "species": "Pleosporaceae sp.",
+      "voucher": "DIS 341k",
+      "country": "",
+      "gb_site/tissue": "DQ674820"
+    },
+    {
+      "species": "Sordariales sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AY780067.1"
+    },
+    {
+      "species": "Sordariales sp.",
+      "voucher": "DIS 360g",
+      "country": "",
+      "gb_site/tissue": "DQ674817"
+    },
+    {
+      "species": "Xylariaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AY544676.1"
+    },
+    {
+      "species": "Xylariaceae sp.",
+      "voucher": "DIS 354",
+      "country": "",
+      "gb_site/tissue": "DQ674818"
+    },
+    {
+      "species": "Xylariaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AY544676.1"
+    },
+    {
+      "species": "Xylariaceae sp.",
+      "voucher": "DIS 327",
+      "country": "",
+      "gb_site/tissue": "DQ674819"
+    },
+    {
+      "species": "Xylariaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AY544676.1"
+    },
+    {
+      "species": "Xylariaceae sp.",
+      "voucher": "DIS 341eii",
+      "country": "",
+      "gb_site/tissue": "DQ674823"
+    },
+    {
+      "species": "Xylariaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "DQ923534.1"
+    },
+    {
+      "species": "Xylariaceae sp.",
+      "voucher": "DIS 327",
+      "country": "",
+      "gb_site/tissue": "DQ674826"
+    },
+    {
+      "species": "Xylariaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AY544676.1"
+    },
+    {
+      "species": "Xylariaceae sp.",
+      "voucher": "DIS 216i",
+      "country": "",
+      "gb_site/tissue": "DQ674827"
+    },
+    {
+      "species": "Xylariaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "AY544676.1"
+    },
+    {
+      "species": "Xylariaceae sp.",
+      "voucher": "DIS 227k",
+      "country": "",
+      "gb_site/tissue": "DQ674832"
+    },
+    {
+      "species": "Xylariaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "EF420088.1"
+    },
+    {
+      "species": "Xylariaceae sp.",
+      "voucher": "DIS 274j",
+      "country": ""
+    },
+    {
+      "species": "Xylariaceae sp.",
+      "voucher": "DIS 322",
+      "country": ""
+    },
+    {
+      "species": "Xylariaceae sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "Lentinus tigrinus AF135173"
+    },
+    {
+      "species": "Lentinus sp.",
+      "voucher": "",
+      "country": "",
+      "gb_site/tissue": "Lentinus squarrosulus AF261563"
+    }
+  ]
+}

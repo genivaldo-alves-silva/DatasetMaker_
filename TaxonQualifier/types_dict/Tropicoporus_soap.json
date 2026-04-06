@@ -1,0 +1,1744 @@
+{
+  "840031": {
+    "species": "Tropicoporus anchietanus",
+    "author": "(Decock & Ryvarden) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 170 (2022)",
+    "Basionym": "Phellinus anchietanus",
+    "Basionym_author": "Decock & Ryvarden",
+    "protologo basionym": "Cryptog. Mycol. 18 (3) : 222 (1997)",
+    "basionym recordID": "437385",
+    "typification": "Holotype PACA 18770",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PACA 18770"
+        ]
+      }
+    ],
+    "locality raw": "Acre",
+    "country": "ישראל",
+    "host": "on bark of tree",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840024": {
+    "species": "Tropicoporus angustisulcatus",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 162 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 024943",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 024943"
+        ]
+      }
+    ],
+    "locality raw": "Amazonas",
+    "country": "Brazil",
+    "host": "on dead trunk of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "840032": {
+    "species": "Tropicoporus appositus",
+    "author": "(Lév.) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 171 (2022)",
+    "Basionym": "Polyporus appositus",
+    "Basionym_author": "Lév.",
+    "protologo basionym": "Annls Sci. Nat. 5 : 141 (1846)",
+    "basionym recordID": "472422",
+    "typification": "Typification: PC, Zollinger 19",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "PC",
+          "Zollinger 19"
+        ]
+      }
+    ],
+    "locality raw": "Jawa",
+    "country": "Indonesia",
+    "host": "on trunks",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "813013": {
+    "species": "Tropicoporus boehmeriae",
+    "author": "L.W. Zhou & F. Wu",
+    "protologo record0": "Phytotaxa 231 (1) : 75 (2015)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype IFP, LWZ 20140729-10",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "IFP",
+          "LWZ 20140729-10"
+        ]
+      }
+    ],
+    "locality raw": "Thailand",
+    "country": "Thailand",
+    "host": "on living Boehmeria nivea",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "840033": {
+    "species": "Tropicoporus cambodiensis",
+    "author": "(L.W. Zhou & W.M. Zhang) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 171 (2022)",
+    "Basionym": "Fulvifomes cambodiensis",
+    "Basionym_author": "L.W. Zhou & W.M. Zhang",
+    "protologo basionym": "Mycotaxon 119 : 176 (2012)",
+    "basionym recordID": "561815",
+    "typification": "Holotype GDGM 20949",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "GDGM 20949"
+        ]
+      }
+    ],
+    "locality raw": "Cambodia",
+    "country": "Cambodia",
+    "host": "on wood of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840034": {
+    "species": "Tropicoporus carteri",
+    "author": "(Berk. ex Cooke) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 172 (2022)",
+    "Basionym": "Poria carteri",
+    "Basionym_author": "Berk. ex Cooke",
+    "protologo basionym": "Grevillea 15 (no. 73) : 25 (1886)",
+    "basionym recordID": "152640",
+    "typification": "Holotype K(M), Carter, 1862",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "Carter",
+          "1862"
+        ]
+      }
+    ],
+    "locality raw": "Maharashtra",
+    "country": "India",
+    "host": "on trunk",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840035": {
+    "species": "Tropicoporus caryophylleus",
+    "author": "(Cooke) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 172 (2022)",
+    "Basionym": "Fomes caryophylleus",
+    "Basionym_author": "Cooke",
+    "protologo basionym": "Grevillea 15 (no. 73) : 21 (1886)",
+    "basionym recordID": "174929",
+    "typification": "Holotype K(M), Glaziou 14432",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "Glaziou 14432"
+        ]
+      }
+    ],
+    "locality raw": "Brazil",
+    "country": "Brazil",
+    "host": "on trunk",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840036": {
+    "species": "Tropicoporus cesatii",
+    "author": "(Bres.) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 172 (2022)",
+    "Basionym": "Poria cesatii",
+    "Basionym_author": "Bres.",
+    "protologo basionym": "Stud. Trent. 7 (1) : 7 (1926)",
+    "basionym recordID": "260354",
+    "typification": "",
+    "types": [],
+    "locality raw": "Sarawak",
+    "country": "Malaysia",
+    "host": "on wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840037": {
+    "species": "Tropicoporus chaquensis",
+    "author": "(Iaconis & J.E. Wright) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 172 (2022)",
+    "Basionym": "Fomes chaquensis",
+    "Basionym_author": "Iaconis & J.E. Wright",
+    "protologo basionym": "Anal. Soc. cient. argent. 156 (1) : 14 (1953)",
+    "basionym recordID": "297472",
+    "typification": "Typification: LCF 739; LCF 740",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "LCF 739; LCF 740"
+        ]
+      }
+    ],
+    "locality raw": "Argentina",
+    "country": "Argentina",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "849484": {
+    "species": "Tropicoporus cleistanthicola",
+    "author": "Gunas. & Kaliyap.",
+    "protologo record0": "MycoKeys 102 : 34 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype MUBL 1089",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MUBL 1089"
+        ]
+      }
+    ],
+    "locality raw": "Tamil Nadu",
+    "country": "India",
+    "host": "on living Cleistanthus collinus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "812157": {
+    "species": "Tropicoporus cubensis",
+    "author": "(Y.C. Dai, Decock & L.W. Zhou) L.W. Zhou & Y.C. Dai",
+    "protologo record0": "Fungal Diversity 77 : 344 (2015)",
+    "Basionym": "Inonotus cubensis",
+    "Basionym_author": "Y.C. Dai, Decock & L.W. Zhou",
+    "protologo basionym": "Fungal Diversity 58 : 163 (2012)",
+    "basionym recordID": "800625",
+    "typification": "Holotype MUCL 47079",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MUCL 47079"
+        ]
+      }
+    ],
+    "locality raw": "Cuba",
+    "country": "Cuba",
+    "host": "on angiosperm tree",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "812158": {
+    "species": "Tropicoporus dependens",
+    "author": "(Murrill) L.W. Zhou, Y.C. Dai & Vlasák",
+    "protologo record0": "Fungal Diversity 77 : 344 (2015)",
+    "Basionym": "Pyropolyporus dependens",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "N. Amer. Fl. 9 (2) : 106 (1908)",
+    "basionym recordID": "173078",
+    "typification": "Typification: Underwood & Earle 1508",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Underwood & Earle 1508"
+        ]
+      }
+    ],
+    "locality raw": "Cuba",
+    "country": "Cuba",
+    "host": "on decaying trunks",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840038": {
+    "species": "Tropicoporus detonsus",
+    "author": "(Fr.) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 172 (2022)",
+    "Basionym": "Polyporus detonsus",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "Linnaea 5 : 519 (1830)",
+    "basionym recordID": "472536",
+    "typification": "Typification: Beyrich s.n.",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Beyrich s.n."
+        ]
+      }
+    ],
+    "locality raw": "Brazil",
+    "country": "Brazil",
+    "host": "on trunks",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "823698": {
+    "species": "Tropicoporus drechsleri",
+    "author": "Salvador-Mont. & Popoff",
+    "protologo record0": "Phytotaxa 338 (1) : 80 (2018)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype CTES 570140",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "CTES 570140"
+        ]
+      }
+    ],
+    "locality raw": "Chaco",
+    "country": "Argentina",
+    "host": "on living Cordia americana",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "812155": {
+    "species": "Tropicoporus excentrodendri",
+    "author": "L.W. Zhou & Y.C. Dai",
+    "protologo record0": "Fungal Diversity 77 : 341 (2015)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype IFP, Yuan 6232",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "IFP",
+          "Yuan 6232"
+        ]
+      }
+    ],
+    "locality raw": "Guangxi",
+    "country": "China",
+    "host": "on stump of Excentrodendron tonkinense",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "840039": {
+    "species": "Tropicoporus extensus",
+    "author": "(Lév.) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 172 (2022)",
+    "Basionym": "Polyporus extensus",
+    "Basionym_author": "Lév.",
+    "protologo basionym": "Annls Sci. Nat. 5 : 129 (1846)",
+    "basionym recordID": "374904",
+    "typification": "Holotype PC 36048",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PC 36048"
+        ]
+      }
+    ],
+    "locality raw": "Guadeloupe",
+    "country": "Guadeloupe",
+    "host": "on wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "837432": {
+    "species": "Tropicoporus flabellatus",
+    "author": "V.R.T. Oliveira, J.R.C. Oliveira-Filho, Xavier de Lima & Gibertoni",
+    "protologo record0": "Cryptog. Mycol. 43 (1) : 10 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype URM 94338",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "URM 94338"
+        ]
+      }
+    ],
+    "locality raw": "Alagoas",
+    "country": "Brasil",
+    "host": "on dead wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "840040": {
+    "species": "Tropicoporus glaucescens",
+    "author": "(Petch) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 172 (2022)",
+    "Basionym": "Poria glaucescens",
+    "Basionym_author": "Petch",
+    "protologo basionym": "Ann. R. bot. Gdns Peradeniya 6 (1) : 139 (1916)",
+    "basionym recordID": "177587",
+    "typification": "Holotype PDA 3653",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PDA 3653"
+        ]
+      }
+    ],
+    "locality raw": "Sri Lanka",
+    "country": "Sri Lanka",
+    "host": "on bark",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "812156": {
+    "species": "Tropicoporus guanacastensis",
+    "author": "L.W. Zhou, Y.C. Dai & Vlasák",
+    "protologo record0": "Fungal Diversity 77 : 343 (2015)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype IFP, JV 1408-25",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "IFP",
+          "JV 1408-25"
+        ]
+      }
+    ],
+    "locality raw": "Costa Rica",
+    "country": "Costa Rica",
+    "host": "on dead standing Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "840025": {
+    "species": "Tropicoporus hainanicus",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 164 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 025237",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 025237"
+        ]
+      }
+    ],
+    "locality raw": "Hainan",
+    "country": "China",
+    "host": "on fallen trunk of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "840041": {
+    "species": "Tropicoporus inamoenus",
+    "author": "(Mont.) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 172 (2022)",
+    "Basionym": "Polyporus inamoenus",
+    "Basionym_author": "Mont.",
+    "protologo basionym": "Annls Sci. Nat. 18 : 22 (1842)",
+    "basionym recordID": "472638",
+    "typification": "Typification: Perrottet s.n.",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Perrottet s.n."
+        ]
+      }
+    ],
+    "locality raw": "Tamil Nadu",
+    "country": "India",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "849482": {
+    "species": "Tropicoporus indicus",
+    "author": "Gunas. & Kaliyap.",
+    "protologo record0": "MycoKeys 102 : 38 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype MUBL 1083",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MUBL 1083"
+        ]
+      }
+    ],
+    "locality raw": "Tamil Nadu",
+    "country": "India",
+    "host": "on living Albizia amara",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "840042": {
+    "species": "Tropicoporus lapideus",
+    "author": "(Corner) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 173 (2022)",
+    "Basionym": "Phellinus lapideus",
+    "Basionym_author": "Corner",
+    "protologo basionym": "Beih. Nova Hedwigia 101 : 107 (1991)",
+    "basionym recordID": "129086",
+    "typification": "Holotype SING, F.N. 23743",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "SING",
+          "F.N. 23743"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on dead trunk in forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840026": {
+    "species": "Tropicoporus lineatus",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 164 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 032850",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 032850"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on dead trunk of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "812159": {
+    "species": "Tropicoporus linteus",
+    "author": "(Berk. & M.A. Curtis) L.W. Zhou & Y.C. Dai",
+    "protologo record0": "Fungal Diversity 77 : 344 (2015)",
+    "Basionym": "Polyporus linteus",
+    "Basionym_author": "Berk. & M.A. Curtis",
+    "protologo basionym": "Proc. Amer. Acad. Arts & Sci. 4 : 122 (1860)",
+    "basionym recordID": "444248",
+    "typification": "Holotype K(M), Wright s.n.",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "Wright s.n."
+        ]
+      }
+    ],
+    "locality raw": "Nicaragua",
+    "country": "Nicaragua",
+    "host": "on bark",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840043": {
+    "species": "Tropicoporus lopezii",
+    "author": "(M. Mata & Ryvarden) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 173 (2022)",
+    "Basionym": "Phellinus lopezii",
+    "Basionym_author": "M. Mata & Ryvarden",
+    "protologo basionym": "Syn. Fung. 27 : 60 (2010)",
+    "basionym recordID": "517300",
+    "typification": "Holotype INB 1546686",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "INB 1546686"
+        ]
+      }
+    ],
+    "locality raw": "Costa Rica",
+    "country": "Costa Rica",
+    "host": "on wood of dead hardwood log",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "852794": {
+    "species": "Tropicoporus maritimus",
+    "author": "N. Chellappan, Vasan & Kaliyap.",
+    "protologo record0": "Fungal Syst. Evol. 13 : 345 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype MUBL 1103",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MUBL 1103"
+        ]
+      }
+    ],
+    "locality raw": "Tamil Nadu",
+    "country": "India",
+    "host": "on live tree of Peltophorum pterocarpum",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "830785": {
+    "species": "Tropicoporus melleoporus",
+    "author": "(Murrill) Salvador-Mont. & Drechsler-Santos",
+    "protologo record0": "Pl. Syst. Evol. 306 (no. 34) : 21 (2020)",
+    "Basionym": "Fomitiporella melleopora",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "N. Amer. Fl. 9 (1) : 13 (1907)",
+    "basionym recordID": "143963",
+    "typification": "Typification: Langlois 213",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Langlois 213"
+        ]
+      }
+    ],
+    "locality raw": "Louisiana",
+    "country": "United States",
+    "host": "on dead log of Salix",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840044": {
+    "species": "Tropicoporus minisporus",
+    "author": "(B.K. Cui & Y.C. Dai) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 174 (2022)",
+    "Basionym": "Phellinus minisporus",
+    "Basionym_author": "B.K. Cui & Y.C. Dai",
+    "protologo basionym": "Mycotaxon 110 : 126 (2009)",
+    "basionym recordID": "514081",
+    "typification": "Holotype BJFC, Dai 7868",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Dai 7868"
+        ]
+      }
+    ],
+    "locality raw": "Hainan",
+    "country": "China",
+    "host": "on dead Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "843547": {
+    "species": "Tropicoporus minor",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 166 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 032793",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 032793"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on dead trunk of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "840027": {
+    "species": "Tropicoporus minus",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "(2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "843547",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "559816": {
+    "species": "Tropicoporus natarajaniae",
+    "author": "Kaliyap., Gunas., K. Kezo, X.Wei Wang & L.W. Zhou",
+    "protologo record0": "(2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "663642",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "663642": {
+    "species": "Tropicoporus natarajanii",
+    "author": "Kaliyap., Gunas., K. Kezo, X.Wei Wang & L.W. Zhou",
+    "protologo record0": "Fungal Diversity 124 : 142 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype MUBL 4020",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MUBL 4020"
+        ]
+      }
+    ],
+    "locality raw": "Tamil Nadu",
+    "country": "India",
+    "host": "on living trunks of Albizia amara",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "840045": {
+    "species": "Tropicoporus nothofagi",
+    "author": "(G. Cunn.) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 174 (2022)",
+    "Basionym": "Fuscoporia nothofagi",
+    "Basionym_author": "G. Cunn.",
+    "protologo basionym": "Bull. N.Z. Dept. Sci. Industr. Res. 164 : 263 (1965)",
+    "basionym recordID": "331005",
+    "typification": "Holotype PDD 6613",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PDD 6613"
+        ]
+      }
+    ],
+    "locality raw": "New Zealand (Aotearoa)",
+    "country": "New Zealand / Aotearoa",
+    "host": "on dead bark of Nothofagus cliffortioides",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "834098": {
+    "species": "Tropicoporus nullisetus",
+    "author": "Xavier de Lima, V.R.T. Oliveira & Gibertoni",
+    "protologo record0": "Cryptog. Mycol. 43 (1) : 12 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype URM 94073",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "URM 94073"
+        ]
+      }
+    ],
+    "locality raw": "Alagoas",
+    "country": "Brasil",
+    "host": "on dead wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "851484": {
+    "species": "Tropicoporus oceanianus",
+    "author": "A.H. Zhu, Yuan Yuan & S.H. He",
+    "protologo record0": "MycoKeys 103 : 63 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 027327",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 027327"
+        ]
+      }
+    ],
+    "locality raw": "Queensland",
+    "country": "Australia",
+    "host": "on Eucalyptus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "840046": {
+    "species": "Tropicoporus poeltii",
+    "author": "(Ryvarden) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 174 (2022)",
+    "Basionym": "Phellinus poeltii",
+    "Basionym_author": "Ryvarden",
+    "protologo basionym": "Khumbu Himal 6 : 381 (1977)",
+    "basionym recordID": "319780",
+    "typification": "",
+    "types": [],
+    "locality raw": "Nepal",
+    "country": "Nepal",
+    "host": "on Abies webbiana",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "849483": {
+    "species": "Tropicoporus pseudoindicus",
+    "author": "Gunas. & Kaliyap.",
+    "protologo record0": "MycoKeys 102 : 41 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype MUBL 1087",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MUBL 1087"
+        ]
+      }
+    ],
+    "locality raw": "Tamil Nadu",
+    "country": "India",
+    "host": "on living Albizia amara",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "812160": {
+    "species": "Tropicoporus pseudolinteus",
+    "author": "(Vlasák & Y.C. Dai) L.W. Zhou, Y.C. Dai & Vlasák",
+    "protologo record0": "Fungal Diversity 77 : 344 (2015)",
+    "Basionym": "Inonotus pseudolinteus",
+    "Basionym_author": "Vlasák & Y.C. Dai",
+    "protologo basionym": "Phytotaxa 124 (1) : 30 (2013)",
+    "basionym recordID": "803767",
+    "typification": "Holotype PRM 861184",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PRM 861184"
+        ]
+      }
+    ],
+    "locality raw": "Venezuela",
+    "country": "Venezuela",
+    "host": "on wood of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840047": {
+    "species": "Tropicoporus purpureogilvus",
+    "author": "(Petch) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 174 (2022)",
+    "Basionym": "Poria purpureogilva",
+    "Basionym_author": "Petch",
+    "protologo basionym": "Ann. R. bot. Gdns Peradeniya 6 (1) : 138 (1916)",
+    "basionym recordID": "189407",
+    "typification": "Holotype PDA 4688",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PDA 4688"
+        ]
+      }
+    ],
+    "locality raw": "Sri Lanka",
+    "country": "Sri Lanka",
+    "host": "on dead branch",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840048": {
+    "species": "Tropicoporus ralunensis",
+    "author": "(Adask., Gilb. & Blanchette) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 174 (2022)",
+    "Basionym": "Phellinus ralunensis",
+    "Basionym_author": "Adask., Gilb. & Blanchette",
+    "protologo basionym": "Mycol. Res. 95 (7) : 769 (1991)",
+    "basionym recordID": "355123",
+    "typification": "Holotype ARIZ, RAB 3-89A",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "ARIZ",
+          "RAB 3-89A"
+        ]
+      }
+    ],
+    "locality raw": "Los Lagos",
+    "country": "Chile",
+    "host": "on rotten wood of Eucryphia cordifolia",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840028": {
+    "species": "Tropicoporus ravidus",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 168 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 025694",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 025694"
+        ]
+      }
+    ],
+    "locality raw": "Guangdong",
+    "country": "China",
+    "host": "on stump of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "843549": {
+    "species": "Tropicoporus rechingeri",
+    "author": "(Bres.) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 174 (2022)",
+    "Basionym": "Fomes rechingeri",
+    "Basionym_author": "Bres.",
+    "protologo basionym": "Denkschr. Kaiserl. Akad. Wiss. 85 : 179 (1910)",
+    "basionym recordID": "159813",
+    "typification": "Typification: Rechinger 5048",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Rechinger 5048"
+        ]
+      }
+    ],
+    "locality raw": "Papua New Guinea",
+    "country": "Guinea",
+    "host": "on trunk",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840049": {
+    "species": "Tropicoporus reichingeri",
+    "author": "(Bres.) Y.C. Dai & F. Wu",
+    "protologo record0": "(2022)",
+    "Basionym": "Fomes rechingeri",
+    "Basionym_author": "Bres.",
+    "protologo basionym": "Denkschr. Kaiserl. Akad. Wiss. 85 : 179 (1910)",
+    "basionym recordID": "159813",
+    "typification": "Typification: Rechinger 5048",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Rechinger 5048"
+        ]
+      }
+    ],
+    "locality raw": "Papua New Guinea",
+    "country": "Guinea",
+    "host": "on trunk",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "843549",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840050": {
+    "species": "Tropicoporus rickii",
+    "author": "(Teixeira) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 174 (2022)",
+    "Basionym": "Phellinus rickii",
+    "Basionym_author": "Teixeira",
+    "protologo basionym": "Bragantia 10 : 120 (1950)",
+    "basionym recordID": "302821",
+    "typification": "",
+    "types": [],
+    "locality raw": "Brazil",
+    "country": "Brazil",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "812161": {
+    "species": "Tropicoporus rudis",
+    "author": "(Pat.) L.W. Zhou & Y.C. Dai",
+    "protologo record0": "Fungal Diversity 77 : 344 (2015)",
+    "Basionym": "Xanthochrous rudis",
+    "Basionym_author": "Pat.",
+    "protologo basionym": "Bull. Soc. Mycol. France 23 (2) : 83 (1907)",
+    "basionym recordID": "213334",
+    "typification": "Typification: Chudeau s.n.",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Chudeau s.n."
+        ]
+      }
+    ],
+    "locality raw": "Sudan",
+    "country": "Sudan",
+    "host": "at base of trunks",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840051": {
+    "species": "Tropicoporus sanfordii",
+    "author": "(Lloyd) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 174 (2022)",
+    "Basionym": "Fomes sanfordii",
+    "Basionym_author": "Lloyd",
+    "protologo basionym": "Mycol. Writ. 4 (Syn. gen. Fomes) : 258 (1915)",
+    "basionym recordID": "166538",
+    "typification": "Typification: Petch 3446",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Petch 3446"
+        ]
+      }
+    ],
+    "locality raw": "Sri Lanka",
+    "country": "Sri Lanka",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840052": {
+    "species": "Tropicoporus scorodocarpi",
+    "author": "(Corner) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 174 (2022)",
+    "Basionym": "Phellinus scorodocarpi",
+    "Basionym_author": "Corner",
+    "protologo basionym": "Beih. Nova Hedwigia 101 : 139 (1991)",
+    "basionym recordID": "129102",
+    "typification": "Holotype SING, F.N. 24495",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "SING",
+          "F.N. 24495"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on trunks of Scorodocarpus borneensis",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840053": {
+    "species": "Tropicoporus shaferi",
+    "author": "(Murrill) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 174 (2022)",
+    "Basionym": "Fuscoporella shaferi",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "N. Amer. Fl. 9 (1) : 7 (1907)",
+    "basionym recordID": "226078",
+    "typification": "Typification: Shafer, 30 Jan. 1907",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Shafer",
+          "30 Jan. 1907"
+        ]
+      }
+    ],
+    "locality raw": "Montserrat",
+    "country": "Montserrat",
+    "host": "on decorticated trunk",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "812162": {
+    "species": "Tropicoporus sideroxylicola",
+    "author": "(Vlasák & Y.C. Dai) L.W. Zhou, Y.C. Dai & Vlasák",
+    "protologo record0": "Fungal Diversity 77 : 344 (2015)",
+    "Basionym": "Inonotus sideroxylicola",
+    "Basionym_author": "Vlasák & Y.C. Dai",
+    "protologo basionym": "Phytotaxa 124 (1) : 32 (2013)",
+    "basionym recordID": "803768",
+    "typification": "Holotype PRM 861186",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PRM 861186"
+        ]
+      }
+    ],
+    "locality raw": "Virgin Is.",
+    "country": "United States",
+    "host": "on trunk of Sideroxylon obovatum",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "811039": {
+    "species": "Tropicoporus stratificans",
+    "author": "G. Coelho & Yurchenko",
+    "protologo record0": "Phytotaxa 245 (2) : 147 (2016)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype SMDB 14730",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "SMDB 14730"
+        ]
+      }
+    ],
+    "locality raw": "Rio Grande do Sul",
+    "country": "Brazil",
+    "host": "on underside of fallen rotting trunks of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "559817": {
+    "species": "Tropicoporus subramaniae",
+    "author": "Kaliyap., Gunas., K. Kezo, X.Wei Wang & L.W. Zhou",
+    "protologo record0": "(2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "663578",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "663578": {
+    "species": "Tropicoporus subramanianii",
+    "author": "Kaliyap., Gunas., K. Kezo, X.Wei Wang & L.W. Zhou",
+    "protologo record0": "Fungal Diversity 124 : 146 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype MUBL 4021",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MUBL 4021"
+        ]
+      }
+    ],
+    "locality raw": "Tamil Nadu",
+    "country": "India",
+    "host": "on living trunks of Albizia amara",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "840029": {
+    "species": "Tropicoporus substratificans",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 168 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype PRM, Vlasák 1908/80",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PRM",
+          "Vlasák 1908/80"
+        ]
+      }
+    ],
+    "locality raw": "French Guiana",
+    "country": "France",
+    "host": "on wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "849481": {
+    "species": "Tropicoporus tamilnaduensis",
+    "author": "Kaliyap. & Gunas.",
+    "protologo record0": "MycoKeys 102 : 45 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype MUBL 1085",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MUBL 1085"
+        ]
+      }
+    ],
+    "locality raw": "Tamil Nadu",
+    "country": "India",
+    "host": "on living Madhuca longifolia",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "840030": {
+    "species": "Tropicoporus tenuis",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 170 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 031375",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 031375"
+        ]
+      }
+    ],
+    "locality raw": "Guangdong",
+    "country": "China",
+    "host": "on living Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "829058": {
+    "species": "Tropicoporus texanus",
+    "author": "A.A. Brown, D.P. Lawr. & K. Baumgartner",
+    "protologo record0": "Pl. Pathol. 69 (2) : 216 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BPI 910967",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BPI 910967"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "840054": {
+    "species": "Tropicoporus tubifragilis",
+    "author": "(Corner) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 174 (2022)",
+    "Basionym": "Phellinus tubifragilis",
+    "Basionym_author": "Corner",
+    "protologo basionym": "Beih. Nova Hedwigia 101 : 160 (1991)",
+    "basionym recordID": "129117",
+    "typification": "Holotype colln Corner, Sing. F.N. 24878",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "colln Corner",
+          "Sing. F.N. 24878"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on dead fallen wood in forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "852974": {
+    "species": "Tropicoporus zuzanae",
+    "author": "A.H. Zhu, Yuan Yuan & S.H. He",
+    "protologo record0": "MycoKeys 103 : 65 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 036063",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 036063"
+        ]
+      }
+    ],
+    "locality raw": "Hainan",
+    "country": "China",
+    "host": "on dead Sonneratia",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "851485": {
+    "species": "Tropicoporus zuzaneae",
+    "author": "A.H. Zhu, Yuan Yuan & S.H. He",
+    "protologo record0": "(2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "852974",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  }
+}

@@ -1,0 +1,1227 @@
+{
+  "374386": {
+    "species": "Chlorophyllum abruptibulbum",
+    "author": "(R. Heim) Vellinga",
+    "protologo record0": "Mycotaxon 83 : 416 (2002)",
+    "Basionym": "Leucocoprinus abruptibulbus",
+    "Basionym_author": "R. Heim",
+    "protologo basionym": "Revue Mycol. 33 (2-3) : 213 (1968)",
+    "basionym recordID": "333325",
+    "typification": "Holotype MNHNP LM3001",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MNHNP LM3001"
+        ]
+      }
+    ],
+    "locality raw": "Central African Republic",
+    "country": "Ködörösêse tî Bêafrîka / République centrafricaine",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "823861": {
+    "species": "Chlorophyllum africanum",
+    "author": "Z.W. Ge & A. Jacobs",
+    "protologo record0": "MycoKeys 32 : 74 (2018)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype PREM 62143",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PREM 62143"
+        ]
+      }
+    ],
+    "locality raw": "South Africa",
+    "country": "South Africa",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "374387": {
+    "species": "Chlorophyllum agaricoides",
+    "author": "(Czern.) Vellinga",
+    "protologo record0": "Mycotaxon 83 : 416 (2002)",
+    "Basionym": "Endoptychum agaricoides",
+    "Basionym_author": "Czern.",
+    "protologo basionym": "Bull. Soc. Imp. nat. Moscou 18 (no. 3) : 148 (1845)",
+    "basionym recordID": "177293",
+    "typification": "Typification: Tab. IV (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. IV (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "Ukraine",
+    "country": "Ukraine",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "374391": {
+    "species": "Chlorophyllum alborubescens",
+    "author": "(Hongo) Vellinga",
+    "protologo record0": "Mycotaxon 83 : 416 (2002)",
+    "Basionym": "Lepiota alborubescens",
+    "Basionym_author": "Hongo",
+    "protologo basionym": "Mem. Fac. Educ. Shiga Univ. 12 : 40 (1962)",
+    "basionym recordID": "333111",
+    "typification": "Holotype TNS 237365",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "TNS 237365"
+        ]
+      }
+    ],
+    "locality raw": "Japan",
+    "country": "Japan",
+    "host": "on decaying straw of Oryza sativa",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "814884": {
+    "species": "Chlorophyllum arizonicum",
+    "author": "(Shear & Griffiths) G. Moreno & Altés",
+    "protologo record0": "Persoonia 35 : 297 (2015)",
+    "Basionym": "Secotium arizonicum",
+    "Basionym_author": "Shear & Griffiths",
+    "protologo basionym": "Bull. Torrey bot. Club 29 : 450 (1902)",
+    "basionym recordID": "238682",
+    "typification": "Typification: Griffiths, Sept. 1900 (Griffiths, West Amer. Fung. 323)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Griffiths",
+          "Sept. 1900 (Griffiths",
+          "West Amer. Fung. 323)"
+        ]
+      }
+    ],
+    "locality raw": "Arizona",
+    "country": "United States",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "115531": {
+    "species": "Chlorophyllum bharatense",
+    "author": "Sathe & S.M. Kulk.",
+    "protologo record0": "Maharashtra Association for the Cultivation of Science, Monograph No. 1 Agaricales (Mushrooms) of South West India : 48 (1981)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Karnataka",
+    "country": "India",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "374393": {
+    "species": "Chlorophyllum brunneum",
+    "author": "(Farl. & Burt) Vellinga",
+    "protologo record0": "Mycotaxon 83 : 416 (2002)",
+    "Basionym": "Lepiota brunnea",
+    "Basionym_author": "Farl. & Burt",
+    "protologo basionym": "Icones Farlowianae 8 : pl. 6 (1929)",
+    "basionym recordID": "259012",
+    "typification": "",
+    "types": [],
+    "locality raw": "North America",
+    "country": "North America",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "823863": {
+    "species": "Chlorophyllum demangei",
+    "author": "(Pat.) Z.W. Ge & Zhu L. Yang",
+    "protologo record0": "MycoKeys 33 : 80 (2018)",
+    "Basionym": "Lepiota demangei",
+    "Basionym_author": "Pat.",
+    "protologo basionym": "Bull. Soc. Mycol. France 23 (2) : 78 (1907)",
+    "basionym recordID": "236625",
+    "typification": "Typification: Demange s.n.",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Demange s.n."
+        ]
+      }
+    ],
+    "locality raw": "Vietnam",
+    "country": "Vietnam",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "156010": {
+    "species": "Chlorophyllum esculentum",
+    "author": "Massee",
+    "protologo record0": "Bull. Misc. Inf. : 136 (1898)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype K(M) 190243",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 190243"
+        ]
+      }
+    ],
+    "locality raw": "Guyana",
+    "country": "Guyana",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum molybdites",
+    "_current_name_id": "604726",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "374394": {
+    "species": "Chlorophyllum globosum",
+    "author": "(Mossebo) Vellinga",
+    "protologo record0": "Mycotaxon 83 : 416 (2002)",
+    "Basionym": "Macrolepiota globosa",
+    "Basionym_author": "Mossebo",
+    "protologo basionym": "Mycotaxon 76 : 268 (2000)",
+    "basionym recordID": "466232",
+    "typification": "Holotype Yaounde Mossebo 98-1",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "Yaounde Mossebo 98-1"
+        ]
+      }
+    ],
+    "locality raw": "Cameroon",
+    "country": "Cameroon",
+    "host": "on humus in shade under tree",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "374396": {
+    "species": "Chlorophyllum hortense",
+    "author": "(Murrill) Vellinga",
+    "protologo record0": "Mycotaxon 83 : 416 (2002)",
+    "Basionym": "Lepiota hortensis",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "N. Amer. Fl. 10 (1) : 59 (1914)",
+    "basionym recordID": "206929",
+    "typification": "Holotype NY, Earle, 2 Sept. 1899",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "NY",
+          "Earle",
+          "2 Sept. 1899"
+        ]
+      }
+    ],
+    "locality raw": "Alabama",
+    "country": "United States",
+    "host": "on sandy soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "374403": {
+    "species": "Chlorophyllum humei",
+    "author": "(Murrill) Vellinga",
+    "protologo record0": "Mycotaxon 83 : 416 (2002)",
+    "Basionym": "Lepiota humei",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "Lloydia 6 : 220 (1943)",
+    "basionym recordID": "287590",
+    "typification": "",
+    "types": [],
+    "locality raw": "Florida",
+    "country": "United States",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "832529": {
+    "species": "Chlorophyllum levantinum",
+    "author": "Loizides, P. Alvarado & Konstantinou",
+    "protologo record0": "Mycologia 112 (2) : 413 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype ACAM 2012-320",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "ACAM 2012-320"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "812380": {
+    "species": "Chlorophyllum lusitanicum",
+    "author": "G. Moreno, Muñ.-Moh., Manjón, Carlavilla & Altés",
+    "protologo record0": "Persoonia 35 : 297 (2015)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype AH 45540",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "AH 45540"
+        ]
+      }
+    ],
+    "locality raw": "Spain",
+    "country": "Spain",
+    "host": "in grassland associated with Quercus ilex subsp. ballota and Quercus suber",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "328167": {
+    "species": "Chlorophyllum madagascariense",
+    "author": "(L.M. Dufour) Heinem.",
+    "protologo record0": "Bull. Jard. Bot. natn. Belg. 38 : 204 (1968)",
+    "Basionym": "Lepiota madagascariensis",
+    "Basionym_author": "L.M. Dufour",
+    "protologo basionym": "Rev. gén. Bot. 25 : 498 (1913)",
+    "basionym recordID": "209626",
+    "typification": "Typification: Dufour, Jan. 1910",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Dufour",
+          "Jan. 1910"
+        ]
+      }
+    ],
+    "locality raw": "Madagascar",
+    "country": "Madagascar",
+    "host": "on soil, near dung of Bos taurus, associated with Poaceae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "374422": {
+    "species": "Chlorophyllum mammillatum",
+    "author": "(Murrill) Vellinga",
+    "protologo record0": "Mycotaxon 83 : 416 (2002)",
+    "Basionym": "Lepiota mammillata",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "Lloydia 6 : 220 (1943)",
+    "basionym recordID": "287595",
+    "typification": "",
+    "types": [],
+    "locality raw": "Florida",
+    "country": "United States",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "357300": {
+    "species": "Chlorophyllum molybdites",
+    "author": "(G. Mey.) Massee ex P. Syd.",
+    "protologo record0": "Just's Bot. Jahresber. 26 : 159 (1900)",
+    "Basionym": "Agaricus molybdites",
+    "Basionym_author": "G. Mey.",
+    "protologo basionym": "Prim. fl. esseq. : 300 (1818)",
+    "basionym recordID": "444495",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Guyana",
+    "country": "Guyana",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "604726": {
+    "species": "Chlorophyllum molybdites",
+    "author": "(G. Mey.) Massee",
+    "protologo record0": "Bull. Misc. Inf. : 136 (1898)",
+    "Basionym": "Agaricus molybdites",
+    "Basionym_author": "G. Mey.",
+    "protologo basionym": "Prim. fl. esseq. : 300 (1818)",
+    "basionym recordID": "444495",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Guyana",
+    "country": "Guyana",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "353350": {
+    "species": "Chlorophyllum molybdites var. congolense",
+    "author": "(Beeli) Heinem.",
+    "protologo record0": "Fl. Icon. champ. Congo 16 : 323 (1967)",
+    "Basionym": "Agaricus congolensis",
+    "Basionym_author": "Beeli",
+    "protologo basionym": "Bull. Soc. R. Bot. Belg. 61 (1) : 92 (1928)",
+    "basionym recordID": "261703",
+    "typification": "Typification: Goossens 381; Fig. 46 (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Goossens 381; Fig. 46 (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "Democratic Republic of the Congo",
+    "country": "Congo",
+    "host": "on soil",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum molybdites",
+    "_current_name_id": "604726",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "346030": {
+    "species": "Chlorophyllum molybdites var. luteolosperma",
+    "author": "Singer",
+    "protologo record0": "Pap. Mich. Acad. Sci. 32 : 139 (1948)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Florida",
+    "country": "United States",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum molybdites",
+    "_current_name_id": "604726",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "660784": {
+    "species": "Chlorophyllum molybdites var. macrosporum",
+    "author": "Roshi Sharma & Y.P. Sharma",
+    "protologo record0": "Stud. Fung. 2 : 166 (2017)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Herbarium, Botany Department, University of Jammu, Jammu, HBJU 409",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Herbarium",
+          "Botany Department",
+          "University of Jammu",
+          "Jammu",
+          "HBJU 409"
+        ]
+      }
+    ],
+    "locality raw": "Jammu-Kashmir",
+    "country": "India",
+    "host": "on soil",
+    "_rank": "var.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "660783": {
+    "species": "Chlorophyllum molybdites var. macrosporus",
+    "author": "Roshi Sharma & Y.P. Sharma",
+    "protologo record0": "(2017)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "660784",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "478489": {
+    "species": "Chlorophyllum molybdites var. marginatus",
+    "author": "(A.H. Sm.) D.A. Reid & Eicker",
+    "protologo record0": "Bot. Bull. Acad. sin. 32 : 328 (1991)",
+    "Basionym": "Lepiota molybdites var. marginata",
+    "Basionym_author": "A.H. Sm.",
+    "protologo basionym": "Mushrooms in their natural habitats : 429 (1949)",
+    "basionym recordID": "347017",
+    "typification": "",
+    "types": [],
+    "locality raw": "United States",
+    "country": "United States",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum molybdites",
+    "_current_name_id": "604726",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "425607": {
+    "species": "Chlorophyllum molybdites var. molybdites",
+    "author": "(G. Mey.) Massee",
+    "protologo record0": "Bull. Misc. Inf. : 136 (1898)",
+    "Basionym": "Agaricus molybdites",
+    "Basionym_author": "G. Mey.",
+    "protologo basionym": "Prim. fl. esseq. : 300 (1818)",
+    "basionym recordID": "444495",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Guyana",
+    "country": "Guyana",
+    "host": "on soil",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "477575": {
+    "species": "Chlorophyllum morganii",
+    "author": "(Peck) Massee",
+    "protologo record0": "Bull. Misc. Inf. : 136 (1898)",
+    "Basionym": "Agaricus morganii",
+    "Basionym_author": "Peck",
+    "protologo basionym": "Bot. Gaz. 4 (3) : 137 (1879)",
+    "basionym recordID": "534247",
+    "typification": "Typification: Morgan s.n.",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Morgan s.n."
+        ]
+      }
+    ],
+    "locality raw": "Ohio",
+    "country": "United States",
+    "host": "on soil, associated with Poaceae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "374424": {
+    "species": "Chlorophyllum neomastoideum",
+    "author": "(Hongo) Vellinga",
+    "protologo record0": "Mycotaxon 83 : 416 (2002)",
+    "Basionym": "Lepiota neomastoidea",
+    "Basionym_author": "Hongo",
+    "protologo basionym": "Memoirs of Shiga University 20 : 51 (1970)",
+    "basionym recordID": "316518",
+    "typification": "Holotype TNS 237372",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "TNS 237372"
+        ]
+      }
+    ],
+    "locality raw": "Japan",
+    "country": "Japan",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "488419": {
+    "species": "Chlorophyllum nothorachodes",
+    "author": "Vellinga & Lepp",
+    "protologo record0": "(2003)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "628861",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "628861": {
+    "species": "Chlorophyllum nothorhacodes",
+    "author": "Vellinga & Lepp",
+    "protologo record0": "Aust. Syst. Bot. 16 (3) : 363 (2003)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype CANB 601128",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "CANB 601128"
+        ]
+      }
+    ],
+    "locality raw": "Australian Capital Territory",
+    "country": "Australia",
+    "host": "in garden on rich soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "374428": {
+    "species": "Chlorophyllum olivieri",
+    "author": "(Barla) Vellinga",
+    "protologo record0": "Mycotaxon 83 : 416 (2002)",
+    "Basionym": "Lepiota olivieri",
+    "Basionym_author": "Barla",
+    "protologo basionym": "Bull. Soc. Mycol. France 2 : 113 (1886)",
+    "basionym recordID": "188038",
+    "typification": "Typification: Olivier, 27 Sept. 1885",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Olivier",
+          "27 Sept. 1885"
+        ]
+      }
+    ],
+    "locality raw": "France",
+    "country": "France",
+    "host": "on dead leaves and manure",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "823862": {
+    "species": "Chlorophyllum palaeotropicum",
+    "author": "Z.W. Ge & A. Jacobs",
+    "protologo record0": "MycoKeys 32 : 77 (2018)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype PREM 62142",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PREM 62142"
+        ]
+      }
+    ],
+    "locality raw": "Northern Province",
+    "country": "Sri Lanka",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "811336": {
+    "species": "Chlorophyllum pseudoglobossum",
+    "author": "J. Sarkar, A.K. Dutta & K. Acharya",
+    "protologo record0": "(2015)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "812903",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "812903": {
+    "species": "Chlorophyllum pseudoglobosum",
+    "author": "J. Sarkar, A.K. Dutta & K. Acharya",
+    "protologo record0": "Persoonia 34 : 233 (2015)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype CUH AM155",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "CUH AM155"
+        ]
+      }
+    ],
+    "locality raw": "West Bengal",
+    "country": "India",
+    "host": "among a few scattered Poaceae with clay in roadside",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "257410": {
+    "species": "Chlorophyllum rachodes",
+    "author": "(Vittad.) Vellinga",
+    "protologo record0": "(2002)",
+    "Basionym": "Agaricus rhacodes",
+    "Basionym_author": "Vittad.",
+    "protologo basionym": "Descr. fung. mang. Italia : 158 (1835)",
+    "basionym recordID": "449978",
+    "typification": "Typification: Tab. XX, fig. VII (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. XX",
+          "fig. VII (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "Italy",
+    "country": "Italy",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "374433",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "374433": {
+    "species": "Chlorophyllum rhacodes",
+    "author": "(Vittad.) Vellinga",
+    "protologo record0": "Mycotaxon 83 : 416 (2002)",
+    "Basionym": "Agaricus rhacodes",
+    "Basionym_author": "Vittad.",
+    "protologo basionym": "Descr. fung. mang. Italia : 158 (1835)",
+    "basionym recordID": "449978",
+    "typification": "Typification: Tab. XX, fig. VII (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. XX",
+          "fig. VII (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "Italy",
+    "country": "Italy",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "844577": {
+    "species": "Chlorophyllum sapukai",
+    "author": "Maubet, Campi & Robledo",
+    "protologo record0": "Pl. Fungal Syst. 67 (2) : 78 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype FACEN 004388",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "FACEN 004388"
+        ]
+      }
+    ],
+    "locality raw": "Paraguay",
+    "country": "Paraguay",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "115412": {
+    "species": "Chlorophyllum shimogaense",
+    "author": "Sathe & S.M. Kulk.",
+    "protologo record0": "Maharashtra Association for the Cultivation of Science, Monograph No. 1 Agaricales (Mushrooms) of South West India : 49 (1981)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Karnataka",
+    "country": "India",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "521311": {
+    "species": "Chlorophyllum sphaerosporum",
+    "author": "Z.W. Ge & Zhu L. Yang",
+    "protologo record0": "Mycotaxon 96 : 187 (2006)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype KUN 21185b",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "KUN 21185b"
+        ]
+      }
+    ],
+    "locality raw": "Nei Mongol",
+    "country": "中国",
+    "host": "on ground in forests dominated by Keteleeria and Xanthoceras",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "835117": {
+    "species": "Chlorophyllum squamulosum",
+    "author": "A.K. Dutta, Soum. Bera & K. Acharya",
+    "protologo record0": "Phytotaxa 451 (2) : 121 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype CUH AM705",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "CUH AM705"
+        ]
+      }
+    ],
+    "locality raw": "West Bengal",
+    "country": "India",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "374434": {
+    "species": "Chlorophyllum subfulvidiscum",
+    "author": "(Murrill) Vellinga",
+    "protologo record0": "Mycotaxon 83 : 416 (2002)",
+    "Basionym": "Lepiota subfulvidisca",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "Lloydia 6 : 221 (1943)",
+    "basionym recordID": "287611",
+    "typification": "",
+    "types": [],
+    "locality raw": "Florida",
+    "country": "United States",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "374435": {
+    "species": "Chlorophyllum subrhacodes",
+    "author": "(Murrill) Vellinga",
+    "protologo record0": "Mycotaxon 83 : 416 (2002)",
+    "Basionym": "Lepiota subrhacodes",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "Lloydia 6 : 223 (1943)",
+    "basionym recordID": "287616",
+    "typification": "",
+    "types": [],
+    "locality raw": "Florida",
+    "country": "United States",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "855028": {
+    "species": "Chlorophyllum tenue",
+    "author": "E.S. Falcão, Ferretti-Cisn., A.G.S. Silva-Filho, Koroiva & Wartchow",
+    "protologo record0": "European Journal of Taxonomy 976 : 185 (2025)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype JPB 66971",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "JPB 66971"
+        ]
+      }
+    ],
+    "locality raw": "Brazil",
+    "country": "Brazil",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "560140": {
+    "species": "Chlorophyllum venenatum",
+    "author": "(Bon) C. Lange & Vellinga",
+    "protologo record0": "Svampe 50 : 37 (2004)",
+    "Basionym": "Macrolepiota venenata",
+    "Basionym_author": "Bon",
+    "protologo basionym": "Docums Mycol. 9 (no. 35) : 13 (1979)",
+    "basionym recordID": "317073",
+    "typification": "",
+    "types": [],
+    "locality raw": "France",
+    "country": "France",
+    "host": "on dung of Bos taurus",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "626670": {
+    "species": "Chlorophyllum venenatum",
+    "author": "(Bon) C. Lange & Vellinga ex Víboras",
+    "protologo record0": "Micobotánica-Jaén 3 (4) : [1] (2008)",
+    "Basionym": "Macrolepiota venenata",
+    "Basionym_author": "Bon",
+    "protologo basionym": "Docums Mycol. 9 (no. 35) : 13 (1979)",
+    "basionym recordID": "317073",
+    "typification": "",
+    "types": [],
+    "locality raw": "France",
+    "country": "France",
+    "host": "on dung of Bos taurus",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "431565": {
+    "species": "Chlorophyllum viride",
+    "author": "(Pat.) Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (3) : 172 (1910)",
+    "Basionym": "Neurophyllum viride",
+    "Basionym_author": "Pat.",
+    "protologo basionym": "J. Bot. 2 : 406 (1888)",
+    "basionym recordID": "516928",
+    "typification": "Typification: Melinon, 1876",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Melinon",
+          "1876"
+        ]
+      }
+    ],
+    "locality raw": "French Guiana",
+    "country": "France",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phaeoclavulina viridis",
+    "_current_name_id": "512971",
+    "_family": "Gomphaceae",
+    "_order": "Gomphales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  }
+}

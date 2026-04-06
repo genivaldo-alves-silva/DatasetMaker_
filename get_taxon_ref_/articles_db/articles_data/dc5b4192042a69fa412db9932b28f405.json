@@ -1,0 +1,692 @@
+{
+  "doi": "10.11646/phytotaxa.175.4.4",
+  "title": "",
+  "authors": [],
+  "year": null,
+  "journal": "",
+  "gb_accessions": [
+    "AF310094",
+    "GU594161",
+    "KJ513296a",
+    "AF506473",
+    "KJ583207",
+    "AF310088",
+    "AF506445",
+    "FJ644289",
+    "KJ583212",
+    "AF506474",
+    "KJ513297a",
+    "KJ513292a",
+    "KJ807087a",
+    "AF506446",
+    "KJ807083a",
+    "KJ807075a",
+    "KJ807067a",
+    "AF506469",
+    "AF506468",
+    "AF506375",
+    "AF506465",
+    "KJ807070a",
+    "AY048880",
+    "KJ583225",
+    "AF506475",
+    "JQ349099",
+    "JQ349096",
+    "KJ583226",
+    "KJ807082a",
+    "AF506403",
+    "DQ234539",
+    "DQ200923",
+    "AF506460",
+    "KJ583221",
+    "KJ807074a",
+    "KC166692",
+    "KJ807072a",
+    "AF506433",
+    "KJ807073a",
+    "AF506458",
+    "EU118651",
+    "KJ807065a",
+    "AF506418",
+    "AF506405",
+    "KJ807088a",
+    "AF506407",
+    "AF506435",
+    "DQ389664",
+    "AF506476",
+    "AF506439",
+    "AY048877",
+    "AF506457",
+    "KJ807071a",
+    "AF506485",
+    "KJ807084a",
+    "KJ807089a",
+    "AF310102",
+    "KJ807086a",
+    "JF692200",
+    "AF506488",
+    "KJ513290a",
+    "AF506419",
+    "AF506397",
+    "KJ807079a",
+    "AF506450",
+    "JQ349110",
+    "KJ807081a",
+    "AF506426",
+    "AF506479",
+    "JQ349101",
+    "JQ349115",
+    "KJ807078a",
+    "KJ513294a",
+    "AF506449",
+    "AF506442",
+    "KJ807085a",
+    "AF506430",
+    "JQ349104",
+    "KJ807076a",
+    "JQ349113",
+    "AF506402",
+    "KJ807069a",
+    "KJ513291a",
+    "KJ807068a",
+    "AF506379",
+    "AF506453",
+    "AF506389",
+    "AF506422",
+    "KJ807080a",
+    "KJ807066a",
+    "JQ349089",
+    "AF506411",
+    "AF506434",
+    "KJ807077a",
+    "KJ583211",
+    "KC166693",
+    "KJ513295a",
+    "KM267724"
+  ],
+  "species_mentioned": [
+    "Heterobasidion annosum",
+    "W. campbellii",
+    "W. japonica",
+    "H. parviporum",
+    "W. rubella",
+    "W. biennis",
+    "Dentipellicula taiwaniana",
+    "W. cylindrospora",
+    "Dentipellis fragilis",
+    "W. subavellanea",
+    "W. casuarinicola",
+    "Picea sitchensis",
+    "Wrightoporia austrosinensis",
+    "D. parmastoi",
+    "W. bracei",
+    "W. lenta",
+    "Dentipellopsis dacrydicola"
+  ],
+  "vouchers_found": [
+    "Dai 9233",
+    "Dai 12550",
+    "Cui 7804",
+    "Dai 11484",
+    "Dai 11579",
+    "1008/77",
+    "Ryvarden 46609",
+    "0806/20",
+    "Dai 11492",
+    "Dai 11488",
+    "Podocarpus",
+    "Dai 7221",
+    "Dai 10462",
+    "04121/3",
+    "Dai 12004",
+    "Cui 8457",
+    "Dai 6914",
+    "Dai 10867",
+    "Cui 8509",
+    "06129/6",
+    "PRM915962",
+    "Cui 8513"
+  ],
+  "countries_found": [
+    "Jamaica",
+    "Canada",
+    "Norway",
+    "Argentina",
+    "Spain",
+    "Turkey",
+    "Japan",
+    "Russia",
+    "Germany",
+    "France",
+    "USA",
+    "Australia",
+    "Finland",
+    "China",
+    "Sweden",
+    "Korea",
+    "Uganda",
+    "Denmark",
+    "Puerto Rico",
+    "Colombia",
+    "Romania"
+  ],
+  "has_gb_table": true,
+  "has_supplementary": false,
+  "pdf_downloaded": true,
+  "json_path": "/home/genivaldo/DatasetMaker_/get_taxon_ref_/articles_db/articles_data/dc5b4192042a69fa412db9932b28f405.json",
+  "pdf_path": "/home/genivaldo/DatasetMaker_/get_taxon_ref_/downloads/10.11646_phytotaxa.175.4.4.pdf",
+  "md_path": "",
+  "processed_date": "2026-03-14T16:56:24.318139",
+  "source": "",
+  "gb_table": [
+    {
+      "species": "",
+      "voucher": "",
+      "country": "Russia",
+      "gb_its": "AF506402",
+      "gb_nlsu": "AF506402"
+    },
+    {
+      "species": "",
+      "voucher": "",
+      "country": "Germany",
+      "gb_its": "AF506403",
+      "gb_nlsu": "AF506403"
+    },
+    {
+      "species": "",
+      "voucher": "",
+      "country": "Sweden",
+      "gb_its": "AF506397",
+      "gb_nlsu": "AF506397"
+    },
+    {
+      "species": "",
+      "voucher": "",
+      "country": "Romania",
+      "gb_its": "AF506405",
+      "gb_nlsu": "AF506405"
+    },
+    {
+      "species": "",
+      "voucher": "",
+      "country": "Sweden",
+      "gb_its": "AF506407",
+      "gb_nlsu": "AF506407"
+    },
+    {
+      "species": "",
+      "voucher": "",
+      "country": "Sweden",
+      "gb_its": "AF506375",
+      "gb_nlsu": "AF506375"
+    },
+    {
+      "species": "",
+      "voucher": "",
+      "country": "China",
+      "gb_its": "AF506433",
+      "gb_nlsu": "AF506433"
+    },
+    {
+      "species": "",
+      "voucher": "",
+      "country": "China",
+      "gb_its": "AY048880",
+      "gb_nlsu": "AY048880"
+    },
+    {
+      "species": "",
+      "voucher": "",
+      "country": "Jamaica",
+      "gb_its": "AF506379",
+      "gb_nlsu": "AF506379"
+    },
+    {
+      "species": "Picea sitchensis",
+      "voucher": "",
+      "country": "Canada",
+      "gb_its": "DQ200923",
+      "gb_nlsu": "DQ234539"
+    },
+    {
+      "species": "Picea sitchensis",
+      "voucher": "Podocarpus",
+      "country": "China",
+      "gb_its": "KJ583207",
+      "gb_nlsu": "KJ583221"
+    },
+    {
+      "species": "Picea sitchensis",
+      "voucher": "",
+      "country": "Sweden",
+      "gb_its": "DQ389664",
+      "gb_nlsu": "DQ389664"
+    },
+    {
+      "species": "Dentipellopsis dacrydicola",
+      "voucher": "Dai 12004",
+      "country": "China",
+      "gb_its": "JQ349104",
+      "gb_nlsu": "JQ349089"
+    },
+    {
+      "species": "Dentipellis fragilis",
+      "voucher": "Dai 12550",
+      "country": "China",
+      "gb_its": "JQ349110",
+      "gb_nlsu": "JQ349096"
+    },
+    {
+      "species": "D. parmastoi",
+      "voucher": "Cui 8513",
+      "country": "China",
+      "gb_its": "JQ349113",
+      "gb_nlsu": "JQ349099"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "Dai 10867",
+      "country": "China",
+      "gb_its": "JQ349115",
+      "gb_nlsu": "JQ349101"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "France",
+      "gb_its": "AF506389",
+      "gb_nlsu": "AF506389"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "Canada",
+      "gb_its": "AF506430",
+      "gb_nlsu": "AF506430"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "Norway",
+      "gb_its": "AY048877",
+      "gb_nlsu": "AY048877"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "Spain",
+      "gb_its": "AF310088",
+      "gb_nlsu": "AF310088"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "China",
+      "gb_its": "AF506434",
+      "gb_nlsu": "AF506434"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "China",
+      "gb_its": "AF506439",
+      "gb_nlsu": "AF506439"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "Denmark",
+      "gb_its": "AF310094",
+      "gb_nlsu": "AF310094"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "Puerto Rico",
+      "gb_its": "AF506442",
+      "gb_nlsu": "AF506442"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "Puerto Rico",
+      "gb_its": "AF506445",
+      "gb_nlsu": "AF506445"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "Colombia",
+      "gb_its": "AF506446",
+      "gb_nlsu": "AF506446"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "Puerto Rico",
+      "gb_its": "AF506435",
+      "gb_nlsu": "AF506435"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "",
+      "gb_its": "AF506450",
+      "gb_nlsu": "AF506450"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "Norway",
+      "gb_its": "AF506449",
+      "gb_nlsu": "AF506449"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "Sweden",
+      "gb_its": "AF506453",
+      "gb_nlsu": "AF506453"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "Russia",
+      "gb_its": "AF506457",
+      "gb_nlsu": "AF506457"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "Canada",
+      "gb_its": "AF506458",
+      "gb_nlsu": "AF506458"
+    },
+    {
+      "species": "Dentipellicula taiwaniana",
+      "voucher": "",
+      "country": "Russia",
+      "gb_its": "AF506460",
+      "gb_nlsu": "AF506460"
+    },
+    {
+      "species": "Heterobasidion annosum",
+      "voucher": "06129/6",
+      "country": "Russia",
+      "gb_its": "KJ583211",
+      "gb_nlsu": "KJ583225"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "04121/3",
+      "country": "Finland",
+      "gb_its": "KJ583212",
+      "gb_nlsu": "KJ583226"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "",
+      "country": "Sweden",
+      "gb_its": "AF506411",
+      "gb_nlsu": "AF506411"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "",
+      "country": "Sweden",
+      "gb_its": "AF310102",
+      "gb_nlsu": "AF310102"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "",
+      "country": "Sweden",
+      "gb_its": "AF506418",
+      "gb_nlsu": "AF506418"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "",
+      "country": "USA",
+      "gb_its": "AF506419",
+      "gb_nlsu": "AF506419"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "",
+      "country": "Norway",
+      "gb_its": "AF506422",
+      "gb_nlsu": "AF506422"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "",
+      "country": "Sweden",
+      "gb_its": "EU118651",
+      "gb_nlsu": "EU118651"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "",
+      "country": "Sweden",
+      "gb_its": "AF506426",
+      "gb_nlsu": "AF506426"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "",
+      "country": "Sweden",
+      "gb_its": "AF506465",
+      "gb_nlsu": "AF506465"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "",
+      "country": "Australia",
+      "gb_its": "AF506468",
+      "gb_nlsu": "AF506468"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "",
+      "country": "Sweden",
+      "gb_its": "AF506469",
+      "gb_nlsu": "AF506469"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "",
+      "country": "Turkey",
+      "gb_its": "AF506473",
+      "gb_nlsu": "AF506473"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "",
+      "country": "Canada",
+      "gb_its": "AF506475",
+      "gb_nlsu": "AF506475"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "",
+      "country": "Sweden",
+      "gb_its": "AF506474",
+      "gb_nlsu": "AF506474"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "",
+      "country": "Sweden",
+      "gb_its": "AF506476",
+      "gb_nlsu": "AF506476"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "",
+      "country": "Romania",
+      "gb_its": "AF506479",
+      "gb_nlsu": "AF506479"
+    },
+    {
+      "species": "H. parviporum",
+      "voucher": "",
+      "country": "Norway",
+      "gb_its": "AF506485",
+      "gb_nlsu": "AF506485"
+    },
+    {
+      "species": "Wrightoporia austrosinensis",
+      "voucher": "Dai 11579",
+      "country": "China",
+      "gb_its": "KJ807065a",
+      "gb_nlsu": "KJ807073a"
+    },
+    {
+      "species": "Wrightoporia austrosinensis",
+      "voucher": "",
+      "country": "Jamaica",
+      "gb_its": "AF506488",
+      "gb_nlsu": "AF506488"
+    },
+    {
+      "species": "W. biennis",
+      "voucher": "Cui 8457",
+      "country": "China",
+      "gb_its": "KJ807066a",
+      "gb_nlsu": "KJ807074a"
+    },
+    {
+      "species": "W. biennis",
+      "voucher": "Cui 8509",
+      "country": "China",
+      "gb_its": "KJ807067a",
+      "gb_nlsu": "KJ807075a"
+    },
+    {
+      "species": "W. bracei",
+      "voucher": "1008/77",
+      "country": "Argentina",
+      "gb_its": "KM267724",
+      "gb_nlsu": "KJ807076a"
+    },
+    {
+      "species": "W. campbellii",
+      "voucher": "0806/20",
+      "country": "Jamaica",
+      "gb_its": "JF692200",
+      "gb_nlsu": "KJ807077a"
+    },
+    {
+      "species": "W. casuarinicola",
+      "voucher": "Dai 6914",
+      "country": "China",
+      "gb_its": "KJ807068a"
+    },
+    {
+      "species": "W. cylindrospora",
+      "voucher": "PRM915962",
+      "country": "USA",
+      "gb_its": "GU594161",
+      "gb_nlsu": "KJ807078a"
+    },
+    {
+      "species": "W. cylindrospora",
+      "voucher": "Ryvarden 46609",
+      "country": "USA",
+      "gb_its": "KJ513290a",
+      "gb_nlsu": "KJ807079a"
+    },
+    {
+      "species": "W. cylindrospora",
+      "voucher": "",
+      "country": "Japan",
+      "gb_its": "KJ807069a",
+      "gb_nlsu": "KJ807080a"
+    },
+    {
+      "species": "W. japonica",
+      "voucher": "Dai 7221",
+      "country": "China",
+      "gb_its": "FJ644289"
+    },
+    {
+      "species": "W. japonica",
+      "voucher": "",
+      "country": "Korea",
+      "gb_its": "KC166692",
+      "gb_nlsu": "KC166692"
+    },
+    {
+      "species": "W. japonica",
+      "voucher": "",
+      "country": "Korea",
+      "gb_its": "KC166693",
+      "gb_nlsu": "KC166692"
+    },
+    {
+      "species": "W. lenta",
+      "voucher": "Cui 7804",
+      "country": "China",
+      "gb_its": "KJ513292a",
+      "gb_nlsu": "KJ807081a"
+    },
+    {
+      "species": "W. lenta",
+      "voucher": "Dai 10462",
+      "country": "China",
+      "gb_its": "KJ513291a",
+      "gb_nlsu": "KJ807082a"
+    },
+    {
+      "species": "W. lenta",
+      "voucher": "",
+      "country": "Uganda",
+      "gb_its": "KJ807070a",
+      "gb_nlsu": "KJ807083a"
+    },
+    {
+      "species": "W. rubella",
+      "voucher": "Dai 9233",
+      "country": "China",
+      "gb_its": "KJ807071a",
+      "gb_nlsu": "KJ807084a"
+    },
+    {
+      "species": "W. subavellanea",
+      "voucher": "Dai 11484",
+      "country": "China",
+      "gb_its": "KJ513295a",
+      "gb_nlsu": "KJ807085a"
+    },
+    {
+      "species": "W. subavellanea",
+      "voucher": "Dai 11488",
+      "country": "China",
+      "gb_its": "KJ513296a",
+      "gb_nlsu": "KJ807086a"
+    },
+    {
+      "species": "W. subavellanea",
+      "voucher": "Dai 11492",
+      "country": "China",
+      "gb_its": "KJ513297a",
+      "gb_nlsu": "KJ807087a"
+    },
+    {
+      "species": "W. subavellanea",
+      "voucher": "",
+      "country": "Japan",
+      "gb_its": "KJ807072a",
+      "gb_nlsu": "KJ807088a"
+    },
+    {
+      "species": "W. subavellanea",
+      "voucher": "",
+      "country": "",
+      "gb_its": "KJ513294a",
+      "gb_nlsu": "KJ807089a"
+    }
+  ]
+}

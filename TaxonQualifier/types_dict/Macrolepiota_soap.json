@@ -1,0 +1,4133 @@
+{
+  "823875": {
+    "species": "Macrolepiota aberdarense",
+    "author": "Mbaluto & Otieno",
+    "protologo record0": "(2018)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "852589",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "852589": {
+    "species": "Macrolepiota aberdarensis",
+    "author": "Mbaluto & Otieno",
+    "protologo record0": "Curr. Res. Envir. & App. Myc. 8 (2) : 249 (2018)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: MAT08",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "MAT08"
+        ]
+      }
+    ],
+    "locality raw": "Kenya",
+    "country": "Kenya",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "333536": {
+    "species": "Macrolepiota abruptibulba",
+    "author": "(R. Heim) Heinem.",
+    "protologo record0": "Bull. Jard. Bot. natn. Belg. 39 : 218 (1969)",
+    "Basionym": "Leucocoprinus abruptibulbus",
+    "Basionym_author": "R. Heim",
+    "protologo basionym": "Revue Mycol. 33 (2-3) : 213 (1968)",
+    "basionym recordID": "333325",
+    "typification": "Holotype MNHNP LM3001",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MNHNP LM3001"
+        ]
+      }
+    ],
+    "locality raw": "Central African Republic",
+    "country": "Ködörösêse tî Bêafrîka / République centrafricaine",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum abruptibulbum",
+    "_current_name_id": "374386",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "299964": {
+    "species": "Macrolepiota affinis",
+    "author": "(Velen.) Bon",
+    "protologo record0": "Docums Mycol. 7 (nos 27-28) : 13 (1977)",
+    "Basionym": "Lepiota affinis",
+    "Basionym_author": "Velen.",
+    "protologo basionym": "České Houby 2 : 208 (1920)",
+    "basionym recordID": "255977",
+    "typification": "",
+    "types": [],
+    "locality raw": "Czech Republic",
+    "country": "Česko",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "333537": {
+    "species": "Macrolepiota africana",
+    "author": "(R. Heim) Heinem.",
+    "protologo record0": "Bull. Jard. Bot. natn. Belg. 39 : 207 (1969)",
+    "Basionym": "Leucocoprinus africanus",
+    "Basionym_author": "R. Heim",
+    "protologo basionym": "Revue Mycol. 33 (2-3) : 212 (1968)",
+    "basionym recordID": "333326",
+    "typification": "Holotype MNHNP LM1006",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MNHNP LM1006"
+        ]
+      }
+    ],
+    "locality raw": "Central African Republic",
+    "country": "Ködörösêse tî Bêafrîka / République centrafricaine",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "333538": {
+    "species": "Macrolepiota albida",
+    "author": "Heinem.",
+    "protologo record0": "Bull. Jard. Bot. natn. Belg. 39 : 222 (1969)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "103547": {
+    "species": "Macrolepiota alborubescens",
+    "author": "(Hongo) Hongo",
+    "protologo record0": "Trans. Mycol. Soc. Japan 27 (1) : 107 (1986)",
+    "Basionym": "Lepiota alborubescens",
+    "Basionym_author": "Hongo",
+    "protologo basionym": "Mem. Fac. Educ. Shiga Univ. 12 : 40 (1962)",
+    "basionym recordID": "333111",
+    "typification": "Holotype TNS 237365",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "TNS 237365"
+        ]
+      }
+    ],
+    "locality raw": "Japan",
+    "country": "Japan",
+    "host": "on decaying straw of Oryza sativa",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum alborubescens",
+    "_current_name_id": "374391",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "317068": {
+    "species": "Macrolepiota albuminosa",
+    "author": "(Berk.) Pegler",
+    "protologo record0": "Kew Bull. 27 (1) : 189 (1972)",
+    "Basionym": "Agaricus albuminosus",
+    "Basionym_author": "Berk.",
+    "protologo basionym": "London J. Bot. 6 : 482 (1847)",
+    "basionym recordID": "472230",
+    "typification": "Holotype K(M), Gardner 51",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "Gardner 51"
+        ]
+      }
+    ],
+    "locality raw": "Sri Lanka",
+    "country": "Sri Lanka",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "333539": {
+    "species": "Macrolepiota ampliospora",
+    "author": "Sosin",
+    "protologo record0": "Notul. syst. Sect. cryptog. Inst. bot. Acad. Sci. U.S.S.R. 13 : 219 (1960)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Ukraine",
+    "country": "Ukraine",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "845642": {
+    "species": "Macrolepiota bharadwajii",
+    "author": "P.V. Sarma, Danteswari, Mahadevak., Chandran. & Podile",
+    "protologo record0": "Persoonia 51 : 339 (2023)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype KFRIMH 1501",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "KFRIMH 1501"
+        ]
+      }
+    ],
+    "locality raw": "Telangana",
+    "country": "India",
+    "host": "on soil, associated with Eucalyptus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "104998": {
+    "species": "Macrolepiota bohemica",
+    "author": "(Wichanský) Krieglst. & Pázmány",
+    "protologo record0": "Z. Mykol. 51 (1) : 53 (1985)",
+    "Basionym": "Lepiota bohemica",
+    "Basionym_author": "Wichanský",
+    "protologo basionym": "C.C.H. 38 : 103 (1961)",
+    "basionym recordID": "283121",
+    "typification": "",
+    "types": [],
+    "locality raw": "former Czechoslovakia",
+    "country": "Česko",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum brunneum",
+    "_current_name_id": "374393",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "105490": {
+    "species": "Macrolepiota bohemica",
+    "author": "(Wichanský) Krieglst.",
+    "protologo record0": "Z. Mykol. 47 (1) : 83 (1981)",
+    "Basionym": "Lepiota bohemica",
+    "Basionym_author": "Wichanský",
+    "protologo basionym": "C.C.H. 38 : 103 (1961)",
+    "basionym recordID": "283121",
+    "typification": "",
+    "types": [],
+    "locality raw": "former Czechoslovakia",
+    "country": "Česko",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "106996": {
+    "species": "Macrolepiota bonaerensis",
+    "author": "(Speg.) Raithelh.",
+    "protologo record0": "Metrodiana 2 : 13 (1983)",
+    "Basionym": "Agaricus bonaerensis",
+    "Basionym_author": "Speg.",
+    "protologo basionym": "Anal. Soc. cient. argent. 9 (6) : [278] (1880)",
+    "basionym recordID": "477227",
+    "typification": "Typification: Spegazzini, Apr. 1880",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Spegazzini",
+          "Apr. 1880"
+        ]
+      }
+    ],
+    "locality raw": "Buenos Aires",
+    "country": "Argentina",
+    "host": "on soil, associated with Poaceae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "269567": {
+    "species": "Macrolepiota bonaërensis",
+    "author": "(Speg.) Raithelh.",
+    "protologo record0": "(1983)",
+    "Basionym": "Agaricus bonaerensis",
+    "Basionym_author": "Speg.",
+    "protologo basionym": "Anal. Soc. cient. argent. 9 (6) : [278] (1880)",
+    "basionym recordID": "477227",
+    "typification": "Typification: Spegazzini, Apr. 1880",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Spegazzini",
+          "Apr. 1880"
+        ]
+      }
+    ],
+    "locality raw": "Buenos Aires",
+    "country": "Argentina",
+    "host": "on soil, associated with Poaceae",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "106996",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "299965": {
+    "species": "Macrolepiota bonaerensis",
+    "author": "(Speg.) Singer",
+    "protologo record0": "Lilloa 22 : 417 (1951)",
+    "Basionym": "Agaricus bonaerensis",
+    "Basionym_author": "Speg.",
+    "protologo basionym": "Anal. Soc. cient. argent. 9 (6) : [278] (1880)",
+    "basionym recordID": "477227",
+    "typification": "Typification: Spegazzini, Apr. 1880",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Spegazzini",
+          "Apr. 1880"
+        ]
+      }
+    ],
+    "locality raw": "Buenos Aires",
+    "country": "Argentina",
+    "host": "on soil, associated with Poaceae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "133129": {
+    "species": "Macrolepiota brasiliensis",
+    "author": "(Rick) Raithelh.",
+    "protologo record0": "Metrodiana 15 (3) : 64 (1988)",
+    "Basionym": "Lepiota permixta var. brasiliensis",
+    "Basionym_author": "Rick",
+    "protologo basionym": "Brotéria 6 (no. 2) : 68 (1907)",
+    "basionym recordID": "184126",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "572590": {
+    "species": "Macrolepiota brevispora",
+    "author": "R.L. Zhao & J.X. Li",
+    "protologo record0": "Fungal Diversity 135 : 834 (2025)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype HMAS 353930",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "HMAS 353930"
+        ]
+      }
+    ],
+    "locality raw": "Zhejiang",
+    "country": "中国",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "436574": {
+    "species": "Macrolepiota brunnea",
+    "author": "(Farl. & Burt) Wasser",
+    "protologo record0": "Libri Botanici 9 : 82 (1993)",
+    "Basionym": "Lepiota brunnea",
+    "Basionym_author": "Farl. & Burt",
+    "protologo basionym": "Icones Farlowianae 8 : pl. 6 (1929)",
+    "basionym recordID": "259012",
+    "typification": "",
+    "types": [],
+    "locality raw": "North America",
+    "country": "North America",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum brunneum",
+    "_current_name_id": "374393",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "373850": {
+    "species": "Macrolepiota brunnescens",
+    "author": "Vellinga",
+    "protologo record0": "Mycotaxon 85 : 184 (2003)",
+    "Basionym": "Volvolepiota albida",
+    "Basionym_author": "Singer",
+    "protologo basionym": "Bol. Soc. Argent. Bot. 8 (1) : 12 (1959)",
+    "basionym recordID": "340974",
+    "typification": "",
+    "types": [],
+    "locality raw": "Argentina",
+    "country": "Argentina",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "106997": {
+    "species": "Macrolepiota campestris",
+    "author": "Lebedeva ex Samgina",
+    "protologo record0": "Botanicheskie Materialy Gerbariya Instituta Botaniki, Akademiya Nauk Kazakhskoĭ SSR 13 : 82 (1983)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Kazakhstan",
+    "country": "Kazakhstan",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "844529": {
+    "species": "Macrolepiota capelariae",
+    "author": "A.D. Souza, C.C. Nascim. & Menolli",
+    "protologo record0": "Phytotaxa 576 (3) : 270 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype SP 513052",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "SP 513052"
+        ]
+      }
+    ],
+    "locality raw": "São Paulo",
+    "country": "Brazil",
+    "host": "on soil in forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "854146": {
+    "species": "Macrolepiota capelariae var. sororivulpina",
+    "author": "E.S. Falcão & Wartchow",
+    "protologo record0": "Contr. Bot. Univ. Cluj-Napoca, Grad. Bot. 59 : 50 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype JPB 67027",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "JPB 67027"
+        ]
+      }
+    ],
+    "locality raw": "Pernambuco",
+    "country": "Brasil",
+    "host": "on soil",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota capelariae",
+    "_current_name_id": "844529",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "129789": {
+    "species": "Macrolepiota citrinascens",
+    "author": "Vasas",
+    "protologo record0": "Annls hist.-nat. Mus. natn. hung. 81 : 45 (1990)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BP 84366",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BP 84366"
+        ]
+      }
+    ],
+    "locality raw": "Hungary",
+    "country": "Hungary",
+    "host": "on fallen needles of Picea abies",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "443372": {
+    "species": "Macrolepiota clelandii",
+    "author": "Grgur.",
+    "protologo record0": "Larger Fungi of South Australia : 443 (1997)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype AD-C 12378",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "AD-C 12378"
+        ]
+      }
+    ],
+    "locality raw": "New South Wales",
+    "country": "Australia",
+    "host": "amongst Poaceae under trees, usually eucalypts or Pinus radiata",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "318604": {
+    "species": "Macrolepiota colombiana",
+    "author": "Franco-Mol.",
+    "protologo record0": "Actualid. biol. 21 (no. 70) : 14 (1999)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype HUA, Franco-Molano 1636",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "HUA",
+          "Franco-Molano 1636"
+        ]
+      }
+    ],
+    "locality raw": "Colombia",
+    "country": "Colombia",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "307523": {
+    "species": "Macrolepiota crustosa",
+    "author": "L.P. Shao & C.T. Xiang",
+    "protologo record0": "Journal of North-Eastern Forestry Institute 8 (4) : 35 (1980)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Heilongjiang",
+    "country": "中国",
+    "host": "on ground",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "821449": {
+    "species": "Macrolepiota cyanolamellata",
+    "author": "Fazolino, B.E. Lechner & Suaza Bland.",
+    "protologo record0": "Mycologia 110 (5) : 934 (2018)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype ICN 187662",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "ICN 187662"
+        ]
+      }
+    ],
+    "locality raw": "Rio Grande do Sul",
+    "country": "Brazil",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "518349": {
+    "species": "Macrolepiota detersa",
+    "author": "Z.W. Ge, Zhu L. Yang & Vellinga",
+    "protologo record0": "Fungal Diversity 45 : 83 (2010)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype HKAS 55306|http://www.ncbi.nlm.nih.gov/nuccore/HM125510",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "HKAS 55306|http://www.ncbi.nlm.nih.gov/nuccore/HM125510"
+        ]
+      }
+    ],
+    "locality raw": "Anhui",
+    "country": "中国",
+    "host": "on ground",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "333540": {
+    "species": "Macrolepiota dolichaula",
+    "author": "(Berk. & Broome) Pegler & R.W. Rayner",
+    "protologo record0": "Kew Bull. 23 (2) : 365 (1969)",
+    "Basionym": "Agaricus dolichaulus",
+    "Basionym_author": "Berk. & Broome",
+    "protologo basionym": "Trans. Linn. Soc. London 27 (2) : 150 (1870)",
+    "basionym recordID": "477230",
+    "typification": "Holotype K(M), Gardner 694",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "Gardner 694"
+        ]
+      }
+    ],
+    "locality raw": "Sri Lanka",
+    "country": "Sri Lanka",
+    "host": "on soil, associated with Poaceae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "823088": {
+    "species": "Macrolepiota dunensis",
+    "author": "D.S. Freitas & Menolli",
+    "protologo record0": "Mycotaxon 134 (2) : 228 (2019)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype SP 466944",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "SP 466944"
+        ]
+      }
+    ],
+    "locality raw": "Rio Grande do Norte",
+    "country": "Brasil",
+    "host": "on sandy soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Volvolepiota dunensis",
+    "_current_name_id": "572734",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "488418": {
+    "species": "Macrolepiota eucharis",
+    "author": "Vellinga & Halling",
+    "protologo record0": "Aust. Syst. Bot. 16 (3) : 368 (2003)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype WEMB E4506",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "WEMB E4506"
+        ]
+      }
+    ],
+    "locality raw": "Queensland",
+    "country": "Australia",
+    "host": "on soil, associated with Eucalyptus grandis and Allocasuarina littoralis",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Volvolepiota eucharis",
+    "_current_name_id": "572735",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "838685": {
+    "species": "Macrolepiota excelsa",
+    "author": "Vellinga, Sysouph., Thongkl. & K.D. Hyde",
+    "protologo record0": "Diversity 13 (12, no. 666) : 26 (2021)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype UC, Vellinga 3572",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "UC",
+          "Vellinga 3572"
+        ]
+      }
+    ],
+    "locality raw": "Thailand",
+    "country": "Thailand",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "299967": {
+    "species": "Macrolepiota excoriata",
+    "author": "(Schaeff.) Wasser",
+    "protologo record0": "Ukr. bot. Zh. 35 (5) : 516 (1978)",
+    "Basionym": "Agaricus excoriatus",
+    "Basionym_author": "Schaeff.",
+    "protologo basionym": "Fung. bavar. palat. nasc. 4 : 10 (1774)",
+    "basionym recordID": "463139",
+    "typification": "Typification: Tab. XVIII & XIX (Schaeffer, Fung. Bavar. Palat., vol. 1. 1762)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. XVIII & XIX (Schaeffer",
+          "Fung. Bavar. Palat.",
+          "vol. 1. 1762)"
+        ]
+      }
+    ],
+    "locality raw": "Germany",
+    "country": "Germany",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "532405": {
+    "species": "Macrolepiota excoriata",
+    "author": "(Schaeff.) M.M. Moser",
+    "protologo record0": "Kl. Krypt.-Fl. 2b : 130 (1955)",
+    "Basionym": "Agaricus excoriatus",
+    "Basionym_author": "Schaeff.",
+    "protologo basionym": "Fung. bavar. palat. nasc. 4 : 10 (1774)",
+    "basionym recordID": "463139",
+    "typification": "Typification: Tab. XVIII & XIX (Schaeffer, Fung. Bavar. Palat., vol. 1. 1762)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. XVIII & XIX (Schaeffer",
+          "Fung. Bavar. Palat.",
+          "vol. 1. 1762)"
+        ]
+      }
+    ],
+    "locality raw": "Germany",
+    "country": "Germany",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "352914": {
+    "species": "Macrolepiota excoriata f. bariae",
+    "author": "Babos",
+    "protologo record0": "(1974)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "f.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "539107",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "539107": {
+    "species": "Macrolepiota excoriata f. barlae",
+    "author": "Babos",
+    "protologo record0": "Annls hist.-nat. Mus. natn. hung. 66 : 72 (1974)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Hungary",
+    "country": "Hungary",
+    "host": "",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota excoriata",
+    "_current_name_id": "299967",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "429413": {
+    "species": "Macrolepiota excoriata f. excoriata",
+    "author": "(Schaeff.) M.M. Moser",
+    "protologo record0": "Kl. Krypt.-Fl. 35 (5) : 516 (1955)",
+    "Basionym": "Agaricus excoriatus",
+    "Basionym_author": "Schaeff.",
+    "protologo basionym": "Fung. bavar. palat. nasc. 4 : 10 (1774)",
+    "basionym recordID": "463139",
+    "typification": "Typification: Tab. XVIII & XIX (Schaeffer, Fung. Bavar. Palat., vol. 1. 1762)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. XVIII & XIX (Schaeffer",
+          "Fung. Bavar. Palat.",
+          "vol. 1. 1762)"
+        ]
+      }
+    ],
+    "locality raw": "Germany",
+    "country": "Germany",
+    "host": "",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "417518": {
+    "species": "Macrolepiota excoriata var. excoriata",
+    "author": "(Schaeff.) M.M. Moser",
+    "protologo record0": "Kl. Krypt.-Fl. 35 (5) : 516 (1955)",
+    "Basionym": "Agaricus excoriatus",
+    "Basionym_author": "Schaeff.",
+    "protologo basionym": "Fung. bavar. palat. nasc. 4 : 10 (1774)",
+    "basionym recordID": "463139",
+    "typification": "Typification: Tab. XVIII & XIX (Schaeffer, Fung. Bavar. Palat., vol. 1. 1762)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. XVIII & XIX (Schaeffer",
+          "Fung. Bavar. Palat.",
+          "vol. 1. 1762)"
+        ]
+      }
+    ],
+    "locality raw": "Germany",
+    "country": "Germany",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "565537": {
+    "species": "Macrolepiota excoriata var. heimii",
+    "author": "(Locq. ex Bon) E. Ludw.",
+    "protologo record0": "Pilzkompendium 3 : 585 (2012)",
+    "Basionym": "Macrolepiota heimii",
+    "Basionym_author": "Locq. ex Bon",
+    "protologo basionym": "Docums Mycol. 11 (no. 43) : 73 (1981)",
+    "basionym recordID": "111634",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota excoriata",
+    "_current_name_id": "299967",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "117620": {
+    "species": "Macrolepiota excoriata var. rubescens",
+    "author": "(L.M. Dufour) Bon",
+    "protologo record0": "Docums Mycol. 11 (no. 43) : 70 (1981)",
+    "Basionym": "Lepiota excoriata var. rubescens",
+    "Basionym_author": "L.M. Dufour",
+    "protologo basionym": "Rev. gén. Bot. 25 : 498 (1913)",
+    "basionym recordID": "138767",
+    "typification": "Typification: Dufour, Jan. 1910",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Dufour",
+          "Jan. 1910"
+        ]
+      }
+    ],
+    "locality raw": "Madagascar",
+    "country": "Madagascar",
+    "host": "on soil, associated with Poaceae",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota rubescens",
+    "_current_name_id": "105491",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "352913": {
+    "species": "Macrolepiota excoriata var. squarrosa",
+    "author": "(Maire) Wasser",
+    "protologo record0": "Ukr. bot. Zh. 35 (5) : 516 (1978)",
+    "Basionym": "Lepiota excoriata var. squarrosa",
+    "Basionym_author": "Maire",
+    "protologo basionym": "Bull. Acad. R. Sci. Belg. 59 (1) : 37 (1927)",
+    "basionym recordID": "264482",
+    "typification": "",
+    "types": [],
+    "locality raw": "Mauritania",
+    "country": "Mauritania",
+    "host": "on sand",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota excoriata",
+    "_current_name_id": "299967",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "652418": {
+    "species": "Macrolepiota excoriata var. subsquarrosa",
+    "author": "(Locq.) Bon",
+    "protologo record0": "Bull. Soc. Mycol. France 86 (1) : 97 (1970)",
+    "Basionym": "Leucocoprinus subsquarrosus",
+    "Basionym_author": "Locq.",
+    "protologo basionym": "Revue Mycol. 17 (1) : 54 (1952)",
+    "basionym recordID": "282730",
+    "typification": "Typification: Fig. 9 (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Fig. 9 (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "France",
+    "country": "France",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "133130": {
+    "species": "Macrolepiota fornica",
+    "author": "Raithelh.",
+    "protologo record0": "Metrodiana 15 (3) : 61 (1988)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Argentina",
+    "country": "Argentina",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "317069": {
+    "species": "Macrolepiota fuligineosquarrosa",
+    "author": "Malençon",
+    "protologo record0": "Beih. Sydowia 8 : 261 (1979)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype colln Malençon 5283",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "colln Malençon 5283"
+        ]
+      }
+    ],
+    "locality raw": "Morocco",
+    "country": "Morocco",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Lepiota fuligineosquarrosa",
+    "_current_name_id": "648519",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "467929": {
+    "species": "Macrolepiota fuligineosquarrosa f. fuligineosquarrosa",
+    "author": "Malençon",
+    "protologo record0": "Beih. Sydowia 8 : 261 (1979)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "467707": {
+    "species": "Macrolepiota fuligineosquarrosa f. psammophila",
+    "author": "(Guinb.) Migl.",
+    "protologo record0": "Parliamo di Funghi 70 : 4 (1999)",
+    "Basionym": "Macrolepiota psammophila",
+    "Basionym_author": "Guinb.",
+    "protologo basionym": "Docums Mycol. 26 (no. 102) : 1 (1996)",
+    "basionym recordID": "415066",
+    "typification": "Holotype colln Bon, Guinberteau 95111101",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "colln Bon",
+          "Guinberteau 95111101"
+        ]
+      }
+    ],
+    "locality raw": "France",
+    "country": "France",
+    "host": "in sand dunes",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "317070": {
+    "species": "Macrolepiota fuliginosa",
+    "author": "(Barla) Bon",
+    "protologo record0": "Docums Mycol. 7 (nos 27-28) : 20 (1977)",
+    "Basionym": "Lepiota procera var. fuliginosa",
+    "Basionym_author": "Barla",
+    "protologo basionym": "Flore mycologique illustrée. Les champignons des Alpes-Maritimes : 21 (1888)",
+    "basionym recordID": "373498",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      },
+      {
+        "type_of_type": "Lectotype",
+        "material": [
+          "Pl. 9",
+          "fig. 5 (Barla",
+          "Flore mycologique illustr&#233;e",
+          "1888"
+        ]
+      },
+      {
+        "type_of_type": "Epitype",
+        "material": [
+          "TO AFM11"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "519929": {
+    "species": "Macrolepiota gasteroidea",
+    "author": "T. Lebel",
+    "protologo record0": "Mycologia 104 (2) : 511 (2012)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype PERTH, Malajczuk H0052",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PERTH",
+          "Malajczuk H0052"
+        ]
+      }
+    ],
+    "locality raw": "Western Australia",
+    "country": "Australia",
+    "host": "in Eucalyptus gomphocephala woodland",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "466232": {
+    "species": "Macrolepiota globosa",
+    "author": "Mossebo",
+    "protologo record0": "Mycotaxon 76 : 268 (2000)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype Yaounde Mossebo 98-1",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "Yaounde Mossebo 98-1"
+        ]
+      }
+    ],
+    "locality raw": "Cameroon",
+    "country": "Cameroon",
+    "host": "on humus in shade under tree",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum globosum",
+    "_current_name_id": "374394",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "299969": {
+    "species": "Macrolepiota gracilenta",
+    "author": "(Krombh.) Wasser",
+    "protologo record0": "Ukr. bot. Zh. 35 (5) : 516 (1978)",
+    "Basionym": "Agaricus gracilentus",
+    "Basionym_author": "Krombh.",
+    "protologo basionym": "Naturgetr. Abbild. Beschr. Schwämme 4 : 8 (1836)",
+    "basionym recordID": "457133",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "133132": {
+    "species": "Macrolepiota gracilenta var. acuteumbonato",
+    "author": "Raithelh.",
+    "protologo record0": "Metrodiana 15 (3) : 64 (1988)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Brazil",
+    "country": "Brazil",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "349770": {
+    "species": "Macrolepiota gracilenta var. goossensiae",
+    "author": "(Beeli) Heinem.",
+    "protologo record0": "Bull. Jard. Bot. natn. Belg. 39 : 211 (1969)",
+    "Basionym": "Lepiota goossensiae",
+    "Basionym_author": "Beeli",
+    "protologo basionym": "Bull. Soc. R. Bot. Belg. 59 : 108 (1927)",
+    "basionym recordID": "241905",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Leucoagaricus goossensiae",
+    "_current_name_id": "316785",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "419229": {
+    "species": "Macrolepiota gracilenta var. gracilenta",
+    "author": "(Krombh.) Wasser",
+    "protologo record0": "Ukr. bot. Zh. 35 (5) : 516 (1978)",
+    "Basionym": "Agaricus gracilentus",
+    "Basionym_author": "Krombh.",
+    "protologo basionym": "Naturgetr. Abbild. Beschr. Schwämme 4 : 8 (1836)",
+    "basionym recordID": "457133",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "111634": {
+    "species": "Macrolepiota heimii",
+    "author": "Locq. ex Bon",
+    "protologo record0": "Docums Mycol. 11 (no. 43) : 73 (1981)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota excoriata",
+    "_current_name_id": "299967",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "333541": {
+    "species": "Macrolepiota imbricata",
+    "author": "(Henn.) Pegler",
+    "protologo record0": "Persoonia 4 (2) : 78 (1966)",
+    "Basionym": "Lepiota imbricata",
+    "Basionym_author": "Henn.",
+    "protologo basionym": "Hedwigia 34 : 333 (1895)",
+    "basionym recordID": "214488",
+    "typification": "Holotype S, Schweinfurth, 12 May 1894",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "S",
+          "Schweinfurth",
+          "12 May 1894"
+        ]
+      }
+    ],
+    "locality raw": "Eritrea",
+    "country": "Eritrea",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "299970": {
+    "species": "Macrolepiota kerandi",
+    "author": "(Speg.) Singer",
+    "protologo record0": "Lilloa 22 : 417 (1951)",
+    "Basionym": "Lepiota kerandi",
+    "Basionym_author": "Speg.",
+    "protologo basionym": "Anal. Mus. nac. Hist. nat. B. Aires 6 : 83 (1898)",
+    "basionym recordID": "211948",
+    "typification": "Typification: LPS, Spegazzini, Mar. 1888",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "LPS",
+          "Spegazzini",
+          "Mar. 1888"
+        ]
+      }
+    ],
+    "locality raw": "Buenos Aires",
+    "country": "Argentina",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "317072": {
+    "species": "Macrolepiota konradii",
+    "author": "(Huijsman ex P.D. Orton) M.M. Moser",
+    "protologo record0": "Kl. Krypt.-Fl. 2b/2 : 185 (1967)",
+    "Basionym": "Lepiota konradii",
+    "Basionym_author": "Huijsman ex P.D. Orton",
+    "protologo basionym": "Trans. Br. mycol. Soc. 43 (2) : 283 (1960)",
+    "basionym recordID": "333124",
+    "typification": "Holotype K(M) 63048",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 63048"
+        ]
+      }
+    ],
+    "locality raw": "Great Britain",
+    "country": "United Kingdom",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "565536": {
+    "species": "Macrolepiota konradii var. erubescens",
+    "author": "E. Ludw.",
+    "protologo record0": "Pilzkompendium 3 : 594 (2012)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Sweden",
+    "country": "Sweden",
+    "host": "on soil",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "565535": {
+    "species": "Macrolepiota konradii var. konradii",
+    "author": "(Huijsman ex P.D. Orton) M.M. Moser",
+    "protologo record0": "Kl. Krypt.-Fl. 2b/2 : 185 (1967)",
+    "Basionym": "Lepiota konradii",
+    "Basionym_author": "Huijsman ex P.D. Orton",
+    "protologo basionym": "Trans. Br. mycol. Soc. 43 (2) : 283 (1960)",
+    "basionym recordID": "333124",
+    "typification": "Holotype K(M) 63048",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 63048"
+        ]
+      }
+    ],
+    "locality raw": "Great Britain",
+    "country": "United Kingdom",
+    "host": "on soil",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "852291": {
+    "species": "Macrolepiota macilenta",
+    "author": "Lebeuf, S.D. Russell & Justo",
+    "protologo record0": "Fungal Syst. Evol. 14 : 145 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype MICH 346530",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MICH 346530"
+        ]
+      }
+    ],
+    "locality raw": "Indiana",
+    "country": "United States",
+    "host": "on soil, associated with Poaceae and Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "108187": {
+    "species": "Macrolepiota mahabaleshwarensis",
+    "author": "(Sathe & S.D. Deshp.) Manjula",
+    "protologo record0": "Proc. Indian Acad. Sci. 92 (2) : 101 (1983)",
+    "Basionym": "Chlorolepiota mahabaleshwarensis",
+    "Basionym_author": "Sathe & S.D. Deshp.",
+    "protologo basionym": "Curr. Sci. 48 (15) : 694 (1979)",
+    "basionym recordID": "311068",
+    "typification": "",
+    "types": [],
+    "locality raw": "Maharashtra",
+    "country": "India",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorolepiota mahabaleshwarensis",
+    "_current_name_id": "311068",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "108188": {
+    "species": "Macrolepiota mallea",
+    "author": "(Berk.) Manjula",
+    "protologo record0": "Proc. Indian Acad. Sci. 92 (2) : 101 (1983)",
+    "Basionym": "Agaricus malleus",
+    "Basionym_author": "Berk.",
+    "protologo basionym": "Grevillea 16 (no. 80) : 105 (1888)",
+    "basionym recordID": "372175",
+    "typification": "Holotype K(M), anon. s.n.",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "anon. s.n."
+        ]
+      }
+    ],
+    "locality raw": "Andhra Pradesh",
+    "country": "India",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "299971": {
+    "species": "Macrolepiota mastoidea",
+    "author": "(Fr.) Singer",
+    "protologo record0": "Lilloa 22 : 417 (1951)",
+    "Basionym": "Agaricus mastoideus",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "Systema Mycologicum 1 : 20 (1821)",
+    "basionym recordID": "449972",
+    "typification": "Typification: Tab. XA (Battarra)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. XA (Battarra)"
+        ]
+      }
+    ],
+    "locality raw": "Italy",
+    "country": "Italy",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "818014": {
+    "species": "Macrolepiota mastoidea var. acuteumbonato",
+    "author": "(Raithelh.) Blanco-Dios",
+    "protologo record0": "Tarrelos 18 : 27 (2016)",
+    "Basionym": "Macrolepiota gracilenta var. acuteumbonato",
+    "Basionym_author": "Raithelh.",
+    "protologo basionym": "Metrodiana 15 (3) : 64 (1988)",
+    "basionym recordID": "133132",
+    "typification": "",
+    "types": [],
+    "locality raw": "Brazil",
+    "country": "Brazil",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "565512": {
+    "species": "Macrolepiota mastoidea var. affinis",
+    "author": "(Velen.) E. Ludw.",
+    "protologo record0": "Pilzkompendium 3 : 582 (2012)",
+    "Basionym": "Lepiota affinis",
+    "Basionym_author": "Velen.",
+    "protologo basionym": "České Houby 2 : 208 (1920)",
+    "basionym recordID": "255977",
+    "typification": "",
+    "types": [],
+    "locality raw": "Czech Republic",
+    "country": "Česko",
+    "host": "on soil",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "117346": {
+    "species": "Macrolepiota mastoidea var. atrobrunnea",
+    "author": "Dermek",
+    "protologo record0": "Fungorum Rariorum Icones Coloratae 14 : 11 (1985)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "former Czechoslovakia",
+    "country": "Česko",
+    "host": "in mixed woodland",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "117621": {
+    "species": "Macrolepiota mastoidea var. coccineobasalis",
+    "author": "Locq. ex Bon",
+    "protologo record0": "Docums Mycol. 11 (no. 43) : 72 (1981)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "818265": {
+    "species": "Macrolepiota mastoidea var. erubescens",
+    "author": "(E. Ludw.) Blanco-Dios",
+    "protologo record0": "Tarrelos 18 : 27 (2016)",
+    "Basionym": "Macrolepiota konradii var. erubescens",
+    "Basionym_author": "E. Ludw.",
+    "protologo basionym": "Pilzkompendium 3 : 594 (2012)",
+    "basionym recordID": "565536",
+    "typification": "",
+    "types": [],
+    "locality raw": "Sweden",
+    "country": "Sweden",
+    "host": "on soil",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "818060": {
+    "species": "Macrolepiota mastoidea var. foetida",
+    "author": "Blanco-Dios",
+    "protologo record0": "Tarrelos 18 : 25 (2016)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype LOU-Fungi 20028",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "LOU-Fungi 20028"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "818010": {
+    "species": "Macrolepiota mastoidea var. gracilenta",
+    "author": "(Krombh.) Blanco-Dios",
+    "protologo record0": "Tarrelos 18 : 27 (2016)",
+    "Basionym": "Agaricus gracilentus",
+    "Basionym_author": "Krombh.",
+    "protologo basionym": "Naturgetr. Abbild. Beschr. Schwämme 4 : 8 (1836)",
+    "basionym recordID": "457133",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "818011": {
+    "species": "Macrolepiota mastoidea var. konradii",
+    "author": "(Huijsman ex P.D. Orton) Blanco-Dios",
+    "protologo record0": "Tarrelos 18 : 28 (2016)",
+    "Basionym": "Lepiota konradii",
+    "Basionym_author": "Huijsman ex P.D. Orton",
+    "protologo basionym": "Trans. Br. mycol. Soc. 43 (2) : 283 (1960)",
+    "basionym recordID": "333124",
+    "typification": "Holotype K(M) 63048",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 63048"
+        ]
+      }
+    ],
+    "locality raw": "Great Britain",
+    "country": "United Kingdom",
+    "host": "on soil",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "417401": {
+    "species": "Macrolepiota mastoidea var. mastoidea",
+    "author": "(Fr.) Singer",
+    "protologo record0": "Lilloa 22 : 417 (1951)",
+    "Basionym": "Agaricus mastoideus",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "Systema Mycologicum 1 : 20 (1821)",
+    "basionym recordID": "449972",
+    "typification": "Typification: Tab. XA (Battarra)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. XA (Battarra)"
+        ]
+      }
+    ],
+    "locality raw": "Italy",
+    "country": "Italy",
+    "host": "on soil",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "818012": {
+    "species": "Macrolepiota mastoidea var. psammophila",
+    "author": "(Guinb.) Blanco-Dios",
+    "protologo record0": "Tarrelos 18 : 28 (2016)",
+    "Basionym": "Macrolepiota psammophila",
+    "Basionym_author": "Guinb.",
+    "protologo basionym": "Docums Mycol. 26 (no. 102) : 1 (1996)",
+    "basionym recordID": "415066",
+    "typification": "Holotype colln Bon, Guinberteau 95111101",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "colln Bon",
+          "Guinberteau 95111101"
+        ]
+      }
+    ],
+    "locality raw": "France",
+    "country": "France",
+    "host": "in sand dunes",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "487639": {
+    "species": "Macrolepiota mastoidea var. rickenii",
+    "author": "(Velen.) Gminder",
+    "protologo record0": "Die Großpilze Baden-Württembergs : 443 (2003)",
+    "Basionym": "Lepiota rickenii",
+    "Basionym_author": "Velen.",
+    "protologo basionym": "Novitates Mycologicae Novissimae : 47 (1940)",
+    "basionym recordID": "276534",
+    "typification": "",
+    "types": [],
+    "locality raw": "former Czechoslovakia",
+    "country": "Česko",
+    "host": "in woodland",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "818013": {
+    "species": "Macrolepiota mastoidea var. subsquarrosa",
+    "author": "(Locq.) Blanco-Dios",
+    "protologo record0": "Tarrelos 18 : 28 (2016)",
+    "Basionym": "Leucocoprinus subsquarrosus",
+    "Basionym_author": "Locq.",
+    "protologo basionym": "Revue Mycol. 17 (1) : 54 (1952)",
+    "basionym recordID": "282730",
+    "typification": "Typification: Fig. 9 (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Fig. 9 (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "France",
+    "country": "France",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "572591": {
+    "species": "Macrolepiota megabasidiatata",
+    "author": "R.L. Zhao & J.X. Li",
+    "protologo record0": "Fungal Diversity 135 : 836 (2025)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype HMAS 353923",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "HMAS 353923"
+        ]
+      }
+    ],
+    "locality raw": "Zhejiang",
+    "country": "中国",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "413428": {
+    "species": "Macrolepiota molybdites",
+    "author": "(G. Mey.) G. Moreno, Bañares & Heykoop",
+    "protologo record0": "Mycotaxon 55 : 467 (1995)",
+    "Basionym": "Agaricus molybdites",
+    "Basionym_author": "G. Mey.",
+    "protologo basionym": "Prim. fl. esseq. : 300 (1818)",
+    "basionym recordID": "444495",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Guyana",
+    "country": "Guyana",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum molybdites",
+    "_current_name_id": "604726",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "103548": {
+    "species": "Macrolepiota neomastoidea",
+    "author": "(Hongo) Hongo",
+    "protologo record0": "Trans. Mycol. Soc. Japan 27 (1) : 107 (1986)",
+    "Basionym": "Lepiota neomastoidea",
+    "Basionym_author": "Hongo",
+    "protologo basionym": "Memoirs of Shiga University 20 : 51 (1970)",
+    "basionym recordID": "316518",
+    "typification": "Holotype TNS 237372",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "TNS 237372"
+        ]
+      }
+    ],
+    "locality raw": "Japan",
+    "country": "Japan",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum neomastoideum",
+    "_current_name_id": "374424",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "103549": {
+    "species": "Macrolepiota nordica",
+    "author": "Bellù & Lanzoni",
+    "protologo record0": "Beitr. Kenntn. Pilze Mitteleur. 2 : 23 (1986)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "'Northern Europe'",
+    "country": "Беларусь",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "363351": {
+    "species": "Macrolepiota nordica",
+    "author": "Bellù",
+    "protologo record0": "Docums Mycol. 3 : 124 (1993)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: 75158, 82210",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "75158",
+          "82210"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "114853": {
+    "species": "Macrolepiota nympharum",
+    "author": "(Kalchbr.) Wasser",
+    "protologo record0": "Agarikovye Griby SSSR : 114 (1985)",
+    "Basionym": "Agaricus nympharum",
+    "Basionym_author": "Kalchbr.",
+    "protologo basionym": "Icon. Sel. Hymenomyc. Hung. 1 : 10, tab. 2 (1873)",
+    "basionym recordID": "371989",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Leucocoprinus nympharum",
+    "_current_name_id": "901243",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "333542": {
+    "species": "Macrolepiota odorata",
+    "author": "Heinem.",
+    "protologo record0": "Bull. Jard. Bot. natn. Belg. 39 : 221 (1969)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Democratic Republic of the Congo",
+    "country": "Congo",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "299973": {
+    "species": "Macrolepiota olivascens",
+    "author": "Singer & M.M. Moser",
+    "protologo record0": "Schweiz. Z. Pilzk. 39 : 154 (1961)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Austria",
+    "country": "Austria",
+    "host": "in woodland of Coniferae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "479402": {
+    "species": "Macrolepiota olivascens",
+    "author": "M.M. Moser",
+    "protologo record0": "Kl. Krypt.-Fl. Mitteleuropa - Die Blätter- und Bauchpilze (Agaricales und Gastromycetes) 2 : 130 (1953)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "587279": {
+    "species": "Macrolepiota olivascens",
+    "author": "M.M. Moser",
+    "protologo record0": "Kl. Krypt.-Fl. 2b : 140 (1955)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "348328": {
+    "species": "Macrolepiota olivascens f. olivascens",
+    "author": "Singer & M.M. Moser",
+    "protologo record0": "Schweiz. Z. Pilzk. 39 : 154 (1961)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "321072": {
+    "species": "Macrolepiota olivascens f. pseudoolivascens",
+    "author": "(Bellù & Lanzoni) Hauskn. & Pidlich-Aigner",
+    "protologo record0": "(2004)",
+    "Basionym": "Macrolepiota procera var. pseudo-olivascens",
+    "Basionym_author": "Bellù & Lanzoni",
+    "protologo basionym": "Beitr. Kenntn. Pilze Mitteleur. 3 : 190 (1987)",
+    "basionym recordID": "134695",
+    "typification": "",
+    "types": [],
+    "locality raw": "Italy",
+    "country": "Italy",
+    "host": "amongst Poaceae at edge of woodland",
+    "_rank": "f.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "366382",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "366382": {
+    "species": "Macrolepiota olivascens f. pseudo-olivascens",
+    "author": "(Bellù & Lanzoni) Hauskn. & Pidlich-Aigner",
+    "protologo record0": "Österr. Z. Pilzk. 13 : 30 (2004)",
+    "Basionym": "Macrolepiota procera var. pseudo-olivascens",
+    "Basionym_author": "Bellù & Lanzoni",
+    "protologo basionym": "Beitr. Kenntn. Pilze Mitteleur. 3 : 190 (1987)",
+    "basionym recordID": "134695",
+    "typification": "",
+    "types": [],
+    "locality raw": "Italy",
+    "country": "Italy",
+    "host": "amongst Poaceae at edge of woodland",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota procera",
+    "_current_name_id": "287857",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "115844": {
+    "species": "Macrolepiota olivieri",
+    "author": "(Barla) Wasser",
+    "protologo record0": "Flora Gribov Ukrainy : 298 (1980)",
+    "Basionym": "Lepiota olivieri",
+    "Basionym_author": "Barla",
+    "protologo basionym": "Bull. Soc. Mycol. France 2 : 113 (1886)",
+    "basionym recordID": "188038",
+    "typification": "Typification: Olivier, 27 Sept. 1885",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Olivier",
+          "27 Sept. 1885"
+        ]
+      }
+    ],
+    "locality raw": "France",
+    "country": "France",
+    "host": "on dead leaves and manure",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum olivieri",
+    "_current_name_id": "374428",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "518350": {
+    "species": "Macrolepiota orientiexcoriata",
+    "author": "Z.W. Ge, Zhu L. Yang & Vellinga",
+    "protologo record0": "Fungal Diversity 45 : 90 (2010)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype HKAS 45863|http://www.ncbi.nlm.nih.gov/nuccore/HM125528",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "HKAS 45863|http://www.ncbi.nlm.nih.gov/nuccore/HM125528"
+        ]
+      }
+    ],
+    "locality raw": "Sichuan",
+    "country": "China",
+    "host": "in open meadows or under bushes",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "852292": {
+    "species": "Macrolepiota pallida",
+    "author": "Lebeuf, S.D. Russell & Justo",
+    "protologo record0": "Fungal Syst. Evol. 14 : 149 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype DAOM 984979",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "DAOM 984979"
+        ]
+      }
+    ],
+    "locality raw": "Québec",
+    "country": "Canada",
+    "host": "on soil, associated with Quercus rubra, Fraxinus, and Acer",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "113861": {
+    "species": "Macrolepiota permixta",
+    "author": "(Barla) Pacioni",
+    "protologo record0": "Micol. Ital. 8 (3) : 13 (1979)",
+    "Basionym": "Lepiota permixta",
+    "Basionym_author": "Barla",
+    "protologo basionym": "Bull. Soc. Mycol. France 2 : 114 (1886)",
+    "basionym recordID": "183947",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      },
+      {
+        "type_of_type": "Lectotype",
+        "material": [
+          "NICE",
+          "Barla Myc.283"
+        ]
+      },
+      {
+        "type_of_type": "Epitype",
+        "material": [
+          "TO AFM12"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "107638": {
+    "species": "Macrolepiota phaeodisca",
+    "author": "Bellù",
+    "protologo record0": "Boll. Gruppo Micol. 'G. Bresadola' 27 (1-2) : 6 (1984)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Sardegna",
+    "country": "Italy",
+    "host": "on sandy soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Lepiota phaeodisca",
+    "_current_name_id": "648520",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "287857": {
+    "species": "Macrolepiota procera",
+    "author": "(Scop.) Singer",
+    "protologo record0": "Pap. Mich. Acad. Sci. 32 : 141 (1948)",
+    "Basionym": "Agaricus procerus",
+    "Basionym_author": "Scop.",
+    "protologo basionym": "Fl. carniol. 2 : 418 (1772)",
+    "basionym recordID": "150116",
+    "typification": "Typification: Tab. 23 (Schaeffer, Fung.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. 23 (Schaeffer",
+          "Fung.)"
+        ]
+      }
+    ],
+    "locality raw": "Slovenia",
+    "country": "Slovenia",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "362865": {
+    "species": "Macrolepiota procera f. crassipes",
+    "author": "Pázmány",
+    "protologo record0": "Notulae Botanicae 18-19 : 18 (1989)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BUCM 74.314",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BUCM 74.314"
+        ]
+      }
+    ],
+    "locality raw": "Romania",
+    "country": "Romania",
+    "host": "amongst Robinia pseudoacacia",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota procera",
+    "_current_name_id": "287857",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "518708": {
+    "species": "Macrolepiota procera f. fuliginosa",
+    "author": "(Barla) Vizzini & Contu",
+    "protologo record0": "Mycotaxon 117 : 158 (2011)",
+    "Basionym": "Lepiota procera var. fuliginosa",
+    "Basionym_author": "Barla",
+    "protologo basionym": "Flore mycologique illustrée. Les champignons des Alpes-Maritimes : 21 (1888)",
+    "basionym recordID": "373498",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      },
+      {
+        "type_of_type": "Lectotype",
+        "material": [
+          "Pl. 9",
+          "fig. 5 (Barla",
+          "Flore mycologique illustr&#233;e",
+          "1888"
+        ]
+      },
+      {
+        "type_of_type": "Epitype",
+        "material": [
+          "TO AFM11"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota fuliginosa",
+    "_current_name_id": "317070",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "362862": {
+    "species": "Macrolepiota procera f. macrolepis",
+    "author": "Pázmány",
+    "protologo record0": "Notulae Botanicae 18-19 : 16 (1989)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BUCM 97.333",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BUCM 97.333"
+        ]
+      }
+    ],
+    "locality raw": "Romania",
+    "country": "Romania",
+    "host": "amongst Alnus glutinosa",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota procera",
+    "_current_name_id": "287857",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "362863": {
+    "species": "Macrolepiota procera f. multisquamulosa",
+    "author": "Pázmány",
+    "protologo record0": "Notulae Botanicae 18-19 : 16 (1989)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BUCM 91.263",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BUCM 91.263"
+        ]
+      }
+    ],
+    "locality raw": "Romania",
+    "country": "Romania",
+    "host": "amongst Pinus and Quercus petraea",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota procera",
+    "_current_name_id": "287857",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "518709": {
+    "species": "Macrolepiota procera f. permixta",
+    "author": "(Barla) Vizzini & Contu",
+    "protologo record0": "Mycotaxon 117 : 161 (2011)",
+    "Basionym": "Lepiota permixta",
+    "Basionym_author": "Barla",
+    "protologo basionym": "Bull. Soc. Mycol. France 2 : 114 (1886)",
+    "basionym recordID": "183947",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      },
+      {
+        "type_of_type": "Lectotype",
+        "material": [
+          "NICE",
+          "Barla Myc.283"
+        ]
+      },
+      {
+        "type_of_type": "Epitype",
+        "material": [
+          "TO AFM12"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota permixta",
+    "_current_name_id": "113861",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "430700": {
+    "species": "Macrolepiota procera f. procera",
+    "author": "(Scop.) Singer",
+    "protologo record0": "Pap. Mich. Acad. Sci. 32 : 141 (1948)",
+    "Basionym": "Agaricus procerus",
+    "Basionym_author": "Scop.",
+    "protologo basionym": "Fl. carniol. 2 : 418 (1772)",
+    "basionym recordID": "150116",
+    "typification": "Typification: Tab. 23 (Schaeffer, Fung.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. 23 (Schaeffer",
+          "Fung.)"
+        ]
+      }
+    ],
+    "locality raw": "Slovenia",
+    "country": "Slovenia",
+    "host": "on soil",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "362866": {
+    "species": "Macrolepiota procera var. exigua",
+    "author": "Pázmány",
+    "protologo record0": "Notulae Botanicae 18-19 : 18 (1989)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BUCM 108.947",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BUCM 108.947"
+        ]
+      }
+    ],
+    "locality raw": "Romania",
+    "country": "Romania",
+    "host": "amongst Carpinus and Quercus petraea",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota procera",
+    "_current_name_id": "287857",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "134694": {
+    "species": "Macrolepiota procera var. fuliginosa",
+    "author": "(Barla) Bellù & Lanzoni",
+    "protologo record0": "Beitr. Kenntn. Pilze Mitteleur. 3 : 190 (1987)",
+    "Basionym": "Lepiota procera var. fuliginosa",
+    "Basionym_author": "Barla",
+    "protologo basionym": "Flore mycologique illustrée. Les champignons des Alpes-Maritimes : 21 (1888)",
+    "basionym recordID": "373498",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      },
+      {
+        "type_of_type": "Lectotype",
+        "material": [
+          "Pl. 9",
+          "fig. 5 (Barla",
+          "Flore mycologique illustr&#233;e",
+          "1888"
+        ]
+      },
+      {
+        "type_of_type": "Epitype",
+        "material": [
+          "TO AFM11"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota fuliginosa",
+    "_current_name_id": "317070",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "487638": {
+    "species": "Macrolepiota procera var. konradii",
+    "author": "(Huijsman ex P.D. Orton) Gminder",
+    "protologo record0": "Die Großpilze Baden-Württembergs : 443 (2003)",
+    "Basionym": "Lepiota konradii",
+    "Basionym_author": "Huijsman ex P.D. Orton",
+    "protologo basionym": "Trans. Br. mycol. Soc. 43 (2) : 283 (1960)",
+    "basionym recordID": "333124",
+    "typification": "Holotype K(M) 63048",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 63048"
+        ]
+      }
+    ],
+    "locality raw": "Great Britain",
+    "country": "United Kingdom",
+    "host": "on soil",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "361976": {
+    "species": "Macrolepiota procera var. mediterranea",
+    "author": "Bon",
+    "protologo record0": "Docums Mycol. 23 (no. 89) : 62 (1993)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype LILLE, Bon 91-1422",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "LILLE",
+          "Bon 91-1422"
+        ]
+      }
+    ],
+    "locality raw": "France",
+    "country": "France",
+    "host": "in deciduous woodland",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota procera",
+    "_current_name_id": "287857",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "362861": {
+    "species": "Macrolepiota procera var. pallida",
+    "author": "Pázmány",
+    "protologo record0": "Notulae Botanicae 18-19 : 14 (1989)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BUCM 108.948",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BUCM 108.948"
+        ]
+      }
+    ],
+    "locality raw": "Romania",
+    "country": "Romania",
+    "host": "amongst Carpinus betulus and Quercus petraea",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota procera",
+    "_current_name_id": "287857",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "362864": {
+    "species": "Macrolepiota procera var. patentosquamosa",
+    "author": "Pázmány",
+    "protologo record0": "Notulae Botanicae 18-19 : 16 (1989)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BUCM 73.251",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BUCM 73.251"
+        ]
+      }
+    ],
+    "locality raw": "Romania",
+    "country": "Romania",
+    "host": "amongst Abies alba",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota procera",
+    "_current_name_id": "287857",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "127434": {
+    "species": "Macrolepiota procera var. permixta",
+    "author": "(Barla) Quadr. & Lunghini",
+    "protologo record0": "Quad. Accad. Naz. Lincei 264 : 110 (1990)",
+    "Basionym": "Lepiota permixta",
+    "Basionym_author": "Barla",
+    "protologo basionym": "Bull. Soc. Mycol. France 2 : 114 (1886)",
+    "basionym recordID": "183947",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      },
+      {
+        "type_of_type": "Lectotype",
+        "material": [
+          "NICE",
+          "Barla Myc.283"
+        ]
+      },
+      {
+        "type_of_type": "Epitype",
+        "material": [
+          "TO AFM12"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota permixta",
+    "_current_name_id": "113861",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "418877": {
+    "species": "Macrolepiota procera var. procera",
+    "author": "(Scop.) Singer",
+    "protologo record0": "Pap. Mich. Acad. Sci. 32 : 141 (1948)",
+    "Basionym": "Agaricus procerus",
+    "Basionym_author": "Scop.",
+    "protologo basionym": "Fl. carniol. 2 : 418 (1772)",
+    "basionym recordID": "150116",
+    "typification": "Typification: Tab. 23 (Schaeffer, Fung.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. 23 (Schaeffer",
+          "Fung.)"
+        ]
+      }
+    ],
+    "locality raw": "Slovenia",
+    "country": "Slovenia",
+    "host": "on soil",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "134695": {
+    "species": "Macrolepiota procera var. pseudo-olivascens",
+    "author": "Bellù & Lanzoni",
+    "protologo record0": "Beitr. Kenntn. Pilze Mitteleur. 3 : 190 (1987)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Italy",
+    "country": "Italy",
+    "host": "amongst Poaceae at edge of woodland",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota procera",
+    "_current_name_id": "287857",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "299976": {
+    "species": "Macrolepiota prominens",
+    "author": "(Sacc.) M.M. Moser",
+    "protologo record0": "Kl. Krypt.-Fl. 2b/2 : 184 (1967)",
+    "Basionym": "Lepiota prominens",
+    "Basionym_author": "Sacc.",
+    "protologo basionym": "Syll. Fung. 5 : 30 (1887)",
+    "basionym recordID": "180048",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "415066": {
+    "species": "Macrolepiota psammophila",
+    "author": "Guinb.",
+    "protologo record0": "Docums Mycol. 26 (no. 102) : 1 (1996)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype colln Bon, Guinberteau 95111101",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "colln Bon",
+          "Guinberteau 95111101"
+        ]
+      }
+    ],
+    "locality raw": "France",
+    "country": "France",
+    "host": "in sand dunes",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "299979": {
+    "species": "Macrolepiota puellaris",
+    "author": "(Fr.) M.M. Moser",
+    "protologo record0": "Kl. Krypt.-Fl. 2b/2 : 184 (1967)",
+    "Basionym": "Agaricus rhacodes var. puellaris",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "Monogr. Hymenomyc. Suec. 2 (2) : 285 (1863)",
+    "basionym recordID": "457136",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Leucocoprinus nympharum",
+    "_current_name_id": "901243",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "373849": {
+    "species": "Macrolepiota pulchella",
+    "author": "de Meijer & Vellinga",
+    "protologo record0": "Mycotaxon 85 : 184 (2003)",
+    "Basionym": "Lepiotella brunnea",
+    "Basionym_author": "Rick",
+    "protologo basionym": "Lilloa 2 : 251 (1938)",
+    "basionym recordID": "251115",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "328729": {
+    "species": "Macrolepiota rachodes",
+    "author": "(Vittad.) Singer",
+    "protologo record0": "(1951)",
+    "Basionym": "Agaricus rhacodes",
+    "Basionym_author": "Vittad.",
+    "protologo basionym": "Descr. fung. mang. Italia : 158 (1835)",
+    "basionym recordID": "449978",
+    "typification": "Typification: Tab. XX, fig. VII (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. XX",
+          "fig. VII (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "Italy",
+    "country": "Italy",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "299980",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "566844": {
+    "species": "Macrolepiota rachodes f. olivieri",
+    "author": "(Barla) de Kok",
+    "protologo record0": "(1998)",
+    "Basionym": "Lepiota olivieri",
+    "Basionym_author": "Barla",
+    "protologo basionym": "Bull. Soc. Mycol. France 2 : 113 (1886)",
+    "basionym recordID": "188038",
+    "typification": "Typification: Olivier, 27 Sept. 1885",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Olivier",
+          "27 Sept. 1885"
+        ]
+      }
+    ],
+    "locality raw": "France",
+    "country": "France",
+    "host": "on dead leaves and manure",
+    "_rank": "f.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "450575",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "566835": {
+    "species": "Macrolepiota rachodes f. rachodes",
+    "author": "(Vittad.) Singer",
+    "protologo record0": "(1951)",
+    "Basionym": "Agaricus rhacodes",
+    "Basionym_author": "Vittad.",
+    "protologo basionym": "Descr. fung. mang. Italia : 158 (1835)",
+    "basionym recordID": "449978",
+    "typification": "Typification: Tab. XX, fig. VII (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. XX",
+          "fig. VII (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "Italy",
+    "country": "Italy",
+    "host": "on soil",
+    "_rank": "f.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "451152",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "566845": {
+    "species": "Macrolepiota rachodes var. bohemica",
+    "author": "(Wichanský) Bellù & Lanzoni",
+    "protologo record0": "(1987)",
+    "Basionym": "Lepiota bohemica",
+    "Basionym_author": "Wichanský",
+    "protologo basionym": "C.C.H. 38 : 103 (1961)",
+    "basionym recordID": "283121",
+    "typification": "",
+    "types": [],
+    "locality raw": "former Czechoslovakia",
+    "country": "Česko",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "134696",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "566846": {
+    "species": "Macrolepiota rachodes var. brunnea",
+    "author": "(Farl. & Burt) Candusso",
+    "protologo record0": "(1990)",
+    "Basionym": "Lepiota brunnea",
+    "Basionym_author": "Farl. & Burt",
+    "protologo basionym": "Icones Farlowianae 8 : pl. 6 (1929)",
+    "basionym recordID": "259012",
+    "typification": "",
+    "types": [],
+    "locality raw": "North America",
+    "country": "North America",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "127312",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "566847": {
+    "species": "Macrolepiota rachodes var. hortensis",
+    "author": "Pilát ex Wasser",
+    "protologo record0": "(1980)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "117622",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "565534": {
+    "species": "Macrolepiota rachodes var. olivieri",
+    "author": "(Barla) E. Ludw.",
+    "protologo record0": "(2012)",
+    "Basionym": "Lepiota olivieri",
+    "Basionym_author": "Barla",
+    "protologo basionym": "Bull. Soc. Mycol. France 2 : 113 (1886)",
+    "basionym recordID": "188038",
+    "typification": "Typification: Olivier, 27 Sept. 1885",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Olivier",
+          "27 Sept. 1885"
+        ]
+      }
+    ],
+    "locality raw": "France",
+    "country": "France",
+    "host": "on dead leaves and manure",
+    "_rank": "var.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "628856",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "566832": {
+    "species": "Macrolepiota rachodes var. rachodes",
+    "author": "(Vittad.) Singer",
+    "protologo record0": "(1951)",
+    "Basionym": "Agaricus rhacodes",
+    "Basionym_author": "Vittad.",
+    "protologo basionym": "Descr. fung. mang. Italia : 158 (1835)",
+    "basionym recordID": "449978",
+    "typification": "Typification: Tab. XX, fig. VII (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. XX",
+          "fig. VII (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "Italy",
+    "country": "Italy",
+    "host": "on soil",
+    "_rank": "var.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "417519",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "566849": {
+    "species": "Macrolepiota rachodes var. venenata",
+    "author": "(Bon) Gminder",
+    "protologo record0": "(2003)",
+    "Basionym": "Macrolepiota venenata",
+    "Basionym_author": "Bon",
+    "protologo basionym": "Docums Mycol. 9 (no. 35) : 13 (1979)",
+    "basionym recordID": "317073",
+    "typification": "",
+    "types": [],
+    "locality raw": "France",
+    "country": "France",
+    "host": "on dung of Bos taurus",
+    "_rank": "var.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "487637",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "299980": {
+    "species": "Macrolepiota rhacodes",
+    "author": "(Vittad.) Singer",
+    "protologo record0": "Lilloa 22 : 417 (1951)",
+    "Basionym": "Agaricus rhacodes",
+    "Basionym_author": "Vittad.",
+    "protologo basionym": "Descr. fung. mang. Italia : 158 (1835)",
+    "basionym recordID": "449978",
+    "typification": "Typification: Tab. XX, fig. VII (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. XX",
+          "fig. VII (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "Italy",
+    "country": "Italy",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum rhacodes",
+    "_current_name_id": "374433",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "450575": {
+    "species": "Macrolepiota rhacodes f. olivieri",
+    "author": "(Barla) de Kok",
+    "protologo record0": "Persoonia 17 (1) : 74 (1998)",
+    "Basionym": "Lepiota olivieri",
+    "Basionym_author": "Barla",
+    "protologo basionym": "Bull. Soc. Mycol. France 2 : 113 (1886)",
+    "basionym recordID": "188038",
+    "typification": "Typification: Olivier, 27 Sept. 1885",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Olivier",
+          "27 Sept. 1885"
+        ]
+      }
+    ],
+    "locality raw": "France",
+    "country": "France",
+    "host": "on dead leaves and manure",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum olivieri",
+    "_current_name_id": "374428",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "451152": {
+    "species": "Macrolepiota rhacodes f. rhacodes",
+    "author": "(Vittad.) Singer",
+    "protologo record0": "Lilloa 22 : 417 (1951)",
+    "Basionym": "Agaricus rhacodes",
+    "Basionym_author": "Vittad.",
+    "protologo basionym": "Descr. fung. mang. Italia : 158 (1835)",
+    "basionym recordID": "449978",
+    "typification": "Typification: Tab. XX, fig. VII (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. XX",
+          "fig. VII (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "Italy",
+    "country": "Italy",
+    "host": "on soil",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "134696": {
+    "species": "Macrolepiota rhacodes var. bohemica",
+    "author": "(Wichanský) Bellù & Lanzoni",
+    "protologo record0": "Beitr. Kenntn. Pilze Mitteleur. 3 : 191 (1987)",
+    "Basionym": "Lepiota bohemica",
+    "Basionym_author": "Wichanský",
+    "protologo basionym": "C.C.H. 38 : 103 (1961)",
+    "basionym recordID": "283121",
+    "typification": "",
+    "types": [],
+    "locality raw": "former Czechoslovakia",
+    "country": "Česko",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum brunneum",
+    "_current_name_id": "374393",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "127312": {
+    "species": "Macrolepiota rhacodes var. brunnea",
+    "author": "(Farl. & Burt) Candusso",
+    "protologo record0": "Lepiota s.l. Fungi Europaei vol. 4 : 535 (1990)",
+    "Basionym": "Lepiota brunnea",
+    "Basionym_author": "Farl. & Burt",
+    "protologo basionym": "Icones Farlowianae 8 : pl. 6 (1929)",
+    "basionym recordID": "259012",
+    "typification": "",
+    "types": [],
+    "locality raw": "North America",
+    "country": "North America",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum brunneum",
+    "_current_name_id": "374393",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "117622": {
+    "species": "Macrolepiota rhacodes var. hortensis",
+    "author": "Pilát ex Wasser",
+    "protologo record0": "Flora Gribov Ukrainy : 298 (1980)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "628856": {
+    "species": "Macrolepiota rhacodes var. olivieri",
+    "author": "(Barla) E. Ludw.",
+    "protologo record0": "Pilzkompendium 3 : 592 (2012)",
+    "Basionym": "Lepiota olivieri",
+    "Basionym_author": "Barla",
+    "protologo basionym": "Bull. Soc. Mycol. France 2 : 113 (1886)",
+    "basionym recordID": "188038",
+    "typification": "Typification: Olivier, 27 Sept. 1885",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Olivier",
+          "27 Sept. 1885"
+        ]
+      }
+    ],
+    "locality raw": "France",
+    "country": "France",
+    "host": "on dead leaves and manure",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Chlorophyllum olivieri",
+    "_current_name_id": "374428",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "417519": {
+    "species": "Macrolepiota rhacodes var. rhacodes",
+    "author": "(Vittad.) Singer",
+    "protologo record0": "Lilloa 22 : 417 (1951)",
+    "Basionym": "Agaricus rhacodes",
+    "Basionym_author": "Vittad.",
+    "protologo basionym": "Descr. fung. mang. Italia : 158 (1835)",
+    "basionym recordID": "449978",
+    "typification": "Typification: Tab. XX, fig. VII (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. XX",
+          "fig. VII (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "Italy",
+    "country": "Italy",
+    "host": "on soil",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "487637": {
+    "species": "Macrolepiota rhacodes var. venenata",
+    "author": "(Bon) Gminder",
+    "protologo record0": "Die Großpilze Baden-Württembergs : 443 (2003)",
+    "Basionym": "Macrolepiota venenata",
+    "Basionym_author": "Bon",
+    "protologo basionym": "Docums Mycol. 9 (no. 35) : 13 (1979)",
+    "basionym recordID": "317073",
+    "typification": "",
+    "types": [],
+    "locality raw": "France",
+    "country": "France",
+    "host": "on dung of Bos taurus",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota venenata",
+    "_current_name_id": "317073",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "445045": {
+    "species": "Macrolepiota rhodosperma",
+    "author": "(P.D. Orton) Migl.",
+    "protologo record0": "Boll. Gruppo Micol. 'G. Bresadola' 38 (5-6) : 140 (1995)",
+    "Basionym": "Lepiota rhodosperma",
+    "Basionym_author": "P.D. Orton",
+    "protologo basionym": "Notes R. bot. Gdn Edinb. 41 (3) : 591 (1984)",
+    "basionym recordID": "107636",
+    "typification": "",
+    "types": [],
+    "locality raw": "Great Britain",
+    "country": "United Kingdom",
+    "host": "in meadowland",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota fuliginosa",
+    "_current_name_id": "317070",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "546996": {
+    "species": "Macrolepiota rhodosperma var. rhodosperma",
+    "author": "(P.D. Orton) Migl.",
+    "protologo record0": "Boll. Gruppo Micol. 'G. Bresadola' 38 (5-6) : 140 (1995)",
+    "Basionym": "Lepiota rhodosperma",
+    "Basionym_author": "P.D. Orton",
+    "protologo basionym": "Notes R. bot. Gdn Edinb. 41 (3) : 591 (1984)",
+    "basionym recordID": "107636",
+    "typification": "",
+    "types": [],
+    "locality raw": "Great Britain",
+    "country": "United Kingdom",
+    "host": "in meadowland",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "518426": {
+    "species": "Macrolepiota rhodosperma var. velicopia",
+    "author": "Vizzini & Contu",
+    "protologo record0": "Mycotaxon 117 : 153 (2011)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype TO HG2004",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "TO HG2004"
+        ]
+      }
+    ],
+    "locality raw": "Italy",
+    "country": "Italy",
+    "host": "on litter of broad-leaved trees, especially Fagus and Quercus",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota fuliginosa",
+    "_current_name_id": "317070",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "134693": {
+    "species": "Macrolepiota rickenii",
+    "author": "(Velen.) Bellù & Lanzoni",
+    "protologo record0": "Beitr. Kenntn. Pilze Mitteleur. 3 : 196 (1987)",
+    "Basionym": "Lepiota rickenii",
+    "Basionym_author": "Velen.",
+    "protologo basionym": "Novitates Mycologicae Novissimae : 47 (1940)",
+    "basionym recordID": "276534",
+    "typification": "",
+    "types": [],
+    "locality raw": "former Czechoslovakia",
+    "country": "Česko",
+    "host": "in woodland",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "105491": {
+    "species": "Macrolepiota rubescens",
+    "author": "(L.M. Dufour) Pázmány",
+    "protologo record0": "Z. Mykol. 51 (1) : 57 (1985)",
+    "Basionym": "Lepiota excoriata var. rubescens",
+    "Basionym_author": "L.M. Dufour",
+    "protologo basionym": "Rev. gén. Bot. 25 : 498 (1913)",
+    "basionym recordID": "138767",
+    "typification": "Typification: Dufour, Jan. 1910",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Dufour",
+          "Jan. 1910"
+        ]
+      }
+    ],
+    "locality raw": "Madagascar",
+    "country": "Madagascar",
+    "host": "on soil, associated with Poaceae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "825230": {
+    "species": "Macrolepiota sabulosa",
+    "author": "Fazolino & R.M.B. Silveira",
+    "protologo record0": "Mycologia 110 (5) : 936 (2018)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype UFRN 2693",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "UFRN 2693"
+        ]
+      }
+    ],
+    "locality raw": "Rio Grande do Norte",
+    "country": "Brasil",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "823089": {
+    "species": "Macrolepiota sabulosa var. velistellaris",
+    "author": "D.S. Freitas & Menolli",
+    "protologo record0": "Mycotaxon 134 (2) : 234 (2019)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype SP 466945",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "SP 466945"
+        ]
+      }
+    ],
+    "locality raw": "Rio Grande do Norte",
+    "country": "Brasil",
+    "host": "on soil",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota sabulosa",
+    "_current_name_id": "825230",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "133131": {
+    "species": "Macrolepiota stercoraria",
+    "author": "(Rick) Raithelh.",
+    "protologo record0": "Metrodiana 15 (3) : 63 (1988)",
+    "Basionym": "Lepiota stercoraria",
+    "Basionym_author": "Rick",
+    "protologo basionym": "Lilloa 1 : 318 (1939)",
+    "basionym recordID": "278833",
+    "typification": "",
+    "types": [],
+    "locality raw": "Brazil",
+    "country": "Brazil",
+    "host": "on dung",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "561826": {
+    "species": "Macrolepiota subcitrophylla",
+    "author": "Z.W. Ge",
+    "protologo record0": "Mycoscience 53 (4) : 286 (2012)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype HKAS 61624",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "HKAS 61624"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on ground, with pine",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "111635": {
+    "species": "Macrolepiota subsquarrosa",
+    "author": "(Locq.) Bon",
+    "protologo record0": "Docums Mycol. 11 (no. 43) : 72 (1981)",
+    "Basionym": "Leucocoprinus subsquarrosus",
+    "Basionym_author": "Locq.",
+    "protologo basionym": "Revue Mycol. 17 (1) : 54 (1952)",
+    "basionym recordID": "282730",
+    "typification": "Typification: Fig. 9 (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Fig. 9 (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "France",
+    "country": "France",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Macrolepiota mastoidea",
+    "_current_name_id": "299971",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "519930": {
+    "species": "Macrolepiota turbinata",
+    "author": "T. Lebel",
+    "protologo record0": "Mycologia 104 (2) : 512 (2012)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype PERTH, Malajczuk H0219",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PERTH",
+          "Malajczuk H0219"
+        ]
+      }
+    ],
+    "locality raw": "Western Australia",
+    "country": "Australia",
+    "host": "in sandy soils under leaf litter in mixed Eucalyptus forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "829835": {
+    "species": "Macrolepiota umbonata",
+    "author": "H.J. Cho, H. Lee & Y.W. Lim",
+    "protologo record0": "Mycobiology 47 (4) : 374 (2019)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype SFC 20160909-16",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "SFC 20160909-16"
+        ]
+      }
+    ],
+    "locality raw": "South Korea",
+    "country": "대한민국",
+    "host": "on soil, associated with Poaceae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "373847": {
+    "species": "Macrolepiota velosa",
+    "author": "Vellinga & Zhu L. Yang",
+    "protologo record0": "Mycotaxon 85 : 184 (2003)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype KUN 29487|http://www.ncbi.nlm.nih.gov/nuccore/AF482853",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "KUN 29487|http://www.ncbi.nlm.nih.gov/nuccore/AF482853"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on ground in forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Volvolepiota velosa",
+    "_current_name_id": "572733",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "317073": {
+    "species": "Macrolepiota venenata",
+    "author": "Bon",
+    "protologo record0": "Docums Mycol. 9 (no. 35) : 13 (1979)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "France",
+    "country": "France",
+    "host": "on dung of Bos taurus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "519931": {
+    "species": "Macrolepiota vinaceofibrillosa",
+    "author": "T. Lebel",
+    "protologo record0": "Mycologia 104 (2) : 514 (2012)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype PERTH, Malajczuk H0047",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PERTH",
+          "Malajczuk H0047"
+        ]
+      }
+    ],
+    "locality raw": "Western Australia",
+    "country": "Australia",
+    "host": "in Eucalyptus gomphocephala woodland",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales"
+  },
+  "333543": {
+    "species": "Macrolepiota zeyheri",
+    "author": "Heinem.",
+    "protologo record0": "Sydowia 15 (1-6) : 67 (1962)",
+    "Basionym": "Agaricus zeyheri",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "J.A. Wahlbergii Fungi Natalenses : 122 (1848)",
+    "basionym recordID": "479388",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "352915": {
+    "species": "Macrolepiota zeyheri var. telosa",
+    "author": "(Kalchbr. & MacOwan) D.A. Reid",
+    "protologo record0": "Contr. Bolus Herb. 7 : 137 (1975)",
+    "Basionym": "Agaricus zeyheri var. telosus",
+    "Basionym_author": "Kalchbr. & MacOwan",
+    "protologo basionym": "Grevillea 9 (no. 51) : 107 (1881)",
+    "basionym recordID": "477613",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "429414": {
+    "species": "Macrolepiota zeyheri var. zeyheri",
+    "author": "Heinem.",
+    "protologo record0": "Sydowia 15 (1-6) : 67 (1962)",
+    "Basionym": "Agaricus zeyheri",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "J.A. Wahlbergii Fungi Natalenses : 122 (1848)",
+    "basionym recordID": "479388",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Agaricaceae",
+    "_order": "Agaricales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  }
+}

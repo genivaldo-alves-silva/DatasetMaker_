@@ -1,0 +1,871 @@
+{
+  "831914": {
+    "species": "Porodaedalea abietis",
+    "author": "(P. Karst.) Bernicchia & Gorjón",
+    "protologo record0": "Romar : 571 (2020)",
+    "Basionym": "Fomes abietis",
+    "Basionym_author": "P. Karst.",
+    "protologo basionym": "Bidr. Känn. Finl. Nat. Folk 37 : 242 (1882)",
+    "basionym recordID": "455504",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Finland",
+    "country": "Finland",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "823674": {
+    "species": "Porodaedalea alpicola",
+    "author": "S.J. Dai, F. Wu & Y.C. Dai",
+    "protologo record0": "Mycologia 111 (1) : 43 (2019)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 017186",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 017186"
+        ]
+      }
+    ],
+    "locality raw": "Tibet",
+    "country": "China",
+    "host": "on wood of Abies",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "373586": {
+    "species": "Porodaedalea cancriformans",
+    "author": "(M.J. Larsen, Lombard & Aho) T. Wagner & M. Fisch.",
+    "protologo record0": "Mycologia 94 (6) : 1012 (2002)",
+    "Basionym": "Phellinus pini var. cancriformans",
+    "Basionym_author": "M.J. Larsen, Lombard & Aho",
+    "protologo basionym": "Canadian Journal of Forest Research 9 : 33 (1979)",
+    "basionym recordID": "348587",
+    "typification": "",
+    "types": [],
+    "locality raw": "Oregon",
+    "country": "United States",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phellinus cancriformans",
+    "_current_name_id": "133713",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "564700": {
+    "species": "Porodaedalea cedrina",
+    "author": "Pilát ex Tomšovský & Kout",
+    "protologo record0": "Nova Hedwigia 96 (3-4) : 422 (2013)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype PRM 876397",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PRM 876397"
+        ]
+      }
+    ],
+    "locality raw": "Morocco",
+    "country": "Morocco",
+    "host": "at base of trunk of Cedrus atlantica",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "357715": {
+    "species": "Porodaedalea cercidiphyllum",
+    "author": "(Imazeki) Imazeki",
+    "protologo record0": "Colored Illustrations of Mushrooms of Japan : 191 (1989)",
+    "Basionym": "Cryptoderma cercidiphyllum",
+    "Basionym_author": "Imazeki",
+    "protologo basionym": "Bull. Gov. Forest Exp. Stn Tokyo 42 : 2 [repr.] (1949)",
+    "basionym recordID": "296173",
+    "typification": "",
+    "types": [],
+    "locality raw": "Japan",
+    "country": "Japan",
+    "host": "on Cercidiphyllum japonicum",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "553333": {
+    "species": "Porodaedalea chinensis",
+    "author": "S.J. Dai & F. Wu",
+    "protologo record0": "Mycosphere 8 (6) : 989 (2017)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 011148",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 011148"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on living tree of Pinus yunnanensis",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "106407": {
+    "species": "Porodaedalea chrysoloma",
+    "author": "(Fr.) Fiasson & Niemelä",
+    "protologo record0": "Karstenia 24 (1) : 25 (1984)",
+    "Basionym": "Polyporus chrysoloma",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "Öfvers. K. Svensk. Vetensk.-Akad. Förhandl. 18 (1) : 30 (1861)",
+    "basionym recordID": "374252",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Sweden",
+    "country": "Sweden",
+    "host": "on dead wood of Abies",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phellinus chrysoloma",
+    "_current_name_id": "319747",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "359501": {
+    "species": "Porodaedalea chrysoloma",
+    "author": "(Fr.) Imazeki",
+    "protologo record0": "Colored Illustrations of Mushrooms of Japan : 192 (1989)",
+    "Basionym": "Polyporus chrysoloma",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "Öfvers. K. Svensk. Vetensk.-Akad. Förhandl. 18 (1) : 30 (1861)",
+    "basionym recordID": "374252",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Sweden",
+    "country": "Sweden",
+    "host": "on dead wood of Abies",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "106408": {
+    "species": "Porodaedalea conchata",
+    "author": "(Pers.) Fiasson & Niemelä",
+    "protologo record0": "Karstenia 24 (1) : 25 (1984)",
+    "Basionym": "Boletus conchatus",
+    "Basionym_author": "Pers.",
+    "protologo basionym": "Observ. mycol. 1 : 24 (1796)",
+    "basionym recordID": "215223",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phellinopsis conchata",
+    "_current_name_id": "518932",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "359478": {
+    "species": "Porodaedalea conchata",
+    "author": "(Pers.) Imazeki",
+    "protologo record0": "Colored Illustrations of Mushrooms of Japan : 192 (1989)",
+    "Basionym": "Boletus conchatus",
+    "Basionym_author": "Pers.",
+    "protologo basionym": "Observ. mycol. 1 : 24 (1796)",
+    "basionym recordID": "215223",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "554276": {
+    "species": "Porodaedalea gilbertsonii",
+    "author": "(M.J. Larsen) V. Papp",
+    "protologo record0": "Index Fungorum 354 : 1 (2018)",
+    "Basionym": "Phellinus gilbertsonii",
+    "Basionym_author": "M.J. Larsen",
+    "protologo basionym": "Folia cryptog. Estonica 37 : 52 (2001)",
+    "basionym recordID": "474580",
+    "typification": "Holotype BPI, Larsen 135947",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BPI",
+          "Larsen 135947"
+        ]
+      }
+    ],
+    "locality raw": "California",
+    "country": "United States",
+    "host": "on wood of Pseudotsuga menziesii var. menziesii",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "518933": {
+    "species": "Porodaedalea himalayensis",
+    "author": "(Y.C. Dai) Y.C. Dai",
+    "protologo record0": "Fungal Diversity 45 : 330 (2010)",
+    "Basionym": "Phellinus himalayensis",
+    "Basionym_author": "Y.C. Dai",
+    "protologo basionym": "Acta bot. fenn. 166 : 97 (1999)",
+    "basionym recordID": "474073",
+    "typification": "Holotype H, Dai 3090",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "H",
+          "Dai 3090"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on fallen trunk of Picea likiangensis",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "823675": {
+    "species": "Porodaedalea indica",
+    "author": "Spirin, Y.C. Dai & Vlasák",
+    "protologo record0": "Mycologia 111 (1) : 45 (2019)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype H, Korhonen 1136",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "H",
+          "Korhonen 1136"
+        ]
+      }
+    ],
+    "locality raw": "Himachal Pradesh",
+    "country": "India",
+    "host": "on wood of Cedrus deodara",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "853930": {
+    "species": "Porodaedalea jezoensis",
+    "author": "(Yamano) H. Zhao, F. Wu & Yuan Yuan",
+    "protologo record0": "Mol. Phylogen. Evol. 212 : 108425, 6 (2025)",
+    "Basionym": "Daedalea jezoensis",
+    "Basionym_author": "Yamano",
+    "protologo basionym": "Goryorin 25 : 70 (1930)",
+    "basionym recordID": "627209",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "823677": {
+    "species": "Porodaedalea kesiyae",
+    "author": "S.J. Dai, F. Wu & Y.C. Dai",
+    "protologo record0": "Mycologia 111 (1) : 46 (2019)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Dai 18427",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Dai 18427"
+        ]
+      }
+    ],
+    "locality raw": "Vietnam",
+    "country": "Vietnam",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "500997": {
+    "species": "Porodaedalea laricis",
+    "author": "(Jacz. ex Pilát) Niemelä",
+    "protologo record0": "Karstenia 45 (2) : 78 (2005)",
+    "Basionym": "Xanthochrous pini f. laricis",
+    "Basionym_author": "Jacz. ex Pilát",
+    "protologo basionym": "Bull. Trimestriel Soc. Mycol. France 49 (3-4) : 272 (1934)",
+    "basionym recordID": "274515",
+    "typification": "",
+    "types": [],
+    "locality raw": "Siberia",
+    "country": "Italia",
+    "host": "on trunk of Larix sibirica",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "357714": {
+    "species": "Porodaedalea lonicerina",
+    "author": "(Bondartsev) Imazeki",
+    "protologo record0": "Colored Illustrations of Mushrooms of Japan : 191 (1989)",
+    "Basionym": "Fomes lonicerinus",
+    "Basionym_author": "Bondartsev",
+    "protologo basionym": "Acta Inst. Bot. Acad. Sci. USSR Plant. Crypt. : no. 500 (1935)",
+    "basionym recordID": "269783",
+    "typification": "Typification: Czerniakowsk, 1926",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Czerniakowsk",
+          "1926"
+        ]
+      }
+    ],
+    "locality raw": "Uzbekistan",
+    "country": "Uzbekistan",
+    "host": "on trunk of Lonicera tatarica",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "823678": {
+    "species": "Porodaedalea microsperma",
+    "author": "S.J. Dai & Y.C. Dai",
+    "protologo record0": "Mycologia 111 (1) : 49 (2019)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 016969",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 016969"
+        ]
+      }
+    ],
+    "locality raw": "Heilongjiang",
+    "country": "中国",
+    "host": "on wood of Larix gmelinii",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "832749": {
+    "species": "Porodaedalea mongolica",
+    "author": "Y.D. Wu & Y. Yuan",
+    "protologo record0": "Mycosystema 39 (2) : 259 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 027396",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 027396"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "467611": {
+    "species": "Porodaedalea niemelaei",
+    "author": "M. Fisch.",
+    "protologo record0": "Karstenia 40 (1-2) : 46 (2000)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype REG, Niemelä 5877",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "REG",
+          "Niemelä 5877"
+        ]
+      }
+    ],
+    "locality raw": "Finland",
+    "country": "Finland",
+    "host": "on Larix sibirica",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phellinus niemelaei",
+    "_current_name_id": "538280",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "840008": {
+    "species": "Porodaedalea occidentiamericana",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 139 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype colln Vlasák 0205/8-J",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "colln Vlasák 0205/8-J"
+        ]
+      }
+    ],
+    "locality raw": "Arizona",
+    "country": "United States",
+    "host": "on Picea",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "840009": {
+    "species": "Porodaedalea orientoamericana",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 140 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 013123",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 013123"
+        ]
+      }
+    ],
+    "locality raw": "Connecticut",
+    "country": "United States",
+    "host": "on living trunk of Pinus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "337528": {
+    "species": "Porodaedalea pectinata",
+    "author": "(Klotzsch) Aoshima",
+    "protologo record0": "Trans. Mycol. Soc. Japan 7 : 89 (1966)",
+    "Basionym": "Polyporus pectinatus",
+    "Basionym_author": "Klotzsch",
+    "protologo basionym": "Linnaea 8 (4) : 485 (1833)",
+    "basionym recordID": "211232",
+    "typification": "Holotype K(M) 174174",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 174174"
+        ]
+      }
+    ],
+    "locality raw": "India",
+    "country": "India",
+    "host": "on trunks",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "623534": {
+    "species": "Porodaedalea pectinatus",
+    "author": "(Klotzsch) Aoshima",
+    "protologo record0": "(1966)",
+    "Basionym": "Polyporus pectinatus",
+    "Basionym_author": "Klotzsch",
+    "protologo basionym": "Linnaea 8 (4) : 485 (1833)",
+    "basionym recordID": "211232",
+    "typification": "Holotype K(M) 174174",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 174174"
+        ]
+      }
+    ],
+    "locality raw": "India",
+    "country": "India",
+    "host": "on trunks",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "337528",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "124586": {
+    "species": "Porodaedalea piceina",
+    "author": "(Peck) Niemelä",
+    "protologo record0": "Naturaliste Can. 112 (4) : 464 (1985)",
+    "Basionym": "Polyporus piceinus",
+    "Basionym_author": "Peck",
+    "protologo basionym": "Ann. Rep. N.Y. St. Mus. 42 : 121 (1889)",
+    "basionym recordID": "202944",
+    "typification": "Typification: Peck s.n.",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Peck s.n."
+        ]
+      }
+    ],
+    "locality raw": "New York",
+    "country": "United States",
+    "host": "on dead trunks of Picea nigra",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phellinus piceinus",
+    "_current_name_id": "446019",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "106409": {
+    "species": "Porodaedalea pilatii",
+    "author": "(Černý) Fiasson & Niemelä",
+    "protologo record0": "Karstenia 24 (1) : 26 (1984)",
+    "Basionym": "Phellinus pilatii",
+    "Basionym_author": "Černý",
+    "protologo basionym": "Česká Mykol. 22 (1) : 2 (1968)",
+    "basionym recordID": "336257",
+    "typification": "Holotype PR 628393",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PR 628393"
+        ]
+      }
+    ],
+    "locality raw": "Czech Republic",
+    "country": "Česko",
+    "host": "on trunk of Populus canescens",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Sanghuangporus pilatii",
+    "_current_name_id": "551564",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "431973": {
+    "species": "Porodaedalea pini",
+    "author": "(Brot.) Murrill",
+    "protologo record0": "Bull. Torrey bot. Club 32 (7) : 367 (1905)",
+    "Basionym": "Boletus pini",
+    "Basionym_author": "Brot.",
+    "protologo basionym": "Fl. lusit. 2 : 468 (1804)",
+    "basionym recordID": "233528",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Portugal",
+    "country": "Portugal",
+    "host": "on trunk of Pinus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "840010": {
+    "species": "Porodaedalea qilianensis",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 141 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 032547",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 032547"
+        ]
+      }
+    ],
+    "locality raw": "Gansu",
+    "country": "China",
+    "host": "on living trunk of Picea crassifolia",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "840011": {
+    "species": "Porodaedalea schrenkianae",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 143 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 027530",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 027530"
+        ]
+      }
+    ],
+    "locality raw": "Xinjiang",
+    "country": "中国",
+    "host": "on living trunk of Picea schrenkiana",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "823679": {
+    "species": "Porodaedalea yunnanensis",
+    "author": "S.J. Dai, F. Wu & Y.C. Dai",
+    "protologo record0": "Mycologia 111 (1) : 51 (2019)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 022984",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 022984"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  }
+}

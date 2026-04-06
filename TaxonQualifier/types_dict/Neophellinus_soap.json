@@ -1,0 +1,34 @@
+{
+  "839980": {
+    "species": "Neophellinus uncisetus",
+    "author": "(Robledo, Urcelay & Rajchenb.) Y.C. Dai, F. Wu, L.W. Zhou, Vlasák & B.K. Cui",
+    "protologo record0": "Fungal Diversity 113 : 105 (2022)",
+    "Basionym": "Phellinus uncisetus",
+    "Basionym_author": "Robledo, Urcelay & Rajchenb.",
+    "protologo basionym": "Mycologia 95 (2) : 349 (2003)",
+    "basionym recordID": "373603",
+    "typification": "Holotype CORD, Urcelay 292",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "CORD",
+          "Urcelay 292"
+        ]
+      }
+    ],
+    "locality raw": "Córdoba",
+    "country": "Argentina",
+    "host": "on base of trunk of Polylepis australis",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  }
+}

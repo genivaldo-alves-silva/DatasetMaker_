@@ -1,0 +1,243 @@
+{
+  "330283": {
+    "species": "Echinodontium ballouii",
+    "author": "(Banker) H.L. Gross",
+    "protologo record0": "Mycopath. Mycol. appl. 24 (1) : 5 (1964)",
+    "Basionym": "Steccherinum ballouii",
+    "Basionym_author": "Banker",
+    "protologo basionym": "Bull. Torrey bot. Club 36 : 341 (1909)",
+    "basionym recordID": "223223",
+    "typification": "Typification: colln Banker, Ballou, 6 Apr. 1908",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "colln Banker",
+          "Ballou",
+          "6 Apr. 1908"
+        ]
+      }
+    ],
+    "locality raw": "New Jersey",
+    "country": "Jersey",
+    "host": "on Chamaecyparis thyoides",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Echinodontiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "268352": {
+    "species": "Echinodontium japonicum",
+    "author": "Imazeki",
+    "protologo record0": "J. Jap. Bot. 11 (7) : 520 (1935)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype Tokyo Science Museum 200301",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "Tokyo Science Museum 200301"
+        ]
+      }
+    ],
+    "locality raw": "Honshu",
+    "country": "日本",
+    "host": "on bark of Quercus glauca",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Echinodontiellum japonicum",
+    "_current_name_id": "819209",
+    "_family": "Echinodontiaceae",
+    "_order": "Russulales"
+  },
+  "444857": {
+    "species": "Echinodontium ryvardenii",
+    "author": "Bernicchia & Piga",
+    "protologo record0": "Mycotaxon 68 : 484 (1998)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype HUBO, Bernicchia 6907",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "HUBO",
+          "Bernicchia 6907"
+        ]
+      }
+    ],
+    "locality raw": "Sardegna",
+    "country": "Italia",
+    "host": "on trunk and old branches of Juniperus phoenicea",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Echinodontiaceae",
+    "_order": "Russulales"
+  },
+  "330284": {
+    "species": "Echinodontium sulcatum",
+    "author": "(Burt) H.L. Gross",
+    "protologo record0": "Mycopath. Mycol. appl. 24 (1) : 8 (1964)",
+    "Basionym": "Stereum sulcatum",
+    "Basionym_author": "Burt",
+    "protologo basionym": "Ann. Rep. Reg. N.Y. St. Mus. 54 : 154 (1902)",
+    "basionym recordID": "123426",
+    "typification": "",
+    "types": [],
+    "locality raw": "North European Russia",
+    "country": "",
+    "host": "on fallen trunk of Pinus sylvestris",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Laurilia sulcata",
+    "_current_name_id": "299389",
+    "_family": "Echinodontiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "330285": {
+    "species": "Echinodontium taxodii",
+    "author": "(Lentz & H.H. McKay) H.L. Gross",
+    "protologo record0": "Mycopath. Mycol. appl. 24 (1) : 11 (1964)",
+    "Basionym": "Stereum taxodii",
+    "Basionym_author": "Lentz & H.H. McKay",
+    "protologo basionym": "Mycologia 52 (2) : 262 (1961)",
+    "basionym recordID": "339695",
+    "typification": "Holotype BPI, Lang 30571",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BPI",
+          "Lang 30571"
+        ]
+      }
+    ],
+    "locality raw": "Texas",
+    "country": "United States",
+    "host": "on Taxodium distichum",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Lauriliella taxodii",
+    "_current_name_id": "819213",
+    "_family": "Echinodontiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "189460": {
+    "species": "Echinodontium tinctorium",
+    "author": "(Ellis & Everh.) Ellis & Everh.",
+    "protologo record0": "Bull. Torrey bot. Club 27 (2) : 49 (1900)",
+    "Basionym": "Fomes tinctorius",
+    "Basionym_author": "Ellis & Everh.",
+    "protologo basionym": "Bull. Torrey bot. Club 22 (7) : 362 (1895)",
+    "basionym recordID": "244343",
+    "typification": "Typification: Swan 20,851",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Swan 20",
+          "851"
+        ]
+      }
+    ],
+    "locality raw": "Alaska",
+    "country": "United States",
+    "host": "on logs of Tsuga canadensis",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Echinodontiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "261965": {
+    "species": "Echinodontium tinctorius",
+    "author": "(Ellis & Everh.) Ellis & Everh.",
+    "protologo record0": "(1900)",
+    "Basionym": "Fomes tinctorius",
+    "Basionym_author": "Ellis & Everh.",
+    "protologo basionym": "Bull. Torrey bot. Club 22 (7) : 362 (1895)",
+    "basionym recordID": "244343",
+    "typification": "Typification: Swan 20,851",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Swan 20",
+          "851"
+        ]
+      }
+    ],
+    "locality raw": "Alaska",
+    "country": "United States",
+    "host": "on logs of Tsuga canadensis",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "189460",
+    "_family": "Echinodontiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "280803": {
+    "species": "Echinodontium tsugicola",
+    "author": "(Henn. & Shirai) Imazeki",
+    "protologo record0": "J. Jap. Bot. 11 (7) : 517 (1935)",
+    "Basionym": "Hydnofomes tsugicola",
+    "Basionym_author": "Henn. & Shirai",
+    "protologo basionym": "Bot. Jb. 28 (3) : 268 (1900)",
+    "basionym recordID": "149380",
+    "typification": "Typification: Shirai s.n.",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Shirai s.n."
+        ]
+      }
+    ],
+    "locality raw": "Honshu",
+    "country": "日本",
+    "host": "on branches and trunk of Tsuga diversifolia",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Echinodontiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  }
+}

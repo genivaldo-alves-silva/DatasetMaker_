@@ -1,0 +1,4018 @@
+{
+  "518909": {
+    "species": "Coltricia abieticola",
+    "author": "Y.C. Dai",
+    "protologo record0": "Fungal Diversity 45 : 138 (2010)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Yuan 2189",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Yuan 2189"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on fallen trunk of Abies",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "295448": {
+    "species": "Coltricia acupunctata",
+    "author": "(Berk.) G. Cunn.",
+    "protologo record0": "Proc. Linn. Soc. N.S.W. 75 (3-4) : 216 (1950)",
+    "Basionym": "Trametes acupunctata",
+    "Basionym_author": "Berk.",
+    "protologo basionym": "J. Linn. Soc. 13 : 164 (1872)",
+    "basionym recordID": "220799",
+    "typification": "Typification: Bowman s.n.",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Bowman s.n."
+        ]
+      }
+    ],
+    "locality raw": "Queensland",
+    "country": "Australia",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Trametes strumosa",
+    "_current_name_id": "561998",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "359439": {
+    "species": "Coltricia africana",
+    "author": "Masuka & Ryvarden",
+    "protologo record0": "Mycol. helv. 5 (2) : 144 (1993)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype O, Ryvarden 11393",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "O",
+          "Ryvarden 11393"
+        ]
+      }
+    ],
+    "locality raw": "Malawi",
+    "country": "Malawi",
+    "host": "on soil, associated with Widdringtonia nodiflora",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "311546": {
+    "species": "Coltricia albertinii",
+    "author": "(Lloyd) Ryvarden",
+    "protologo record0": "Khumbu Himal 6 : 381 (1977)",
+    "Basionym": "Polyporus albertinii",
+    "Basionym_author": "Lloyd",
+    "protologo basionym": "Mycol. Writ. 3 (Syn. Stip. Polyporoids) : 160 (1912)",
+    "basionym recordID": "374232",
+    "typification": "Holotype PDD 19911",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PDD 19911"
+        ]
+      }
+    ],
+    "locality raw": "Queensland",
+    "country": "Australia",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Inonotus albertinii",
+    "_current_name_id": "132882",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "129063": {
+    "species": "Coltricia albidipes",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 53 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: colln Corner, Corner, 30 Jun. 1930",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "colln Corner",
+          "Corner",
+          "30 Jun. 1930"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on soil in forest",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "563890": {
+    "species": "Coltricia albidipes",
+    "author": "Corner ex Y.C. Dai & Hai J. Li",
+    "protologo record0": "Mycoscience 53 (5) : 338 (2012)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype E 439134",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "E 439134"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on ground in forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "129067": {
+    "species": "Coltricia arenicola",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 57 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: colln Corner, Corner, 16 Jun. 1934",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "colln Corner",
+          "Corner",
+          "16 Jun. 1934"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on maritime sand",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "563892": {
+    "species": "Coltricia arenicola",
+    "author": "Corner ex Y.C. Dai & Hai J. Li",
+    "protologo record0": "Mycoscience 53 (5) : 339 (2012)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype E 439138",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "E 439138"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on hot sand among open scrub of Rhodomyrtus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "285508": {
+    "species": "Coltricia aureofulva",
+    "author": "(Lloyd) G. Cunn.",
+    "protologo record0": "Bull. N.Z. Dept. Sci. Industr. Res., Pl. Dis. Div. 77 : 9 (1948)",
+    "Basionym": "Polyporus aureofulvus",
+    "Basionym_author": "Lloyd",
+    "protologo basionym": "Mycol. Writ. 7 (Letter 66) : 1108 (1922)",
+    "basionym recordID": "374239",
+    "typification": "Holotype PDD 175",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PDD 175"
+        ]
+      }
+    ],
+    "locality raw": "New Zealand (Aotearoa)",
+    "country": "New Zealand / Aotearoa",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Rigidoporus aureofulvus",
+    "_current_name_id": "132889",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "800364": {
+    "species": "Coltricia australica",
+    "author": "L.W. Zhou, Tedersoo & Y.C. Dai",
+    "protologo record0": "Mycotaxon 122 : 124 (2013)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype TU 103694",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "TU 103694"
+        ]
+      }
+    ],
+    "locality raw": "Tasmania",
+    "country": "Australia",
+    "host": "on ground in mixed forest of Eucalyptus and Nothofagus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "815487": {
+    "species": "Coltricia austrosinensis",
+    "author": "L.S. Bian & Y.C. Dai",
+    "protologo record0": "Mycol. Progr. 15 (3/27) : 4 (2016)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 013317",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 013317"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on ground in mixed tropical forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "311547": {
+    "species": "Coltricia bambusicola",
+    "author": "(Henn.) D.A. Reid",
+    "protologo record0": "Microscopy 32 : 449 (1975)",
+    "Basionym": "Polyporus bambusicola",
+    "Basionym_author": "Henn.",
+    "protologo basionym": "Hedwigia 40 : 326 (1901)",
+    "basionym recordID": "180161",
+    "typification": "Typification: Gollan 70",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Gollan 70"
+        ]
+      }
+    ],
+    "locality raw": "Uttar Pradesh",
+    "country": "India",
+    "host": "on roots of Bambusoideae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "839906": {
+    "species": "Coltricia baoshanensis",
+    "author": "(Y.C. Dai & B.K. Cui) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 11 (2022)",
+    "Basionym": "Coltriciella baoshanensis",
+    "Basionym_author": "Y.C. Dai & B.K. Cui",
+    "protologo basionym": "Mycosystema 33 (3) : 618 (2014)",
+    "basionym recordID": "570069",
+    "typification": "Holotype BJFC, Dai 13075",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Dai 13075"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on charred wood of Castanopsis",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "468828": {
+    "species": "Coltricia barbata",
+    "author": "Ryvarden & de Meijer",
+    "protologo record0": "Syn. Fung. 15 : 46 (2002)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype HFC, de Meijer 3085",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "HFC",
+          "de Meijer 3085"
+        ]
+      }
+    ],
+    "locality raw": "Paraná",
+    "country": "Brasil",
+    "host": "on ground in dense ombrophilous forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "228226": {
+    "species": "Coltricia benguetensis",
+    "author": "Murrill",
+    "protologo record0": "Bull. Torrey bot. Club 35 : 391 (1908)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype NY, Merrill 5003",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "NY",
+          "Merrill 5003"
+        ]
+      }
+    ],
+    "locality raw": "Philippines",
+    "country": "Philippines",
+    "host": "on logs of Pinus insularis",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fulvoderma vallatum",
+    "_current_name_id": "854321",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "295449": {
+    "species": "Coltricia brunneoleuca",
+    "author": "(Berk.) G. Cunn.",
+    "protologo record0": "Proc. Linn. Soc. N.S.W. 75 (3-4) : 220 (1950)",
+    "Basionym": "Polyporus brunneoleucus",
+    "Basionym_author": "Berk.",
+    "protologo basionym": "London J. Bot. 5 : 4 (1846)",
+    "basionym recordID": "374241",
+    "typification": "Holotype K(M) 56525",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 56525"
+        ]
+      }
+    ],
+    "locality raw": "Tasmania",
+    "country": "Australia",
+    "host": "on wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coriolopsis brunneoleuca",
+    "_current_name_id": "311815",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "328727": {
+    "species": "Coltricia cartilaginea",
+    "author": "G. Cunn.",
+    "protologo record0": "Bull. N.Z. Dept. Sci. Industr. Res. 164 : 262 (1965)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype PDD 3869",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PDD 3869"
+        ]
+      }
+    ],
+    "locality raw": "New Zealand (Aotearoa)",
+    "country": "New Zealand / Aotearoa",
+    "host": "on decorticated decayed wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Rigidoporus aureofulvus",
+    "_current_name_id": "132889",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "119718": {
+    "species": "Coltricia cinnamomea",
+    "author": "(Jacq.) Murrill",
+    "protologo record0": "Bull. Torrey bot. Club 31 (6) : 343 (1904)",
+    "Basionym": "Boletus cinnamomeus",
+    "Basionym_author": "Jacq.",
+    "protologo basionym": "Collnea bot. 1 (1) : 116 (1787)",
+    "basionym recordID": "215464",
+    "typification": "Typification: Tab. 2 (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. 2 (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "Austria",
+    "country": "Austria",
+    "host": "on soil, associated with Musci",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "442402": {
+    "species": "Coltricia confluens",
+    "author": "P.-J. Keizer",
+    "protologo record0": "Persoonia 16 (3) : 389 (1997)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype WAG (W), Keizer 93060",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "WAG (W)",
+          "Keizer 93060"
+        ]
+      }
+    ],
+    "locality raw": "Netherlands",
+    "country": "Netherlands",
+    "host": "on soil in deciduous plantations",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "328728": {
+    "species": "Coltricia corrosa",
+    "author": "(Murrill) G. Cunn.",
+    "protologo record0": "Bull. N.Z. Dept. Sci. Industr. Res. 164 : 194 (1965)",
+    "Basionym": "Inonotus corrosus",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "Bull. Torrey bot. Club 31 (11) : 598 (1904)",
+    "basionym recordID": "159087",
+    "typification": "Holotype NY, Earle 203",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "NY",
+          "Earle 203"
+        ]
+      }
+    ],
+    "locality raw": "Jamaica",
+    "country": "Jamaica",
+    "host": "on dead 'vine'",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phylloporia chrysites",
+    "_current_name_id": "320278",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "839907": {
+    "species": "Coltricia corticicola",
+    "author": "(Corner ex Y.C. Dai & Hai J. Li) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 11 (2022)",
+    "Basionym": "Coltriciella corticicola",
+    "Basionym_author": "Corner ex Y.C. Dai & Hai J. Li",
+    "protologo basionym": "Mycoscience 53 (5) : 344 (2012)",
+    "basionym recordID": "563896",
+    "typification": "Holotype E 439175",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "E 439175"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on sandy bank in forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "518910": {
+    "species": "Coltricia crassa",
+    "author": "Y.C. Dai",
+    "protologo record0": "Fungal Diversity 45 : 140 (2010)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Yuan 2213",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Yuan 2213"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on root of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "129054": {
+    "species": "Coltricia cumingii",
+    "author": "(Berk.) Teng",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 73 (1991)",
+    "Basionym": "Polyporus cumingii",
+    "Basionym_author": "Berk.",
+    "protologo basionym": "London J. Bot. 1 (3) : 147 (1842)",
+    "basionym recordID": "128890",
+    "typification": "Holotype K(M), Cuming 1986",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "Cuming 1986"
+        ]
+      }
+    ],
+    "locality raw": "Philippines",
+    "country": "Philippines",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phylloporia spathulata",
+    "_current_name_id": "460305",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "505150": {
+    "species": "Coltricia cylindrospora",
+    "author": "Ryvarden",
+    "protologo record0": "Syn. Fung. 23 : 35 (2007)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype O, Ryvarden 45283",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "O",
+          "Ryvarden 45283"
+        ]
+      }
+    ],
+    "locality raw": "Belize",
+    "country": "Belize",
+    "host": "on ground below Coccoloba belizensis",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "551094": {
+    "species": "Coltricia dependella",
+    "author": "Vasco-Palac. & Ryvarden",
+    "protologo record0": "Ectomycorrhizal fungi in Amazonian \ntropical forests in Colombia : 128 (2016)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype HUA 197146",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "HUA 197146"
+        ]
+      }
+    ],
+    "locality raw": "Colombia",
+    "country": "Colombia",
+    "host": "on dead hardwood log",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "285509": {
+    "species": "Coltricia dependens",
+    "author": "(Berk. & M.A. Curtis) Imazeki",
+    "protologo record0": "Bull. Tokyo Sci. Mus. 6 : 109 (1943)",
+    "Basionym": "Polyporus dependens",
+    "Basionym_author": "Berk. & M.A. Curtis",
+    "protologo basionym": "Ann. Mag. nat. Hist. 12 : 431 (1853)",
+    "basionym recordID": "472534",
+    "typification": "Holotype K(M) 78148",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 78148"
+        ]
+      }
+    ],
+    "locality raw": "South Carolina",
+    "country": "United States",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coltriciella dependens",
+    "_current_name_id": "445568",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "531538": {
+    "species": "Coltricia dependens",
+    "author": "(Berk. & M.A. Curtis) G. Cunn.",
+    "protologo record0": "New Zealand Department of Scientific and Industrial Research Bulletin 77 : 2 (1948)",
+    "Basionym": "Polyporus dependens",
+    "Basionym_author": "Berk. & M.A. Curtis",
+    "protologo basionym": "Ann. Mag. nat. Hist. 12 : 431 (1853)",
+    "basionym recordID": "472534",
+    "typification": "Holotype K(M) 78148",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 78148"
+        ]
+      }
+    ],
+    "locality raw": "South Carolina",
+    "country": "United States",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "311548": {
+    "species": "Coltricia duostratosa",
+    "author": "(Lloyd) Ryvarden",
+    "protologo record0": "Khumbu Himal 6 : 381 (1977)",
+    "Basionym": "Polyporus duostratosus",
+    "Basionym_author": "Lloyd",
+    "protologo basionym": "Mycol. Notes 7 : 1317 (1924)",
+    "basionym recordID": "263599",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Inonotus duostratosus",
+    "_current_name_id": "132883",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "285510": {
+    "species": "Coltricia duostratosa var. duostratosa",
+    "author": "(Lloyd) Ryvarden",
+    "protologo record0": "Khumbu Himal 6 : 381 (1977)",
+    "Basionym": "Polyporus duostratosus",
+    "Basionym_author": "Lloyd",
+    "protologo basionym": "Mycol. Notes 7 : 1317 (1924)",
+    "basionym recordID": "263599",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "129075": {
+    "species": "Coltricia duostratosa var. parvula",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 80 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: colln Corner, Corner, 28 Jun. 1932",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "colln Corner",
+          "Corner",
+          "28 Jun. 1932"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "at base of dead tree",
+    "_rank": "var.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "258572": {
+    "species": "Coltricia duporti",
+    "author": "(Pat.) Ryvarden",
+    "protologo record0": "(1983)",
+    "Basionym": "Xanthochrous duportii",
+    "Basionym_author": "Pat.",
+    "protologo basionym": "Bull. Soc. Mycol. France 28 (1) : 34 (1912)",
+    "basionym recordID": "472055",
+    "typification": "Typification: Duport s.n.; Fig. 3a-e (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Duport s.n.; Fig. 3a-e (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "Guinea",
+    "country": "Guinea",
+    "host": "on trunk of Arecaceae",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "106709",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "106709": {
+    "species": "Coltricia duportii",
+    "author": "(Pat.) Ryvarden",
+    "protologo record0": "Occ. Pap. Farlow Herb. Crypt. Bot. 18 : 15 (1983)",
+    "Basionym": "Xanthochrous duportii",
+    "Basionym_author": "Pat.",
+    "protologo basionym": "Bull. Soc. Mycol. France 28 (1) : 34 (1912)",
+    "basionym recordID": "472055",
+    "typification": "Typification: Duport s.n.; Fig. 3a-e (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Duport s.n.; Fig. 3a-e (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "Guinea",
+    "country": "Guinea",
+    "host": "on trunk of Arecaceae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "505146": {
+    "species": "Coltricia fibrosa",
+    "author": "Aime & Ryvarden",
+    "protologo record0": "Syn. Fung. 23 : 21 (2007)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BRG, Aime 2054",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BRG",
+          "Aime 2054"
+        ]
+      }
+    ],
+    "locality raw": "Guyana",
+    "country": "Guyana",
+    "host": "on decorticated wood in forests dominated by Dicymbe corymbosa",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "842181": {
+    "species": "Coltricia fimbriata",
+    "author": "L.S. Bian, M. Zhou & Jian Yu",
+    "protologo record0": "Mycol. Progr. 21 (4, no. 45) : 6 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Dai 22300",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Dai 22300"
+        ]
+      }
+    ],
+    "locality raw": "Zhejiang",
+    "country": "中国",
+    "host": "on soil, associated with Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "454835": {
+    "species": "Coltricia focicola",
+    "author": "(Berk. & M.A. Curtis) Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (2) : 92 (1908)",
+    "Basionym": "Polyporus focicola",
+    "Basionym_author": "Berk. & M.A. Curtis",
+    "protologo basionym": "J. Linn. Soc. 10 (no. 45) : 305 (1868)",
+    "basionym recordID": "167059",
+    "typification": "Typification: K(M), Wright 386; K(M), Wright 387",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "K(M)",
+          "Wright 386; K(M)",
+          "Wright 387"
+        ]
+      }
+    ],
+    "locality raw": "Cuba",
+    "country": "Cuba",
+    "host": "on soil, associated with burnt stumps of Coniferae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "344443": {
+    "species": "Coltricia fonsecoensis",
+    "author": "W.B. Cooke & Bonar",
+    "protologo record0": "Occ. Pap. Calif. Acad. Sci. 29 : 3 (1961)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Nicaragua",
+    "country": "Nicaragua",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "110579": {
+    "species": "Coltricia fragilissima",
+    "author": "(Mont.) Ryvarden",
+    "protologo record0": "Nordic J. Bot. 2 (1) : 78 (1982)",
+    "Basionym": "Polyporus fragilissimus",
+    "Basionym_author": "Mont.",
+    "protologo basionym": "Annls Sci. Nat. 1 : 130 (1854)",
+    "basionym recordID": "161538",
+    "typification": "Typification: Leprieur 951",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Leprieur 951"
+        ]
+      }
+    ],
+    "locality raw": "French Guiana",
+    "country": "France",
+    "host": "on burnt wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "295450": {
+    "species": "Coltricia fruticum",
+    "author": "(Berk. & M.A. Curtis) G. Cunn.",
+    "protologo record0": "Proc. Linn. Soc. N.S.W. 75 (3-4) : 226 (1950)",
+    "Basionym": "Polyporus fruticum",
+    "Basionym_author": "Berk. & M.A. Curtis",
+    "protologo basionym": "J. Linn. Soc. 10 (no. 45) : 310 (1868)",
+    "basionym recordID": "177767",
+    "typification": "Typification: K(M), Wright 160; K(M), Wright 161; K(M), Wright 442",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "K(M)",
+          "Wright 160; K(M)",
+          "Wright 161; K(M)",
+          "Wright 442"
+        ]
+      }
+    ],
+    "locality raw": "Cuba",
+    "country": "Cuba",
+    "host": "on living twigs",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phylloporia fruticum",
+    "_current_name_id": "320279",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "513202": {
+    "species": "Coltricia globispora",
+    "author": "Gomes-Silva, Ryvarden & Gibertoni",
+    "protologo record0": "Mycol. Progr. 8 (4) : 274 (2009)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype URM 795781",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "URM 795781"
+        ]
+      }
+    ],
+    "locality raw": "Rondônia",
+    "country": "Brasil",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "839909": {
+    "species": "Coltricia globosa",
+    "author": "(L.S. Bian & Y.C. Dai) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 11 (2022)",
+    "Basionym": "Coltriciella globosa",
+    "Basionym_author": "L.S. Bian & Y.C. Dai",
+    "protologo basionym": "Mycoscience 56 (2) : 194 (2014)",
+    "basionym recordID": "807394",
+    "typification": "Holotype BJFC 6033",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 6033"
+        ]
+      }
+    ],
+    "locality raw": "Guangdong",
+    "country": "China",
+    "host": "on stump of Pinus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "129079": {
+    "species": "Coltricia gracilipes",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 93 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: colln Corner, Sing. F.N. 28227",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "colln Corner",
+          "Sing. F.N. 28227"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on sand",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "129080": {
+    "species": "Coltricia grandis",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 94 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: colln Corner, Sing. F.N. 28223",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "colln Corner",
+          "Sing. F.N. 28223"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "at base of old trunk in forest",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "521945": {
+    "species": "Coltricia grandispora",
+    "author": "Ryvarden & Hauskn.",
+    "protologo record0": "Österr. Z. Pilzk. 15 : 143 (2006)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype WU 26565",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "WU 26565"
+        ]
+      }
+    ],
+    "locality raw": "Seychelles",
+    "country": "Seychelles",
+    "host": "on bare loamy soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "534641": {
+    "species": "Coltricia greenei",
+    "author": "(Berk.) Imazeki",
+    "protologo record0": "Bull. Tokyo Sci. Mus. 6 : 109 (1943)",
+    "Basionym": "Cyclomyces greenei",
+    "Basionym_author": "Berk.",
+    "protologo basionym": "London J. Bot. 4 : 306 (1845)",
+    "basionym recordID": "534640",
+    "typification": "Holotype K(M), Greene s.n.",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "Greene s.n."
+        ]
+      }
+    ],
+    "locality raw": "Massachusetts",
+    "country": "United States",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coltricia montagnei",
+    "_current_name_id": "283036",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "295451": {
+    "species": "Coltricia greenii",
+    "author": "(Berk.) Imazeki",
+    "protologo record0": "(1943)",
+    "Basionym": "Cyclomyces greenei",
+    "Basionym_author": "Berk.",
+    "protologo basionym": "London J. Bot. 4 : 306 (1845)",
+    "basionym recordID": "534640",
+    "typification": "Holotype K(M), Greene s.n.",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "Greene s.n."
+        ]
+      }
+    ],
+    "locality raw": "Massachusetts",
+    "country": "United States",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "534641",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "857639": {
+    "species": "Coltricia hainanensis",
+    "author": "Xin Zhang bis, G.Y. Zeng & Y.C. Dai",
+    "protologo record0": "Phytotaxa 702 (3) : 277 (2025)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 050654",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 050654"
+        ]
+      }
+    ],
+    "locality raw": "Hainan",
+    "country": "China",
+    "host": "on soil, associated with Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "311549": {
+    "species": "Coltricia hamata",
+    "author": "(Romell) Ryvarden",
+    "protologo record0": "Svensk bot. Tidskr. 68 (3) : 276 (1974)",
+    "Basionym": "Pelloporus hamatus",
+    "Basionym_author": "Romell",
+    "protologo basionym": "K. svenska Vetensk-Akad. Handl. 26 : 26 (1901)",
+    "basionym recordID": "141114",
+    "typification": "Typification: Malme s.n.",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Malme s.n."
+        ]
+      }
+    ],
+    "locality raw": "Mato Grosso",
+    "country": "Brazil",
+    "host": "on trunks",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "295452": {
+    "species": "Coltricia haskarlii",
+    "author": "(Lév.) G. Cunn.",
+    "protologo record0": "Proc. Linn. Soc. N.S.W. 75 (3-4) : 228 (1950)",
+    "Basionym": "Polyporus haskarlii",
+    "Basionym_author": "Lév.",
+    "protologo basionym": "Annls Sci. Nat. 2 : 190 (1844)",
+    "basionym recordID": "534786",
+    "typification": "Typification: Junghuhn s.n. ('herb. Lugd. Batav.')",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Junghuhn s.n. ('herb. Lugd. Batav.')"
+        ]
+      }
+    ],
+    "locality raw": "Jawa",
+    "country": "Indonesia",
+    "host": "on trunk",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "129081": {
+    "species": "Coltricia hirtipes",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 98 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: colln Corner, Sing. R.N. 28225",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "colln Corner",
+          "Sing. R.N. 28225"
+        ]
+      }
+    ],
+    "locality raw": "Singapore",
+    "country": "Singapore",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "452658": {
+    "species": "Coltricia hirtipes var. hirtipes",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 98 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "129082": {
+    "species": "Coltricia hirtipes var. pleuropodalis",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 99 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: colln Corner, Corner, 28 Jul. 1934",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "colln Corner",
+          "Corner",
+          "28 Jul. 1934"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on mossy bank in forest",
+    "_rank": "var.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "563260": {
+    "species": "Coltricia indica",
+    "author": "Baltazar",
+    "protologo record0": "Mycotaxon 119 : 386 (2012)",
+    "Basionym": "Coltricia pusilla",
+    "Basionym_author": "J.R. Sharma & J.E. Wright",
+    "protologo basionym": "Bull. bot. Surv. India 31 (1-4) : 182 (1992)",
+    "basionym recordID": "361585",
+    "typification": "Holotype CAL, JRS 60108",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "CAL",
+          "JRS 60108"
+        ]
+      }
+    ],
+    "locality raw": "Meghalaya",
+    "country": "India",
+    "host": "on soil in coniferous forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coltriciella pusilla",
+    "_current_name_id": "129052",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "900072": {
+    "species": "Coltricia insularis",
+    "author": "P.-A. Moreau, Bellanger, Loizides & A.C. Rinaldi",
+    "protologo record0": "Fungal Diversity 117 : 178 (2023)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype LIP 0401817",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "LIP 0401817"
+        ]
+      }
+    ],
+    "locality raw": "Corse",
+    "country": "France",
+    "host": "on Cistus and Halimium halimifolium",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "129085": {
+    "species": "Coltricia kinabaluensis",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 106 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: colln Corner, RSNB 5465",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "colln Corner",
+          "RSNB 5465"
+        ]
+      }
+    ],
+    "locality raw": "Sabah",
+    "country": "Malaysia",
+    "host": "on fallen wood in montane forest",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "563894": {
+    "species": "Coltricia kinabaluensis",
+    "author": "Corner ex Y.C. Dai & Hai J. Li",
+    "protologo record0": "Mycoscience 53 (5) : 341 (2012)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype E 439145",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "E 439145"
+        ]
+      }
+    ],
+    "locality raw": "Sabah",
+    "country": "Malaysia",
+    "host": "on fallen wood in montane forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "285511": {
+    "species": "Coltricia laeta",
+    "author": "(Cooke) G. Cunn.",
+    "protologo record0": "Bull. N.Z. Dept. Sci. Industr. Res., Pl. Dis. Div. 77 : 8 (1948)",
+    "Basionym": "Polyporus laetus",
+    "Basionym_author": "Cooke",
+    "protologo basionym": "Grevillea 12 (no. 61) : 16 (1883)",
+    "basionym recordID": "167395",
+    "typification": "Holotype K(M), anon. s.n.",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "anon. s.n."
+        ]
+      }
+    ],
+    "locality raw": "Victoria",
+    "country": "Australia",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Rigidoporus laetus",
+    "_current_name_id": "132890",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "817365": {
+    "species": "Coltricia lateralis",
+    "author": "L.S. Bian & Y.C. Dai",
+    "protologo record0": "Mycologia 109 (1) : 67 (2017)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Cui 12563",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Cui 12563"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on ground in mixed forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "842182": {
+    "species": "Coltricia lenis",
+    "author": "L.S. Bian, M. Zhou & Jian Yu",
+    "protologo record0": "Mycol. Progr. 21 (4, no. 45) : 6 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Dai 22374",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Dai 22374"
+        ]
+      }
+    ],
+    "locality raw": "Fujian",
+    "country": "China",
+    "host": "on soil, associated with Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "468829": {
+    "species": "Coltricia leptocephala",
+    "author": "(Jacq.) Gray",
+    "protologo record0": "Nat. Arr. Brit. Pl. 1 : 645 (1821)",
+    "Basionym": "Boletus leptocephalus",
+    "Basionym_author": "Jacq.",
+    "protologo basionym": "Miscell. austriac. 1 : 142 (1778)",
+    "basionym recordID": "144838",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Austria",
+    "country": "Austria",
+    "host": "on trunks",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Cerioporus leptocephalus",
+    "_current_name_id": "812037",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "328731": {
+    "species": "Coltricia luteoumbrina",
+    "author": "(Romell) Teng",
+    "protologo record0": "Chung-kuo Ti Chen-chun : 759 (1963)",
+    "Basionym": "Phaeoporus luteoumbrinus",
+    "Basionym_author": "Romell",
+    "protologo basionym": "K. svenska Vetensk-Akad. Handl. 26 : 27 (1901)",
+    "basionym recordID": "470440",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fulvifomes luteoumbrinus",
+    "_current_name_id": "825582",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "518911": {
+    "species": "Coltricia macropora",
+    "author": "Y.C. Dai",
+    "protologo record0": "Fungal Diversity 45 : 142 (2010)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Cui 9019",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Cui 9019"
+        ]
+      }
+    ],
+    "locality raw": "Guangdong",
+    "country": "China",
+    "host": "on fallen Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "129087": {
+    "species": "Coltricia magna",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 109 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: colln Corner, Corner, 24 May 1930",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "colln Corner",
+          "Corner",
+          "24 May 1930"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on sand in montane forest",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "228940": {
+    "species": "Coltricia memmingeri",
+    "author": "Murrill",
+    "protologo record0": "Bull. Torrey bot. Club 31 (6) : 347 (1904)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype NY, Memminger, 1 Sept. 1901",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "NY",
+          "Memminger",
+          "1 Sept. 1901"
+        ]
+      }
+    ],
+    "locality raw": "North Carolina",
+    "country": "United States",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coltricia montagnei",
+    "_current_name_id": "283036",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "815488": {
+    "species": "Coltricia minima",
+    "author": "L.S. Bian & Y.C. Dai",
+    "protologo record0": "Mycol. Progr. 15 (3/27) : 5 (2016)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 019317",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 019317"
+        ]
+      }
+    ],
+    "locality raw": "Hainan",
+    "country": "China",
+    "host": "on ground in tropical forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "515565": {
+    "species": "Coltricia minor",
+    "author": "Y.C. Dai",
+    "protologo record0": "Sydowia 62 (1) : 12 (2010)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype IFP, Li 1760",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "IFP",
+          "Li 1760"
+        ]
+      }
+    ],
+    "locality raw": "Hunan",
+    "country": "中国",
+    "host": "on rotten wood of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "839910": {
+    "species": "Coltricia minuscula",
+    "author": "(Susan, Retn. & Sukarno) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 11 (2022)",
+    "Basionym": "Coltriciella minuscula",
+    "Basionym_author": "Susan, Retn. & Sukarno",
+    "protologo basionym": "Mycoscience 59 (1) : 50 (2017)",
+    "basionym recordID": "817889",
+    "typification": "Holotype BO 22806",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BO 22806"
+        ]
+      }
+    ],
+    "locality raw": "Jawa",
+    "country": "Indonesia",
+    "host": "on trunk base of Pinus merkusii",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "283036": {
+    "species": "Coltricia montagnei",
+    "author": "(Fr.) Murrill",
+    "protologo record0": "Mycologia 12 (1) : 13 (1920)",
+    "Basionym": "Polyporus montagnei",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "Annls Sci. Nat. 5 : 341 (1836)",
+    "basionym recordID": "230832",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "353389": {
+    "species": "Coltricia montagnei var. greenei",
+    "author": "(Berk.) Imazeki & Kobayasi",
+    "protologo record0": "Trans. Mycol. Soc. Japan 7 : 43 (1966)",
+    "Basionym": "Cyclomyces greenei",
+    "Basionym_author": "Berk.",
+    "protologo basionym": "London J. Bot. 4 : 306 (1845)",
+    "basionym recordID": "534640",
+    "typification": "Holotype K(M), Greene s.n.",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "Greene s.n."
+        ]
+      }
+    ],
+    "locality raw": "Massachusetts",
+    "country": "United States",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coltricia montagnei",
+    "_current_name_id": "283036",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "429733": {
+    "species": "Coltricia montagnei var. montagnei",
+    "author": "(Fr.) Murrill",
+    "protologo record0": "Mycologia 12 (1) : 13 (1920)",
+    "Basionym": "Polyporus montagnei",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "Annls Sci. Nat. 5 : 341 (1836)",
+    "basionym recordID": "230832",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "285512": {
+    "species": "Coltricia mowryana",
+    "author": "Murrill",
+    "protologo record0": "Bull. Torrey bot. Club 67 : 228 (1940)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Florida",
+    "country": "United States",
+    "host": "on Persea borbonia",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Polyporus mowryanus",
+    "_current_name_id": "470876",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "839911": {
+    "species": "Coltricia naviculiformis",
+    "author": "(Y.C. Dai & Niemelä) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 11 (2022)",
+    "Basionym": "Coltriciella naviculiformis",
+    "Basionym_author": "Y.C. Dai & Niemelä",
+    "protologo basionym": "Acta bot. fenn. 179 : 21 (2006)",
+    "basionym recordID": "541329",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "839912": {
+    "species": "Coltricia navispora",
+    "author": "(T.W. Henkel, Aime & Ryvarden) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 11 (2022)",
+    "Basionym": "Coltriciella navispora",
+    "Basionym_author": "T.W. Henkel, Aime & Ryvarden",
+    "protologo basionym": "Mycologia 95 (4) : 617 (2003)",
+    "basionym recordID": "489173",
+    "typification": "Holotype BRG, Henkel 7576",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BRG",
+          "Henkel 7576"
+        ]
+      }
+    ],
+    "locality raw": "Guyana",
+    "country": "Guyana",
+    "host": "on trunks in Dicymbe-dominated forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "468830": {
+    "species": "Coltricia nummularia",
+    "author": "(Bull.) Gray",
+    "protologo record0": "Nat. Arr. Brit. Pl. 1 : 644 (1821)",
+    "Basionym": "Boletus nummularius",
+    "Basionym_author": "Bull.",
+    "protologo basionym": "Herb. Fr. 3 : pl. 124 (1783)",
+    "basionym recordID": "356027",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Cerioporus leptocephalus",
+    "_current_name_id": "812037",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "468831": {
+    "species": "Coltricia obesa",
+    "author": "(Ellis & Everh.) Murrill",
+    "protologo record0": "Bull. Torrey bot. Club 31 (6) : 346 (1904)",
+    "Basionym": "Polystictus obesus",
+    "Basionym_author": "Ellis & Everh.",
+    "protologo basionym": "Bull. Torrey bot. Club 24 : 125 (1897)",
+    "basionym recordID": "154114",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "New Jersey, Pennsylvania",
+    "country": "Jersey",
+    "host": "on soil, attached to decaying wood of Pinus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coltricia montagnei",
+    "_current_name_id": "283036",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "311550": {
+    "species": "Coltricia oblectabilis",
+    "author": "(Lloyd) Ryvarden",
+    "protologo record0": "Norw. Jl Bot. 19 : 231 (1972)",
+    "Basionym": "Polystictus oblectabilis",
+    "Basionym_author": "Lloyd",
+    "protologo basionym": "Mycol. Writ. 3 (Syn. Stip. Polyporoids) : 164 (1912)",
+    "basionym recordID": "471015",
+    "typification": "Typification: Ule 48; Fig. 464 (loc. cit.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Ule 48; Fig. 464 (loc. cit.)"
+        ]
+      }
+    ],
+    "locality raw": "Amazonas",
+    "country": "Brazil",
+    "host": "on the gound in forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "285513": {
+    "species": "Coltricia oblectans",
+    "author": "(Berk.) G. Cunn.",
+    "protologo record0": "Bull. N.Z. Dept. Sci. Industr. Res., Pl. Dis. Div. 77 : 3 (1948)",
+    "Basionym": "Polyporus oblectans",
+    "Basionym_author": "Berk.",
+    "protologo basionym": "London J. Bot. 4 : 51 (1845)",
+    "basionym recordID": "472736",
+    "typification": "Holotype K(M) 166973",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 166973"
+        ]
+      }
+    ],
+    "locality raw": "Western Australia",
+    "country": "Australia",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coltricia cinnamomea",
+    "_current_name_id": "119718",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "804188": {
+    "species": "Coltricia oboensis",
+    "author": "Decock",
+    "protologo record0": "Cryptog. Mycol. 34 (2) : 176 (2013)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype NY, Decock ST-11-56",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "NY",
+          "Decock ST-11-56"
+        ]
+      }
+    ],
+    "locality raw": "São Tomé",
+    "country": "São Tomé e Príncipe",
+    "host": "among mosses at base of angiosperm tree",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "328732": {
+    "species": "Coltricia opisthopus",
+    "author": "(Pat.) Teng",
+    "protologo record0": "Chung-kuo Ti Chen-chun : 759 (1963)",
+    "Basionym": "Xanthochrous opisthopus",
+    "Basionym_author": "Pat.",
+    "protologo basionym": "Bull. Mus. natn. Hist. nat. 29 : 336 (1923)",
+    "basionym recordID": "272966",
+    "typification": "Typification: Poilane 2685",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Poilane 2685"
+        ]
+      }
+    ],
+    "locality raw": "Vietnam",
+    "country": "Vietnam",
+    "host": "on dead branch",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "473628": {
+    "species": "Coltricia parvula",
+    "author": "(Fr.) Murrill",
+    "protologo record0": "Bull. Torrey bot. Club 31 (6) : 345 (1904)",
+    "Basionym": "Polystictus parvulus",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "Nova Acta R. Soc. Scient. upsal. 1 (1) : 71 (1851)",
+    "basionym recordID": "247459",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coltricia cinnamomea",
+    "_current_name_id": "119718",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "356793": {
+    "species": "Coltricia perennis",
+    "author": "(L.) Murrill",
+    "protologo record0": "J. Mycol. 9 (2) : 91 (1903)",
+    "Basionym": "Boletus perennis",
+    "Basionym_author": "L.",
+    "protologo basionym": "Sp. pl. 2 : 1177 (1753)",
+    "basionym recordID": "200283",
+    "typification": "Typification: anon. s.n. (Fl. lapp., no. 522); anon. s.n. (Fl. suec., no. 1086); Tab. 12, fig. 7 (Vaillant, Paris.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "anon. s.n. (Fl. lapp.",
+          "no. 522); anon. s.n. (Fl. suec.",
+          "no. 1086); Tab. 12",
+          "fig. 7 (Vaillant",
+          "Paris.)"
+        ]
+      }
+    ],
+    "locality raw": "Sweden",
+    "country": "Sweden",
+    "host": "on soil and rotten wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "352706": {
+    "species": "Coltricia perennis f. alba",
+    "author": "(Wanin) Domański",
+    "protologo record0": "Flora Polska. Grzyby (Mycota). Podstawczaki (Basidiomycetes), Bezblaszkowce (Aphyllophorales), Skórnikowate (Stereaceae), Pucharkowate (Podoscyphaceae) : 327 (1967)",
+    "Basionym": "Coltricia perennis var. alba",
+    "Basionym_author": "Wanin",
+    "protologo basionym": "Botan. Mater. Otdela Sporovykh Rastenii, Bot. Inst. Akad. Nauk SSSR 2 : 16 (1932)",
+    "basionym recordID": "485918",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coltricia perennis",
+    "_current_name_id": "356793",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "347939": {
+    "species": "Coltricia perennis f. casimiri",
+    "author": "(Velen.) Pilát",
+    "protologo record0": "Atlas Champ. l'Europe : 581 (1942)",
+    "Basionym": "Polyporus casimiri",
+    "Basionym_author": "Velen.",
+    "protologo basionym": "České Houby 4-5 : 681 (1922)",
+    "basionym recordID": "277508",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Czech Republic",
+    "country": "Česko",
+    "host": "",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coltricia cinnamomea",
+    "_current_name_id": "119718",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "536824": {
+    "species": "Coltricia perennis f. casimirii",
+    "author": "(Velen.) Pilát",
+    "protologo record0": "(1942)",
+    "Basionym": "Polyporus casimiri",
+    "Basionym_author": "Velen.",
+    "protologo basionym": "České Houby 4-5 : 681 (1922)",
+    "basionym recordID": "277508",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Czech Republic",
+    "country": "Česko",
+    "host": "",
+    "_rank": "f.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "347939",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "347940": {
+    "species": "Coltricia perennis f. focicola",
+    "author": "(Berk. & M.A. Curtis) Domański, Orloś & Skirg.",
+    "protologo record0": "Flora Polska. Grzyby, II : 327 (1967)",
+    "Basionym": "Polyporus focicola",
+    "Basionym_author": "Berk. & M.A. Curtis",
+    "protologo basionym": "J. Linn. Soc. 10 (no. 45) : 305 (1868)",
+    "basionym recordID": "167059",
+    "typification": "Typification: K(M), Wright 386; K(M), Wright 387",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "K(M)",
+          "Wright 386; K(M)",
+          "Wright 387"
+        ]
+      }
+    ],
+    "locality raw": "Cuba",
+    "country": "Cuba",
+    "host": "on soil, associated with burnt stumps of Coniferae",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coltricia focicola",
+    "_current_name_id": "454835",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "426911": {
+    "species": "Coltricia perennis f. perennis",
+    "author": "(L.) Murrill",
+    "protologo record0": "J. Mycol. 9 (2) : 91 (1903)",
+    "Basionym": "Boletus perennis",
+    "Basionym_author": "L.",
+    "protologo basionym": "Sp. pl. 2 : 1177 (1753)",
+    "basionym recordID": "200283",
+    "typification": "Typification: anon. s.n. (Fl. lapp., no. 522); anon. s.n. (Fl. suec., no. 1086); Tab. 12, fig. 7 (Vaillant, Paris.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "anon. s.n. (Fl. lapp.",
+          "no. 522); anon. s.n. (Fl. suec.",
+          "no. 1086); Tab. 12",
+          "fig. 7 (Vaillant",
+          "Paris.)"
+        ]
+      }
+    ],
+    "locality raw": "Sweden",
+    "country": "Sweden",
+    "host": "on soil and rotten wood",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "485918": {
+    "species": "Coltricia perennis var. alba",
+    "author": "Wanin",
+    "protologo record0": "Botan. Mater. Otdela Sporovykh Rastenii, Bot. Inst. Akad. Nauk SSSR 2 : 16 (1932)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coltricia perennis",
+    "_current_name_id": "356793",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "347938": {
+    "species": "Coltricia perennis var. fimbriata",
+    "author": "(Cooke) Bondartsev",
+    "protologo record0": "Trut. Grib Evrop. Chasti SSSR Kavkaza [Bracket Fungi Europ. U.S.S.R. Caucasus] : 417 (1953)",
+    "Basionym": "Polystictus fimbriatus",
+    "Basionym_author": "Cooke",
+    "protologo basionym": "Grevillea 14 (no. 71) : 81 (1886)",
+    "basionym recordID": "142280",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Irpex rosettiformis",
+    "_current_name_id": "840776",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "426910": {
+    "species": "Coltricia perennis var. perennis",
+    "author": "(L.) Murrill",
+    "protologo record0": "J. Mycol. 9 (2) : 91 (1903)",
+    "Basionym": "Boletus perennis",
+    "Basionym_author": "L.",
+    "protologo basionym": "Sp. pl. 2 : 1177 (1753)",
+    "basionym recordID": "200283",
+    "typification": "Typification: anon. s.n. (Fl. lapp., no. 522); anon. s.n. (Fl. suec., no. 1086); Tab. 12, fig. 7 (Vaillant, Paris.)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "anon. s.n. (Fl. lapp.",
+          "no. 522); anon. s.n. (Fl. suec.",
+          "no. 1086); Tab. 12",
+          "fig. 7 (Vaillant",
+          "Paris.)"
+        ]
+      }
+    ],
+    "locality raw": "Sweden",
+    "country": "Sweden",
+    "host": "on soil and rotten wood",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "514142": {
+    "species": "Coltricia permollis",
+    "author": "Baltazar & Gibertoni",
+    "protologo record0": "Mycologia 102 (6) : 1257 (2010)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype URM 80118",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "URM 80118"
+        ]
+      }
+    ],
+    "locality raw": "Paraíba",
+    "country": "Brasil",
+    "host": "on soil and among wood debris in litter",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "295454": {
+    "species": "Coltricia placodes",
+    "author": "(Kalchbr.) G. Cunn.",
+    "protologo record0": "Bull. N.Z. Dept. Sci. Industr. Res., Pl. Dis. Div. 81 : 15 (1949)",
+    "Basionym": "Polyporus placodes",
+    "Basionym_author": "Kalchbr.",
+    "protologo basionym": "Grevillea 4 (no. 30) : 73 (1875)",
+    "basionym recordID": "212531",
+    "typification": "Holotype K(M), Thozet s.n.",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "Thozet s.n."
+        ]
+      }
+    ],
+    "locality raw": "Queensland",
+    "country": "Australia",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Hapalopilus placodes",
+    "_current_name_id": "298150",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "129097": {
+    "species": "Coltricia progressus",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 127 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: colln Corner, Sing. F.N. 23745",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "colln Corner",
+          "Sing. F.N. 23745"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on sand in forest",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "563895": {
+    "species": "Coltricia progressus",
+    "author": "Corner ex Y.C. Dai & Hai J. Li",
+    "protologo record0": "Mycoscience 53 (5) : 343 (2012)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype E 439154",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "E 439154"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on sandy bank in forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "468832": {
+    "species": "Coltricia pseudocinnamomea",
+    "author": "Burds.",
+    "protologo record0": "Mycologia 61 (3) : 647 (1969)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Maryland",
+    "country": "United States",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "839913": {
+    "species": "Coltricia pseudodependens",
+    "author": "(L.S. Bian & Y.C. Dai) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 11 (2022)",
+    "Basionym": "Coltriciella pseudodependens",
+    "Basionym_author": "L.S. Bian & Y.C. Dai",
+    "protologo basionym": "Mycoscience 56 (2) : 194 (2014)",
+    "basionym recordID": "807395",
+    "typification": "Holotype BJFC 6627",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 6627"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on rotten angiosperm wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "328733": {
+    "species": "Coltricia pusilla",
+    "author": "Imazeki & Kobayasi",
+    "protologo record0": "Trans. Mycol. Soc. Japan 7 : 42 (1966)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype TNS, Imazeki, 6 Sept. 1960",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "TNS",
+          "Imazeki",
+          "6 Sept. 1960"
+        ]
+      },
+      {
+        "type_of_type": "Neotype",
+        "material": [
+          "TNS",
+          "Hattori",
+          "18 Aug. 1991"
+        ]
+      }
+    ],
+    "locality raw": "Japan",
+    "country": "Japan",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coltriciella pusilla",
+    "_current_name_id": "129052",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "_html_types_added": true
+  },
+  "311551": {
+    "species": "Coltricia pyrophila",
+    "author": "(Wakef.) Ryvarden",
+    "protologo record0": "Norw. Jl Bot. 19 : 231 (1972)",
+    "Basionym": "Polyporus pyrophilus",
+    "Basionym_author": "Wakef.",
+    "protologo basionym": "Bull. Misc. Inf. : 71 (1916)",
+    "basionym recordID": "215348",
+    "typification": "Typification: Farquharson 50; Thomas, 1914",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Farquharson 50; Thomas",
+          "1914"
+        ]
+      }
+    ],
+    "locality raw": "Nigeria, Sierra Leone",
+    "country": "Nigeria",
+    "host": "on burnt ground",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "849006": {
+    "species": "Coltricia raigadensis",
+    "author": "P.B. Patil & S.A. Vaidya",
+    "protologo record0": "Mycoscience 65 (3) : 106 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype AMH 10511",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "AMH 10511"
+        ]
+      }
+    ],
+    "locality raw": "Maharashtra",
+    "country": "India",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "817366": {
+    "species": "Coltricia rigida",
+    "author": "L.S. Bian & Y.C. Dai",
+    "protologo record0": "Mycologia 109 (1) : 70 (2017)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Dai 13622a",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Dai 13622a"
+        ]
+      }
+    ],
+    "locality raw": "Hainan",
+    "country": "China",
+    "host": "on ground in tropical forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "558087": {
+    "species": "Coltricia robusta",
+    "author": "Vlasák & Ryvarden",
+    "protologo record0": "Syn. Fung. 42 : 30 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype PRM 952194",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PRM 952194"
+        ]
+      }
+    ],
+    "locality raw": "Costa Rica",
+    "country": "Costa Rica",
+    "host": "on living Arecaceae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "285514": {
+    "species": "Coltricia salpincta",
+    "author": "(Cooke) G. Cunn.",
+    "protologo record0": "Bull. N.Z. Dept. Sci. Industr. Res., Pl. Dis. Div. 77 : 6 (1948)",
+    "Basionym": "Polyporus salpinctus",
+    "Basionym_author": "Cooke",
+    "protologo basionym": "Grevillea 8 (no. 48) : 142 (1880)",
+    "basionym recordID": "472821",
+    "typification": "Holotype K(M), Berggren s.n.",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "Berggren s.n."
+        ]
+      }
+    ],
+    "locality raw": "New Zealand North",
+    "country": "New Zealand / Aotearoa",
+    "host": "on dead wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "129099": {
+    "species": "Coltricia salpincta var. irpicoidea",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 138 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype colln Corner, Corner, 22 Jun. 1932",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "colln Corner",
+          "Corner",
+          "22 Jun. 1932"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on sand by stream",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coltricia salpincta",
+    "_current_name_id": "285514",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "129100": {
+    "species": "Coltricia salpincta var. latipora",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 138 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Corner, 1 Aug. 1934",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Corner",
+          "1 Aug. 1934"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "452783": {
+    "species": "Coltricia salpincta var. salpincta",
+    "author": "(Cooke) G. Cunn.",
+    "protologo record0": "Bull. N.Z. Dept. Sci. Industr. Res., Pl. Dis. Div. 77 : 6 (1948)",
+    "Basionym": "Polyporus salpinctus",
+    "Basionym_author": "Cooke",
+    "protologo basionym": "Grevillea 8 (no. 48) : 142 (1880)",
+    "basionym recordID": "472821",
+    "typification": "Holotype K(M), Berggren s.n.",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "Berggren s.n."
+        ]
+      }
+    ],
+    "locality raw": "New Zealand North",
+    "country": "New Zealand / Aotearoa",
+    "host": "on dead wood",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "129101": {
+    "species": "Coltricia salpincta var. tenuis",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 138 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Corner, 28 Jul. 1934",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Corner",
+          "28 Jul. 1934"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on bare banks in forest",
+    "_rank": "var.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "285515": {
+    "species": "Coltricia schweinitzii",
+    "author": "(Fr.) G. Cunn.",
+    "protologo record0": "Bull. N.Z. Dept. Sci. Industr. Res., Pl. Dis. Div. 77 : 7 (1948)",
+    "Basionym": "Polyporus schweinitzii",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "Systema Mycologicum 1 : 351 (1821)",
+    "basionym recordID": "190724",
+    "typification": "Typification: Tab. 70 (Micheli, Nov. gen. pl. 1729)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. 70 (Micheli",
+          "Nov. gen. pl. 1729)"
+        ]
+      }
+    ],
+    "locality raw": "Sweden",
+    "country": "Sweden",
+    "host": "at base of trunk",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phaeolus schweinitzii",
+    "_current_name_id": "121352",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "491207": {
+    "species": "Coltricia schweinizii",
+    "author": "(Fr.) G. Cunn.",
+    "protologo record0": "(1948)",
+    "Basionym": "Polyporus schweinitzii",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "Systema Mycologicum 1 : 351 (1821)",
+    "basionym recordID": "190724",
+    "typification": "Typification: Tab. 70 (Micheli, Nov. gen. pl. 1729)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. 70 (Micheli",
+          "Nov. gen. pl. 1729)"
+        ]
+      }
+    ],
+    "locality raw": "Sweden",
+    "country": "Sweden",
+    "host": "at base of trunk",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "285515",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "855416": {
+    "species": "Coltricia sharmae",
+    "author": "S. Choudhary & P. Uniyal",
+    "protologo record0": "Taiwania 70 (1) : 82 (2025)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype CAL 2010",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "CAL 2010"
+        ]
+      }
+    ],
+    "locality raw": "Uttaranchal",
+    "country": "India",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "311552": {
+    "species": "Coltricia sideroides",
+    "author": "(Lév.) Teng",
+    "protologo record0": "Chung-kuo Ti Chen-chun : 759 (1963)",
+    "Basionym": "Polyporus sideroides",
+    "Basionym_author": "Lév.",
+    "protologo basionym": "Annls Sci. Nat. 2 : 182 (1844)",
+    "basionym recordID": "472842",
+    "typification": "Typification: Korthals 24 ('herb. Lugd. Batav.'); Korthals 101 ('herb. Lugd. Batav.')",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Korthals 24 ('herb. Lugd. Batav.'); Korthals 101 ('herb. Lugd. Batav.')"
+        ]
+      }
+    ],
+    "locality raw": "Sumatera",
+    "country": "Indonesia",
+    "host": "on trunk",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Inonotus sideroides",
+    "_current_name_id": "365323",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "839904": {
+    "species": "Coltricia sinoperennis",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 11 (2022)",
+    "Basionym": "Coltricia subperennis",
+    "Basionym_author": "Y.C. Dai",
+    "protologo basionym": "Sydowia 62 (1) : 14 (2010)",
+    "basionym recordID": "515566",
+    "typification": "Holotype IFP, Yang 259",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "IFP",
+          "Yang 259"
+        ]
+      }
+    ],
+    "locality raw": "Hainan",
+    "country": "China",
+    "host": "on rotten wood of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "839914": {
+    "species": "Coltricia sonorensis",
+    "author": "(R. Valenz., Esqueda & Decock) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 11 (2022)",
+    "Basionym": "Coltriciella sonorensis",
+    "Basionym_author": "R. Valenz., Esqueda & Decock",
+    "protologo basionym": "Mycol. Progr. 11 (1) : 184 (2012)",
+    "basionym recordID": "515460",
+    "typification": "Holotype ENCB, Valenzuela 13144",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "ENCB",
+          "Valenzuela 13144"
+        ]
+      }
+    ],
+    "locality raw": "Sonora",
+    "country": "Mexico",
+    "host": "on soil near Quercus oblongifolia",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "451318": {
+    "species": "Coltricia spathulata",
+    "author": "(Hook.) Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (2) : 93 (1908)",
+    "Basionym": "Boletus spathulatus",
+    "Basionym_author": "Hook.",
+    "protologo basionym": "Syn. pl. 1 : 9 (1822)",
+    "basionym recordID": "195932",
+    "typification": "Holotype K(M) 19681",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 19681"
+        ]
+      }
+    ],
+    "locality raw": "Ecuador",
+    "country": "Ecuador",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phylloporia spathulata",
+    "_current_name_id": "460305",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "518915": {
+    "species": "Coltricia spina",
+    "author": "Y.C. Dai",
+    "protologo record0": "Fungal Diversity 45 : 149 (2010)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Dai 11357",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Dai 11357"
+        ]
+      }
+    ],
+    "locality raw": "Hunan",
+    "country": "中国",
+    "host": "on ground in broad-leaved forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "285516": {
+    "species": "Coltricia strigosa",
+    "author": "G. Cunn.",
+    "protologo record0": "Bull. N.Z. Dept. Sci. Industr. Res., Pl. Dis. Div. 77 : 4 (1948)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype PDD 4417",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PDD 4417"
+        ]
+      }
+    ],
+    "locality raw": "New Zealand (Aotearoa)",
+    "country": "New Zealand / Aotearoa",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "129109": {
+    "species": "Coltricia strigosipes",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 151 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype colln Corner, Corner, 29 Jul. 1934",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "colln Corner",
+          "Corner",
+          "29 Jul. 1934"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on sand in montane forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "444790": {
+    "species": "Coltricia stuckertiana",
+    "author": "(Speg.) Rajchenb. & J.E. Wright",
+    "protologo record0": "Folia cryptog. Estonica 33 : 119 (1998)",
+    "Basionym": "Polyporus stuckertianus",
+    "Basionym_author": "Speg.",
+    "protologo basionym": "Anal. Mus. nac. Hist. nat. B. Aires 6 : 163 (1898)",
+    "basionym recordID": "231901",
+    "typification": "Typification: LPS, Stuckert, May 1896-97",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "LPS",
+          "Stuckert",
+          "May 1896-97"
+        ]
+      }
+    ],
+    "locality raw": "Córdoba",
+    "country": "Argentina",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Trametes stuckertiana",
+    "_current_name_id": "203171",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "834952": {
+    "species": "Coltricia subcinnamomea",
+    "author": "L.S. Bian & Y.C. Dai",
+    "protologo record0": "Mycol. Progr. 19 (7) : 660 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 023121",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 023121"
+        ]
+      }
+    ],
+    "locality raw": "Shanxi",
+    "country": "China",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "129110": {
+    "species": "Coltricia subfastosa",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 152 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype colln Corner, Clemens, 10 Dec. 1931",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "colln Corner",
+          "Clemens",
+          "10 Dec. 1931"
+        ]
+      }
+    ],
+    "locality raw": "Sabah",
+    "country": "Malaysia",
+    "host": "at base of trunk in forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "839915": {
+    "species": "Coltricia subglobosa",
+    "author": "(Y.C. Dai) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 11 (2022)",
+    "Basionym": "Coltriciella subglobosa",
+    "Basionym_author": "Y.C. Dai",
+    "protologo basionym": "Fungal Diversity 45 : 160 (2010)",
+    "basionym recordID": "518912",
+    "typification": "Holotype BJFC, Wei 5020",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Wei 5020"
+        ]
+      }
+    ],
+    "locality raw": "Hainan",
+    "country": "China",
+    "host": "on rotten wood of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "542992": {
+    "species": "Coltricia subperennis",
+    "author": "(Z.S. Bi & G.Y. Zheng) G.Y. Zheng & Z.S. Bi",
+    "protologo record0": "Macrofungus Flora of China's Guangdong Province : 132 (1997)",
+    "Basionym": "Polyporus subperennis",
+    "Basionym_author": "Z.S. Bi & G.Y. Zheng",
+    "protologo basionym": "Acta Mycol. Sin. 1 (2) : 76 (1982)",
+    "basionym recordID": "110040",
+    "typification": "",
+    "types": [],
+    "locality raw": "Guangdong",
+    "country": "China",
+    "host": "on rotten bark of Schefflera octophylla",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "328734": {
+    "species": "Coltricia subpicta",
+    "author": "(Lloyd) Imazeki & Kobayasi",
+    "protologo record0": "Trans. Mycol. Soc. Japan 7 : 43 (1966)",
+    "Basionym": "Polystictus subpictus",
+    "Basionym_author": "Lloyd",
+    "protologo basionym": "Mycol. Writ. 4 (Letter 43) : 3 (1912)",
+    "basionym recordID": "374323",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coltriciella subpicta",
+    "_current_name_id": "129053",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "860043": {
+    "species": "Coltricia subpusilla",
+    "author": "F. Wu, Wan Y. Li, W. Jing & Y.C. Dai",
+    "protologo record0": "MycoKeys 127 : 97 (2026)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 046384",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 046384"
+        ]
+      }
+    ],
+    "locality raw": "Anhui",
+    "country": "中国",
+    "host": "on bark of dead Pinus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "834953": {
+    "species": "Coltricia subverrucata",
+    "author": "L.S. Bian & Y.C. Dai",
+    "protologo record0": "Mycol. Progr. 19 (7) : 662 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 019704",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 019704"
+        ]
+      }
+    ],
+    "locality raw": "Guizhou",
+    "country": "中国",
+    "host": "on soil, associated with Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "839916": {
+    "species": "Coltricia tasmanica",
+    "author": "(Cleland & Rodway) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 11 (2022)",
+    "Basionym": "Poria tasmanica",
+    "Basionym_author": "Cleland & Rodway",
+    "protologo basionym": "Pap. Proc. R. Soc. Tasm. : 43 (1930)",
+    "basionym recordID": "279788",
+    "typification": "",
+    "types": [],
+    "locality raw": "Tasmania",
+    "country": "Australia",
+    "host": "on fragments of charcoal",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "842183": {
+    "species": "Coltricia tenuihypha",
+    "author": "L.S. Bian, M. Zhou & Jian Yu",
+    "protologo record0": "Mycol. Progr. 21 (4, no. 45) : 8 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Dai 22684",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Dai 22684"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on soil, associated with Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "839903": {
+    "species": "Coltricia tibetica",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 9 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 017122",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 017122"
+        ]
+      }
+    ],
+    "locality raw": "Tibet",
+    "country": "China",
+    "host": "on dead wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "468833": {
+    "species": "Coltricia tomentosa",
+    "author": "(Fr.) Murrill",
+    "protologo record0": "Bull. Torrey bot. Club 31 (6) : 346 (1904)",
+    "Basionym": "Polyporus tomentosus",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "Systema Mycologicum 1 : 351 (1821)",
+    "basionym recordID": "449600",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Sweden",
+    "country": "Sweden",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Onnia tomentosa",
+    "_current_name_id": "445578",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "129116": {
+    "species": "Coltricia truncicola",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 101 : 159 (1991)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype colln Corner, Corner, Aug. 1934",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "colln Corner",
+          "Corner",
+          "Aug. 1934"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on trunk of Canarium",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "356314": {
+    "species": "Coltricia tsugicola",
+    "author": "Y.C. Dai & B.K. Cui",
+    "protologo record0": "Mycotaxon 94 : 342 (2006)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype IFP, Dai 7303",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "IFP",
+          "Dai 7303"
+        ]
+      }
+    ],
+    "locality raw": "Fujian",
+    "country": "China",
+    "host": "on rotten wood of Tsuga chinensis",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "283402": {
+    "species": "Coltricia vallata",
+    "author": "(Berk.) Teng",
+    "protologo record0": "Chung-kuo Ti Chen-chun : 759 (1963)",
+    "Basionym": "Polyporus vallatus",
+    "Basionym_author": "Berk.",
+    "protologo basionym": "Hooker's J. Bot. Kew Gard. Misc. 6 : 138 (1854)",
+    "basionym recordID": "225204",
+    "typification": "Holotype K(M), Hooker s.n.",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "Hooker s.n."
+        ]
+      }
+    ],
+    "locality raw": "Meghalaya",
+    "country": "India",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fulvoderma vallatum",
+    "_current_name_id": "854321",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "514143": {
+    "species": "Coltricia velutina",
+    "author": "Baltazar & Gibertoni",
+    "protologo record0": "Mycologia 102 (6) : 1258 (2010)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype URM 80112",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "URM 80112"
+        ]
+      }
+    ],
+    "locality raw": "Pernambuco",
+    "country": "Brasil",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "491208": {
+    "species": "Coltricia verrucata",
+    "author": "Aime, T.W. Henkel & Ryvarden",
+    "protologo record0": "Mycologia 95 (4) : 617 (2003)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BRG, Aime 962",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BRG",
+          "Aime 962"
+        ]
+      }
+    ],
+    "locality raw": "Guyana",
+    "country": "Guyana",
+    "host": "over base of decorticated stump in Dicymbe corymbosa-dominated forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "295455": {
+    "species": "Coltricia weberiana",
+    "author": "(Bres. & Henn. ex Sacc.) G. Cunn.",
+    "protologo record0": "Proc. Linn. Soc. N.S.W. 75 (3-4) : 247 (1950)",
+    "Basionym": "Fomes weberianus",
+    "Basionym_author": "Bres. & Henn. ex Sacc.",
+    "protologo basionym": "Syll. Fung. 9 : 174 (1891)",
+    "basionym recordID": "249224",
+    "typification": "Typification: B, Weber s.n.",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "B",
+          "Weber s.n."
+        ]
+      }
+    ],
+    "locality raw": "Samoa",
+    "country": "Samoa",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phylloporia weberiana",
+    "_current_name_id": "320282",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "515567": {
+    "species": "Coltricia weii",
+    "author": "Y.C. Dai",
+    "protologo record0": "Sydowia 62 (1) : 16 (2010)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype IFP, Dai 8142",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "IFP",
+          "Dai 8142"
+        ]
+      }
+    ],
+    "locality raw": "Hunan",
+    "country": "中国",
+    "host": "on ground in angiosperm forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "817367": {
+    "species": "Coltricia wenshanensis",
+    "author": "L.S. Bian & Y.C. Dai",
+    "protologo record0": "Mycologia 109 (1) : 71 (2017)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Dai 15585",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Dai 15585"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on ground in mixed forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "851541": {
+    "species": "Coltricia wuyiensis",
+    "author": "Yuan Yuan & L.S. Bian",
+    "protologo record0": "Mycosystema 43 (5, no. 230365) : 7 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 043981",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 043981"
+        ]
+      }
+    ],
+    "locality raw": "Zhejiang",
+    "country": "中国",
+    "host": "on soil, associated with Angispermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "857640": {
+    "species": "Coltricia yunnanensis",
+    "author": "(Qian Zhou & C.L. Zhao) Y.C. Dai & Xin Zhang bis",
+    "protologo record0": "Phytotaxa 702 (3) : 279 (2025)",
+    "Basionym": "Coltriciella yunnanensis",
+    "Basionym_author": "Qian Zhou & C.L. Zhao",
+    "protologo basionym": "J. Fungi 10 (3, no. 205) : 17 (2024)",
+    "basionym recordID": "851564",
+    "typification": "Holotype SWFC, Zhao 4204",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "SWFC",
+          "Zhao 4204"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "851563": {
+    "species": "Coltricia zixishanensis",
+    "author": "Qian Zhou & C.L. Zhao",
+    "protologo record0": "J. Fungi 10 (3, no. 205) : 16 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype SWFC, Zhao 7706",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "SWFC",
+          "Zhao 7706"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  }
+}

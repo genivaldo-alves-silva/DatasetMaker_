@@ -1,0 +1,3426 @@
+{
+  "501406": {
+    "species": "Fomitiporia aethiopica",
+    "author": "Decock, Bitew & G. Castillo",
+    "protologo record0": "Mycologia 97 (1) : 124 (2005)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype MUCL 44777",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MUCL 44777"
+        ]
+      }
+    ],
+    "locality raw": "Ethiopia",
+    "country": "Ethiopia",
+    "host": "on dead standing trunk of angiosperm in mixed Juniperus-Podocarpus forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "819444": {
+    "species": "Fomitiporia alpina",
+    "author": "B.K. Cui & Hong Chen",
+    "protologo record0": "Mycol. Progr. 16 (7) : 689 (2017)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Cui 10627",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Cui 10627"
+        ]
+      }
+    ],
+    "locality raw": "Sichuan",
+    "country": "China",
+    "host": "on fallen trunk of Picea",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "516533": {
+    "species": "Fomitiporia apiahyna",
+    "author": "(Speg.) Robledo, Decock & Rajchenb.",
+    "protologo record0": "Mycologia 102 (6) : 1315 (2010)",
+    "Basionym": "Fomes apiahynus",
+    "Basionym_author": "Speg.",
+    "protologo basionym": "Boln Acad. nac. Cienc. Córdoba 11 (4) : 438 (1889)",
+    "basionym recordID": "162601",
+    "typification": "Holotype LPS, Puiggar 1438",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "LPS",
+          "Puiggar 1438"
+        ]
+      },
+      {
+        "type_of_type": "Epitype",
+        "material": [
+          "ICN 200542"
+        ]
+      }
+    ],
+    "locality raw": "São Paulo",
+    "country": "Brazil",
+    "host": "on dead trunk",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "519982": {
+    "species": "Fomitiporia apiahyna",
+    "author": "(Speg.) Vlasák & Kout",
+    "protologo record0": "Mycotaxon 118 : 161 (2012)",
+    "Basionym": "Fomes apiahynus",
+    "Basionym_author": "Speg.",
+    "protologo basionym": "Boln Acad. nac. Cienc. Córdoba 11 (4) : 438 (1889)",
+    "basionym recordID": "162601",
+    "typification": "Holotype LPS, Puiggar 1438",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "LPS",
+          "Puiggar 1438"
+        ]
+      },
+      {
+        "type_of_type": "Epitype",
+        "material": [
+          "ICN 200542"
+        ]
+      }
+    ],
+    "locality raw": "São Paulo",
+    "country": "Brazil",
+    "host": "on dead trunk",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "860358": {
+    "species": "Fomitiporia aquilariae",
+    "author": "T.Y. Du, Tibpromma, K.D. Hyde & Karun.",
+    "protologo record0": "Mycosphere 16 (1) : 2801 (2025)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype GMB W1514",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "GMB W1514"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on agarwood resin part of Aquilaria sinensis",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "551915": {
+    "species": "Fomitiporia atlantica",
+    "author": "Alves-Silva, Reck & Drechsler-Santos",
+    "protologo record0": "Fungal Diversity 78 : 165 (2016)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype FLOR 58554",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "FLOR 58554"
+        ]
+      }
+    ],
+    "locality raw": "Santa Catarina",
+    "country": "Brazil",
+    "host": "on dead cut tree",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "342592": {
+    "species": "Fomitiporia australiensis",
+    "author": "M. Fisch., Jacq. Edwards, Cunningt. & Pascoe",
+    "protologo record0": "Mycotaxon 92 : 92 (2005)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype VPRI 22859",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "VPRI 22859"
+        ]
+      }
+    ],
+    "locality raw": "Victoria",
+    "country": "Australia",
+    "host": "from rotten heartwood of Vitis vinifera",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "807284": {
+    "species": "Fomitiporia baccharidis",
+    "author": "(Pat.) Decock, Robledo & Amalfi",
+    "protologo record0": "Mycol. Progr. 13 (4) : 1082 (2014)",
+    "Basionym": "Polyporus baccharidis",
+    "Basionym_author": "Pat.",
+    "protologo basionym": "Bull. Soc. Mycol. France 9 (2) : 129 (1893)",
+    "basionym recordID": "180235",
+    "typification": "Typification: Lagerheim s.n.",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Lagerheim s.n."
+        ]
+      }
+    ],
+    "locality raw": "Ecuador",
+    "country": "Ecuador",
+    "host": "on trunks of Baccharis oblongifolia",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "518865": {
+    "species": "Fomitiporia bakeri",
+    "author": "(Murrill) Vlasák & Kout",
+    "protologo record0": "Mycol. Progr. 10 (4) : 450 (2011)",
+    "Basionym": "Pyropolyporus bakeri",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "N. Amer. Fl. 9 (2) : 104 (1908)",
+    "basionym recordID": "199545",
+    "typification": "Typification: Baker 470",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Baker 470"
+        ]
+      }
+    ],
+    "locality raw": "Wisconsin",
+    "country": "United States",
+    "host": "on trunks of Betula lenta",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "809550": {
+    "species": "Fomitiporia bambusarum",
+    "author": "(Rick) Camp.-Sant. & Decock",
+    "protologo record0": "Cryptog. Mycol. 36 (1) : 48 (2015)",
+    "Basionym": "Poria bambusarum",
+    "Basionym_author": "Rick",
+    "protologo basionym": "Brotéria 6 : 146 (1937)",
+    "basionym recordID": "258155",
+    "typification": "",
+    "types": [],
+    "locality raw": "Brazil",
+    "country": "Brazil",
+    "host": "on Bambusa",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "833901": {
+    "species": "Fomitiporia bambusipileata",
+    "author": "Alves-Silva, Drechsler-Santos & R.M.B. Silveira",
+    "protologo record0": "Mycologia 112 (3) : 637 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype ICN 200557",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "ICN 200557"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "534422": {
+    "species": "Fomitiporia banaensis",
+    "author": "Y.C. Dai",
+    "protologo record0": "Acta bot. fenn. 166 : 17 (1999)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "474156": {
+    "species": "Fomitiporia bannaensis",
+    "author": "Y.C. Dai",
+    "protologo record0": "Mycosystema 20 (1) : 17 (2001)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype H, Dai 3102",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "H",
+          "Dai 3102"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on Ficus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "518864": {
+    "species": "Fomitiporia calkinsii",
+    "author": "(Murrill) Vlasák & Kout",
+    "protologo record0": "Mycol. Progr. 10 (4) : 449 (2011)",
+    "Basionym": "Pyropolyporus calkinsii",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "Bull. Torrey bot. Club 30 (2) : 113 (1903)",
+    "basionym recordID": "199824",
+    "typification": "Typification: NY, Catkins, 1886; NY, Catkins, 1887",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "NY",
+          "Catkins",
+          "1886; NY",
+          "Catkins",
+          "1887"
+        ]
+      }
+    ],
+    "locality raw": "Florida",
+    "country": "United States",
+    "host": "on living Quercus",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "900205": {
+    "species": "Fomitiporia calkinsii",
+    "author": "(Murrill) Ryvarden",
+    "protologo record0": "Syn. Fung. 47 : 57 (2023)",
+    "Basionym": "Pyropolyporus calkinsii",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "Bull. Torrey bot. Club 30 (2) : 113 (1903)",
+    "basionym recordID": "199824",
+    "typification": "Typification: NY, Catkins, 1886; NY, Catkins, 1887",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "NY",
+          "Catkins",
+          "1886; NY",
+          "Catkins",
+          "1887"
+        ]
+      }
+    ],
+    "locality raw": "Florida",
+    "country": "United States",
+    "host": "on living Quercus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "800998": {
+    "species": "Fomitiporia capensis",
+    "author": "M. Fisch., Cloete, L. Mostert & Halleen",
+    "protologo record0": "Mycol. Progr. 13 (2) : 307 (2013)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype STE U-7093",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "STE U-7093"
+        ]
+      }
+    ],
+    "locality raw": "Western Cape Province",
+    "country": "South Africa",
+    "host": "on trunk of Vitis vinifera cv. 'Chenin blanc'",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "555462": {
+    "species": "Fomitiporia carpinea",
+    "author": "X.H. Ji, X.M. Tian & Y.C. Dai",
+    "protologo record0": "Fungal Diversity 96 : 205 (2019)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 025552",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 025552"
+        ]
+      }
+    ],
+    "locality raw": "Gansu",
+    "country": "China",
+    "host": "on stump of Carpinus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "563792": {
+    "species": "Fomitiporia castilloi",
+    "author": "Decock & Amalfi",
+    "protologo record0": "Mycologia 105 (4) : 880 (2013)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype MUCL 53481",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MUCL 53481"
+        ]
+      }
+    ],
+    "locality raw": "French Guiana",
+    "country": "France",
+    "host": "on dead, decayed trunk of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "829086": {
+    "species": "Fomitiporia chilensis",
+    "author": "Rajchenb. & Pildain",
+    "protologo record0": "Mycol. Progr. 18 (6) : 867 (2019)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BAFC 52942",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BAFC 52942"
+        ]
+      }
+    ],
+    "locality raw": "Biobío",
+    "country": "Chile",
+    "host": "on fallen branches of Cryptocarya alba",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "143880": {
+    "species": "Fomitiporia cinchonensis",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 10 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Earle 411",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Earle 411"
+        ]
+      }
+    ],
+    "locality raw": "Jamaica",
+    "country": "Jamaica",
+    "host": "on decayed deciduous wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phellinus cinchonensis",
+    "_current_name_id": "319748",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "835299": {
+    "species": "Fomitiporia conyana",
+    "author": "Alves-Silva & Drechsler-Santos",
+    "protologo record0": "Mycol. Progr. 19 (8) : 781 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype FLOR 58548",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "FLOR 58548"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "286492": {
+    "species": "Fomitiporia cryptacantha",
+    "author": "(Mont.) Murrill",
+    "protologo record0": "Lloydia 10 : 254 (1947)",
+    "Basionym": "Polyporus cryptacanthus",
+    "Basionym_author": "Mont.",
+    "protologo basionym": "Annls Sci. Nat. 5 : 369 (1857)",
+    "basionym recordID": "472522",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Brazil",
+    "country": "Brazil",
+    "host": "on corticate branches",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fuscoporia contigua",
+    "_current_name_id": "282428",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "263255": {
+    "species": "Fomitiporia cubenses",
+    "author": "Murrill",
+    "protologo record0": "(1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "144366",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "144366": {
+    "species": "Fomitiporia cubensis",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 8 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Earle & Murrill 627",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Earle & Murrill 627"
+        ]
+      }
+    ],
+    "locality raw": "Cuba",
+    "country": "Cuba",
+    "host": "on wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Truncospora livida",
+    "_current_name_id": "827304",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "563786": {
+    "species": "Fomitiporia cupressicola",
+    "author": "Amalfi, Raymundo, Valenz. & Decock",
+    "protologo record0": "Mycologia 104 (4) : 886 (2012)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype MUCL 52486",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MUCL 52486"
+        ]
+      }
+    ],
+    "locality raw": "Durango",
+    "country": "Mexico",
+    "host": "at base of Cupressus arizonica",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "262640": {
+    "species": "Fomitiporia cylindrispora",
+    "author": "(Lloyd) Murrill",
+    "protologo record0": "(1920)",
+    "Basionym": "Poria cylindrospora",
+    "Basionym_author": "Lloyd",
+    "protologo basionym": "Mycol. Writ. 5 (Letter 65) : 8 (1917)",
+    "basionym recordID": "206595",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "505231",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "505231": {
+    "species": "Fomitiporia cylindrospora",
+    "author": "(Lloyd) Murrill",
+    "protologo record0": "Mycologia 12 (1) : 17 (1920)",
+    "Basionym": "Poria cylindrospora",
+    "Basionym_author": "Lloyd",
+    "protologo basionym": "Mycol. Writ. 5 (Letter 65) : 8 (1917)",
+    "basionym recordID": "206595",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fuscoporia ferrea",
+    "_current_name_id": "286518",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "813967": {
+    "species": "Fomitiporia deserticola",
+    "author": "Vlasák",
+    "protologo record0": "Mycotaxon 131 (1) : 198 (2016)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype PRM 934073|http://www.ncbi.nlm.nih.gov/nuccore/KT381632",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PRM 934073|http://www.ncbi.nlm.nih.gov/nuccore/KT381632"
+        ]
+      }
+    ],
+    "locality raw": "Arizona",
+    "country": "United States",
+    "host": "on Opuntia versicolor",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "474071": {
+    "species": "Fomitiporia dryadea",
+    "author": "(Pers.) Y.C. Dai",
+    "protologo record0": "Acta bot. fenn. 166 : 27 (1999)",
+    "Basionym": "Boletus dryadeus",
+    "Basionym_author": "Pers.",
+    "protologo basionym": "Observ. mycol. 2 : 3 (1800)",
+    "basionym recordID": "214251",
+    "typification": "Typification: Tab. 458 (Bulliard, Herb. Fr. (Paris). 1790)",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Tab. 458 (Bulliard",
+          "Herb. Fr. (Paris). 1790)"
+        ]
+      }
+    ],
+    "locality raw": "France",
+    "country": "France",
+    "host": "on trunk of Quercus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Pseudoinonotus dryadeus",
+    "_current_name_id": "474675",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "143672": {
+    "species": "Fomitiporia dryophila",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 8 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Earle, 3 Sept. 1904",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Earle",
+          "3 Sept. 1904"
+        ]
+      }
+    ],
+    "locality raw": "Mississippi",
+    "country": "United States",
+    "host": "on decayed wood of Quercus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fomitiporia punctata",
+    "_current_name_id": "286493",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "144059": {
+    "species": "Fomitiporia earleae",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 9 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Earle 65",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Earle 65"
+        ]
+      }
+    ],
+    "locality raw": "Mississippi",
+    "country": "United States",
+    "host": "on dead branches of Quercus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fomitiporia punctata",
+    "_current_name_id": "286493",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "835302": {
+    "species": "Fomitiporia elegans",
+    "author": "(J.E. Wright & Blumenf.) Alves-Silva, Robledo & Drechsler-Santos",
+    "protologo record0": "Mycol. Progr. 19 (8) : 784 (2020)",
+    "Basionym": "Phellinus elegans",
+    "Basionym_author": "J.E. Wright & Blumenf.",
+    "protologo basionym": "Mycotaxon 21 : 418 (1984)",
+    "basionym recordID": "106350",
+    "typification": "Holotype BAFC 24382",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BAFC 24382"
+        ]
+      }
+    ],
+    "locality raw": "Misiones",
+    "country": "Argentina",
+    "host": "on wood of Ocotea",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "512012": {
+    "species": "Fomitiporia ellipsoidea",
+    "author": "B.K. Cui & Y.C. Dai",
+    "protologo record0": "Mycotaxon 105 : 344 (2008)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype IFP, Cui 4285",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "IFP",
+          "Cui 4285"
+        ]
+      }
+    ],
+    "locality raw": "Fujian",
+    "country": "China",
+    "host": "on fallen trunk of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phellinus ellipsoideus",
+    "_current_name_id": "800553",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "106147": {
+    "species": "Fomitiporia erecta",
+    "author": "(A. David, Dequatre & Fiasson) Fiasson",
+    "protologo record0": "Karstenia 24 (1) : 25 (1984)",
+    "Basionym": "Phellinus erectus",
+    "Basionym_author": "A. David, Dequatre & Fiasson",
+    "protologo basionym": "Mycotaxon 14 (1) : 165 (1982)",
+    "basionym recordID": "110883",
+    "typification": "Holotype LY, colln David 4054",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "LY",
+          "colln David 4054"
+        ]
+      }
+    ],
+    "locality raw": "France",
+    "country": "France",
+    "host": "on stumps of Quercus ilex",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phellinus erectus",
+    "_current_name_id": "110883",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "344427": {
+    "species": "Fomitiporia ethiopica",
+    "author": "Decock, Bitew & G. Castillo",
+    "protologo record0": "(2005)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "501406",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "835631": {
+    "species": "Fomitiporia eucalypti",
+    "author": "Y.C. Dai & X.H. Ji",
+    "protologo record0": "Fungal Diversity 113 : 30 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 027055",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 027055"
+        ]
+      }
+    ],
+    "locality raw": "Victoria",
+    "country": "Australia",
+    "host": "on living trunk of Eucalyptus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "900086": {
+    "species": "Fomitiporia exigua",
+    "author": "Alves-Silva, Góes-Neto & Drechsler-Santos",
+    "protologo record0": "Fungal Diversity 130 : 181 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype FLOR 58558",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "FLOR 58558"
+        ]
+      }
+    ],
+    "locality raw": "Amazonas",
+    "country": "Brazil",
+    "host": "on living tree of Protium heptaphyllum",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "807669": {
+    "species": "Fomitiporia expansa",
+    "author": "Decock & Amalfi",
+    "protologo record0": "Cryptog. Mycol. 35 (1) : 80 (2014)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype NY, Decock FG-13-658",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "NY",
+          "Decock FG-13-658"
+        ]
+      }
+    ],
+    "locality raw": "French Guiana",
+    "country": "France",
+    "host": "on dead standing trunk of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "813966": {
+    "species": "Fomitiporia fissurata",
+    "author": "Vlasák",
+    "protologo record0": "Mycotaxon 131 (1) : 196 (2016)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype PRM 922626|http://www.ncbi.nlm.nih.gov/nuccore/KT381627",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PRM 922626|http://www.ncbi.nlm.nih.gov/nuccore/KT381627"
+        ]
+      }
+    ],
+    "locality raw": "California",
+    "country": "United States",
+    "host": "on base of trunk of Quercus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "143713": {
+    "species": "Fomitiporia flavomarginata",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 11 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Earle & Murrill 559",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Earle & Murrill 559"
+        ]
+      }
+    ],
+    "locality raw": "Cuba",
+    "country": "Cuba",
+    "host": "on decayed logs",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fuscoporia flavomarginata",
+    "_current_name_id": "510731",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "515698": {
+    "species": "Fomitiporia gabonensis",
+    "author": "Amalfi & Decock",
+    "protologo record0": "Mycologia 102 (6) : 1310 (2010)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype MUCL 47576",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MUCL 47576"
+        ]
+      }
+    ],
+    "locality raw": "Gabon",
+    "country": "Gabon",
+    "host": "on dead trunks of angiosperms",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "819445": {
+    "species": "Fomitiporia gaoligongensis",
+    "author": "B.K. Cui & Hong Chen",
+    "protologo record0": "Mycol. Progr. 16 (7) : 693 (2017)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Cui 8261",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Cui 8261"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on living Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "843529": {
+    "species": "Fomitiporia gatesiae",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 31 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 027149",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 027149"
+        ]
+      }
+    ],
+    "locality raw": "Victoria",
+    "country": "Australia",
+    "host": "on fallen trunk of Eucalyptus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "835634": {
+    "species": "Fomitiporia gatesii",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "(2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "843529",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "646327": {
+    "species": "Fomitiporia guoshangensis",
+    "author": "S. Guo & Lee H. Zhou",
+    "protologo record0": "Chinese Edible Fungi : 4 (2016)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "819446": {
+    "species": "Fomitiporia hainaniana",
+    "author": "B.K. Cui & Hong Chen",
+    "protologo record0": "Mycol. Progr. 16 (7) : 694 (2017)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, CL06-372",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "CL06-372"
+        ]
+      }
+    ],
+    "locality raw": "Hainan",
+    "country": "China",
+    "host": "on fallen angiosperm trunk",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "106148": {
+    "species": "Fomitiporia hartigii",
+    "author": "(Allesch. & Schnabl) Fiasson & Niemelä",
+    "protologo record0": "Karstenia 24 (1) : 25 (1984)",
+    "Basionym": "Polyporus hartigii",
+    "Basionym_author": "Allesch. & Schnabl",
+    "protologo basionym": "Maladies des Plantes Agricoles 1 : 332 (1890)",
+    "basionym recordID": "374263",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phellinus hartigii",
+    "_current_name_id": "282813",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "488709": {
+    "species": "Fomitiporia hesleri",
+    "author": "M. Fisch.",
+    "protologo record0": "Mycologia 96 (4) : 805 (2004)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype REG, Fischer 01-77/4",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "REG",
+          "Fischer 01-77/4"
+        ]
+      }
+    ],
+    "locality raw": "Tennessee",
+    "country": "United States",
+    "host": "on dead standing hardwood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "106149": {
+    "species": "Fomitiporia hippophaëicola",
+    "author": "(H. Jahn) Fiasson & Niemelä",
+    "protologo record0": "(1984)",
+    "Basionym": "Phellinus hippophaicola",
+    "Basionym_author": "H. Jahn",
+    "protologo basionym": "Mem. N. Y. bot. Gdn 28 (1) : 105 (1976)",
+    "basionym recordID": "648556",
+    "typification": "",
+    "types": [],
+    "locality raw": "Sweden",
+    "country": "Sweden",
+    "host": "on rotten trunk of Hippophae rhamnoides",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "648557",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "263265": {
+    "species": "Fomitiporia hippophaeicola",
+    "author": "(H. Jahn) Fiasson & Niemelä",
+    "protologo record0": "(1984)",
+    "Basionym": "Phellinus hippophaicola",
+    "Basionym_author": "H. Jahn",
+    "protologo basionym": "Mem. N. Y. bot. Gdn 28 (1) : 105 (1976)",
+    "basionym recordID": "648556",
+    "typification": "",
+    "types": [],
+    "locality raw": "Sweden",
+    "country": "Sweden",
+    "host": "on rotten trunk of Hippophae rhamnoides",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "648557",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "648557": {
+    "species": "Fomitiporia hippophaicola",
+    "author": "(H. Jahn) Fiasson & Niemelä",
+    "protologo record0": "Karstenia 24 (1) : 25 (1984)",
+    "Basionym": "Phellinus hippophaicola",
+    "Basionym_author": "H. Jahn",
+    "protologo basionym": "Mem. N. Y. bot. Gdn 28 (1) : 105 (1976)",
+    "basionym recordID": "648556",
+    "typification": "",
+    "types": [],
+    "locality raw": "Sweden",
+    "country": "Sweden",
+    "host": "on rotten trunk of Hippophae rhamnoides",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "829059": {
+    "species": "Fomitiporia ignea",
+    "author": "A.A. Br., D.P. Lawr. & K. Baumgartner",
+    "protologo record0": "Pl. Pathol. 69 (2) : 212 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BPI 910969",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BPI 910969"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "817799": {
+    "species": "Fomitiporia impercepta",
+    "author": "Morera, Robledo & Urcelay",
+    "protologo record0": "Phytotaxa 321 (3) : 281 (2017)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype CORD CORDC00005289",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "CORD CORDC00005289"
+        ]
+      }
+    ],
+    "locality raw": "Córdoba",
+    "country": "Argentina",
+    "host": "on living trunk of Lithraea molleoides",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "515699": {
+    "species": "Fomitiporia ivindoensis",
+    "author": "Decock, Amalfi & Yombiy.",
+    "protologo record0": "Mycologia 102 (6) : 1312 (2010)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype MUCL 51312",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MUCL 51312"
+        ]
+      }
+    ],
+    "locality raw": "Gabon",
+    "country": "Gabon",
+    "host": "on dead trunks of angiosperms",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "144177": {
+    "species": "Fomitiporia jamaicensis",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 11 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Earle 215",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Earle 215"
+        ]
+      }
+    ],
+    "locality raw": "Jamaica",
+    "country": "Jamaica",
+    "host": "on dead tree of Citrus ×paradisi",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fomitiporia punctata",
+    "_current_name_id": "286493",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "834123": {
+    "species": "Fomitiporia junipericola",
+    "author": "B. Rivoire & Pirlot",
+    "protologo record0": "Polypores de France et d'Europe : 372 (2020)",
+    "Basionym": "Phellinus juniperinus",
+    "Basionym_author": "Bernicchia & S. Curreli",
+    "protologo basionym": "Polyporaceae s.l. in Italia : 410 (1990)",
+    "basionym recordID": "358017",
+    "typification": "Holotype Universitatis Bononiensis, Bernicchia 4891",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "Universitatis Bononiensis",
+          "Bernicchia 4891"
+        ]
+      }
+    ],
+    "locality raw": "Italy",
+    "country": "Italy",
+    "host": "on trunk of Juniperus phoenicea",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "803302": {
+    "species": "Fomitiporia juniperina",
+    "author": "(Murrill) T. Hatt. & Y. Ota",
+    "protologo record0": "Mycologia 106 (1) : 74 (2014)",
+    "Basionym": "Fuscoporia juniperina",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "N. Amer. Fl. 9 (1) : 4 (1907)",
+    "basionym recordID": "226402",
+    "typification": "Typification: Langlois 1584",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Langlois 1584"
+        ]
+      }
+    ],
+    "locality raw": "Louisiana",
+    "country": "United States",
+    "host": "on fallen trunk of Juniperus virginiana",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "555461": {
+    "species": "Fomitiporia lagerstroemiae",
+    "author": "X.H. Ji, X.M. Tian & Y.C. Dai",
+    "protologo record0": "Fungal Diversity 96 : 208 (2019)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 025858",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 025858"
+        ]
+      }
+    ],
+    "locality raw": "Vietnam",
+    "country": "Vietnam",
+    "host": "on stump on Lagerstroemia",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "143475": {
+    "species": "Fomitiporia laminata",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 11 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Murrill 1923",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Murrill 1923"
+        ]
+      }
+    ],
+    "locality raw": "Maine",
+    "country": "United States",
+    "host": "on dead trunk of Alnus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fomitiporia punctata",
+    "_current_name_id": "286493",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "237612": {
+    "species": "Fomitiporia langloisii",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 9 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Langlois 2525",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Langlois 2525"
+        ]
+      }
+    ],
+    "locality raw": "Louisiana",
+    "country": "United States",
+    "host": "on decaying wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fomitiporia punctata",
+    "_current_name_id": "286493",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "237915": {
+    "species": "Fomitiporia lloydii",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 10 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Lloyd 2801",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Lloyd 2801"
+        ]
+      }
+    ],
+    "locality raw": "Ohio",
+    "country": "United States",
+    "host": "on dead Sassafras albidum",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fomitiporia punctata",
+    "_current_name_id": "286493",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "904034": {
+    "species": "Fomitiporia lochiae",
+    "author": "Y.P. Tan & Conroy",
+    "protologo record0": "Index of Australian Fungi 57 : 1 (2025)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BRIP 76787a",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BRIP 76787a"
+        ]
+      }
+    ],
+    "locality raw": "Queensland",
+    "country": "Australia",
+    "host": "from stem rot of Syzygium floribundum",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "839929": {
+    "species": "Fomitiporia lukinsii",
+    "author": "(N. Walters) Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 33 (2022)",
+    "Basionym": "Phellinus lukinsii",
+    "Basionym_author": "N. Walters",
+    "protologo basionym": "Trans. Br. mycol. Soc. 52 (3) : 499 (1969)",
+    "basionym recordID": "336249",
+    "typification": "Typification: K(M), Tamblyn DFP8375; MEL, Tamblyn DFP8375",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "K(M)",
+          "Tamblyn DFP8375; MEL",
+          "Tamblyn DFP8375"
+        ]
+      }
+    ],
+    "locality raw": "South West Australia",
+    "country": "Australia",
+    "host": "on Melaleuca raphiophylla",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "263278": {
+    "species": "Fomitiporia maxoni",
+    "author": "Murrill",
+    "protologo record0": "(1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "372887",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "372887": {
+    "species": "Fomitiporia maxonii",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 11 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Maxon 587",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Maxon 587"
+        ]
+      }
+    ],
+    "locality raw": "Costa Rica",
+    "country": "Costa Rica",
+    "host": "on decayed log",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fomitiporia punctata",
+    "_current_name_id": "286493",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "384943": {
+    "species": "Fomitiporia mediterranea",
+    "author": "M. Fisch.",
+    "protologo record0": "Mycol. Progr. 1 (3) : 321 (2002)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype REG 45/23",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "REG 45/23"
+        ]
+      }
+    ],
+    "locality raw": "Germany",
+    "country": "Germany",
+    "host": "on Vitis vinifera",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "835301": {
+    "species": "Fomitiporia murrilli",
+    "author": "Alves-Silva, R.M. Silveira & Drechsler-Santos",
+    "protologo record0": "(2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "836565",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "836565": {
+    "species": "Fomitiporia murrillii",
+    "author": "Alves-Silva, R.M. Silveira & Drechsler-Santos",
+    "protologo record0": "Mycol. Progr. 19 (8) : 783 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype ICN 200553",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "ICN 200553"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "805940": {
+    "species": "Fomitiporia neotropica",
+    "author": "Camp.-Sant., Amalfi, R.M. Silveira, Robledo & Decock",
+    "protologo record0": "Mycol. Progr. 13 (3) : 610 (2014)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype MUCL 51335",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MUCL 51335"
+        ]
+      }
+    ],
+    "locality raw": "Jujuy",
+    "country": "Argentina",
+    "host": "on dead standing trunk of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "515697": {
+    "species": "Fomitiporia nobilissima",
+    "author": "Decock & Yombiy.",
+    "protologo record0": "Mycologia 102 (6) : 1309 (2010)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype MUCL 51289",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MUCL 51289"
+        ]
+      }
+    ],
+    "locality raw": "Gabon",
+    "country": "Gabon",
+    "host": "on dead standing trunk of Gilbertiodendron dewevrei",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "815615": {
+    "species": "Fomitiporia norbulingka",
+    "author": "B.K. Cui & Hong Chen",
+    "protologo record0": "Mycologia 108 (5) : 1013 (2016)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 008706",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 008706"
+        ]
+      }
+    ],
+    "locality raw": "Tibet",
+    "country": "China",
+    "host": "on trunk of Hippophae rhamnoides",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "835300": {
+    "species": "Fomitiporia nubicola",
+    "author": "Alves-Silva, Bittencourt & Drechsler-Santos",
+    "protologo record0": "Mycol. Progr. 19 (8) : 782 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype FLOR 57850",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "FLOR 57850"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "237638": {
+    "species": "Fomitiporia obliquiformis",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 9 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Morgan 30",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Morgan 30"
+        ]
+      }
+    ],
+    "locality raw": "Ohio",
+    "country": "United States",
+    "host": "on log",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fomitiporia punctata",
+    "_current_name_id": "286493",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "237467": {
+    "species": "Fomitiporia ohiensis",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 11 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Lloyd 3130",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Lloyd 3130"
+        ]
+      }
+    ],
+    "locality raw": "Ohio",
+    "country": "United States",
+    "host": "on logs",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Donkioporia expansa",
+    "_current_name_id": "313324",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "835632": {
+    "species": "Fomitiporia ovoidospora",
+    "author": "Y.C. Dai & F. Wu",
+    "protologo record0": "Fungal Diversity 113 : 32 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 025806",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 025806"
+        ]
+      }
+    ],
+    "locality raw": "Vietnam",
+    "country": "Vietnam",
+    "host": "on roots of living Khaya",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "563605": {
+    "species": "Fomitiporia pentaphylacis",
+    "author": "L.W. Zhou",
+    "protologo record0": "Mycol. Progr. 11 (4) : 910 (2012)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype IFP 015816",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "IFP 015816"
+        ]
+      }
+    ],
+    "locality raw": "Guangxi",
+    "country": "China",
+    "host": "on Pentaphylax euryoides",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "237987": {
+    "species": "Fomitiporia pereffusa",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 10 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Murrill 1130",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Murrill 1130"
+        ]
+      }
+    ],
+    "locality raw": "Pennsylvania",
+    "country": "United States",
+    "host": "on dead log of Quercus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phellinus laevigatus",
+    "_current_name_id": "252933",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "488708": {
+    "species": "Fomitiporia polymorpha",
+    "author": "M. Fisch.",
+    "protologo record0": "Mycologia 96 (4) : 806 (2004)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype REG, Fischer & Adaskaveg 91-42/II",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "REG",
+          "Fischer & Adaskaveg 91-42/II"
+        ]
+      }
+    ],
+    "locality raw": "California",
+    "country": "United States",
+    "host": "on Salix hindsiana",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "237310": {
+    "species": "Fomitiporia prunicola",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 9 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Murrill 1922",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Murrill 1922"
+        ]
+      }
+    ],
+    "locality raw": "Maine",
+    "country": "United States",
+    "host": "on dead trunk of Prunus pensylvanica",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phellinus prunicola",
+    "_current_name_id": "450556",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "621590": {
+    "species": "Fomitiporia prunicola f. betulicola",
+    "author": "(Peck) Peck",
+    "protologo record0": "Bull. N.Y. St. Mus. 167 : 35 (1913)",
+    "Basionym": "Poria prunicola f. betulicola",
+    "Basionym_author": "Peck",
+    "protologo basionym": "Bull. N.Y. St. Mus. 157 : 35 (1912)",
+    "basionym recordID": "180954",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phellinus prunicola",
+    "_current_name_id": "450556",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "646822": {
+    "species": "Fomitiporia prunicola f. prunicola",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 9 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "485485": {
+    "species": "Fomitiporia prunicola var. prunicola",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 9 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "106150": {
+    "species": "Fomitiporia pseudopunctata",
+    "author": "(A. David, Dequatre & Fiasson) Fiasson",
+    "protologo record0": "Karstenia 24 (1) : 25 (1984)",
+    "Basionym": "Phellinus pseudopunctatus",
+    "Basionym_author": "A. David, Dequatre & Fiasson",
+    "protologo basionym": "Mycotaxon 14 (1) : 171 (1982)",
+    "basionym recordID": "110884",
+    "typification": "Holotype LY, colln David 3490",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "LY",
+          "colln David 3490"
+        ]
+      }
+    ],
+    "locality raw": "France",
+    "country": "France",
+    "host": "on Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "286493": {
+    "species": "Fomitiporia punctata",
+    "author": "(P. Karst.) Murrill",
+    "protologo record0": "Lloydia 10 : 254 (1947)",
+    "Basionym": "Poria punctata",
+    "Basionym_author": "P. Karst.",
+    "protologo basionym": "Bidr. Känn. Finl. Nat. Folk 37 : 83 (1882)",
+    "basionym recordID": "449541",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "275716": {
+    "species": "Fomitiporia punctatiformis",
+    "author": "Murrill",
+    "protologo record0": "Bull. Torrey bot. Club 65 : 659 (1938)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Florida",
+    "country": "United States",
+    "host": "on fallen branch of Quercus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phellinus punctatiformis",
+    "_current_name_id": "319784",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "510810": {
+    "species": "Fomitiporia punicata",
+    "author": "Y.C. Dai, B.K. Cui & Decock",
+    "protologo record0": "Mycol. Res. 112 (3) : 376 (2008)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype IFP, Dai 7737",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "IFP",
+          "Dai 7737"
+        ]
+      }
+    ],
+    "locality raw": "Shaanxi",
+    "country": "China",
+    "host": "on Punica granatum",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "474072": {
+    "species": "Fomitiporia pusilla",
+    "author": "(Lloyd) Y.C. Dai",
+    "protologo record0": "Acta bot. fenn. 166 : 33 (1999)",
+    "Basionym": "Fomes pusillus",
+    "Basionym_author": "Lloyd",
+    "protologo basionym": "Mycol. Writ. 4 (Syn. gen. Fomes) : 240 (1915)",
+    "basionym recordID": "165207",
+    "typification": "Typification: Yasuda s.n.",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Yasuda s.n."
+        ]
+      }
+    ],
+    "locality raw": "Japan",
+    "country": "Japan",
+    "host": "on stems of Zelkowa acuminata",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phellinus pusillus",
+    "_current_name_id": "126291",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "550618": {
+    "species": "Fomitiporia repanda",
+    "author": "(Overh.) Ginns",
+    "protologo record0": "Index Fungorum 156 : 1 (2014)",
+    "Basionym": "Fomes repandus",
+    "Basionym_author": "Overh.",
+    "protologo basionym": "Mycologia 44 (2) : 224 (1952)",
+    "basionym recordID": "297476",
+    "typification": "Typification: Epling 1751",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Epling 1751"
+        ]
+      }
+    ],
+    "locality raw": "Idaho",
+    "country": "United States",
+    "host": "on wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "825105": {
+    "species": "Fomitiporia rhamnoides",
+    "author": "T.Z. Liu & F. Wu",
+    "protologo record0": "(2018)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "851956",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "851956": {
+    "species": "Fomitiporia rhamnoidis",
+    "author": "T.Z. Liu & F. Wu",
+    "protologo record0": "MycoKeys 36 : 37 (2018)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 025621",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 025621"
+        ]
+      }
+    ],
+    "locality raw": "Hebei",
+    "country": "China",
+    "host": "on living tree of Hippophae rhamnoides",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "106151": {
+    "species": "Fomitiporia robusta",
+    "author": "(P. Karst.) Fiasson & Niemelä",
+    "protologo record0": "Karstenia 24 (1) : 25 (1984)",
+    "Basionym": "Fomes robustus",
+    "Basionym_author": "P. Karst.",
+    "protologo basionym": "Bidr. Känn. Finl. Nat. Folk 48 : 467 (1889)",
+    "basionym recordID": "169415",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Finland",
+    "country": "Finland",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "858483": {
+    "species": "Fomitiporia robustiformis",
+    "author": "Jian Chen, Yuan Yuan, K.Y. Luo, Y.C. Dai & Vlasák",
+    "protologo record0": "MycoKeys 118 : 274 (2025)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 053711",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 053711"
+        ]
+      }
+    ],
+    "locality raw": "Ecuador",
+    "country": "Ecuador",
+    "host": "on living Acacia",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "900085": {
+    "species": "Fomitiporia rondonii",
+    "author": "Alves-Silva & Drechsler-Santos",
+    "protologo record0": "Fungal Diversity 130 : 182 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype FLOR 58557",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "FLOR 58557"
+        ]
+      }
+    ],
+    "locality raw": "Mato Grosso",
+    "country": "Brazil",
+    "host": "on dead trunk of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "860284": {
+    "species": "Fomitiporia roseobubalina",
+    "author": "Jian Chen, Yuan Yuan, K.Y. Luo, Y.C. Dai & Vlasák",
+    "protologo record0": "MycoKeys 118 : 276 (2025)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 053710",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 053710"
+        ]
+      }
+    ],
+    "locality raw": "Ecuador",
+    "country": "Ecuador",
+    "host": "on base of living Acacia",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "858484": {
+    "species": "Fomitiporia roseo-bubalina",
+    "author": "Jian Chen, Yuan Yuan, K.Y. Luo, Y.C. Dai & Vlasák",
+    "protologo record0": "(2025)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "860284",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "510848": {
+    "species": "Fomitiporia rosmarini",
+    "author": "(Bernicchia) Ghob.-Nejh. & Y.C. Dai",
+    "protologo record0": "Mycotaxon 101 : 207 (2007)",
+    "Basionym": "Phellinus rosmarini",
+    "Basionym_author": "Bernicchia",
+    "protologo basionym": "Polyporaceae s.l. in Italia : 426 (1990)",
+    "basionym recordID": "358018",
+    "typification": "Holotype Universitatis Bononiensis, Bernicchia 3464",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "Universitatis Bononiensis",
+          "Bernicchia 3464"
+        ]
+      }
+    ],
+    "locality raw": "Italy",
+    "country": "Italy",
+    "host": "on trunk of Rhamnus alaternus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "509828": {
+    "species": "Fomitiporia sanctichampagnatii",
+    "author": "G. Coelho, R.M. Silveira & Rajchenb.",
+    "protologo record0": "(2009)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "581055",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "581055": {
+    "species": "Fomitiporia sancti-champagnatii",
+    "author": "G. Coelho, R.M. Silveira & Rajchenb.",
+    "protologo record0": "Fungal Diversity 36 : 3 (2009)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype ICN 139044",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "ICN 139044"
+        ]
+      }
+    ],
+    "locality raw": "Rio Grande do Sul",
+    "country": "Brazil",
+    "host": "on rotten Bambusoideae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "263279": {
+    "species": "Fomitiporia sonora",
+    "author": "(Gilb.) Y.C. Dai",
+    "protologo record0": "(2001)",
+    "Basionym": "Phellinus sonorae",
+    "Basionym_author": "Gilb.",
+    "protologo basionym": "Mycotaxon 9 (1) : 77 (1979)",
+    "basionym recordID": "319797",
+    "typification": "Holotype BPI, Gilbertson 10862",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BPI",
+          "Gilbertson 10862"
+        ]
+      }
+    ],
+    "locality raw": "Arizona",
+    "country": "United States",
+    "host": "on Dodonaea viscosa",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "474157",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "474157": {
+    "species": "Fomitiporia sonorae",
+    "author": "(Gilb.) Y.C. Dai",
+    "protologo record0": "Mycosystema 20 (1) : 18 (2001)",
+    "Basionym": "Phellinus sonorae",
+    "Basionym_author": "Gilb.",
+    "protologo basionym": "Mycotaxon 9 (1) : 77 (1979)",
+    "basionym recordID": "319797",
+    "typification": "Holotype BPI, Gilbertson 10862",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BPI",
+          "Gilbertson 10862"
+        ]
+      }
+    ],
+    "locality raw": "Arizona",
+    "country": "United States",
+    "host": "on Dodonaea viscosa",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phellinus sonorae",
+    "_current_name_id": "319797",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "509829": {
+    "species": "Fomitiporia spinescens",
+    "author": "(J.E. Wright & G. Coelho) G. Coelho, Guerrero & Rajchenb.",
+    "protologo record0": "Fungal Diversity 36 : 6 (2009)",
+    "Basionym": "Phellinus spinescens",
+    "Basionym_author": "J.E. Wright & G. Coelho",
+    "protologo basionym": "Mycotaxon 59 : 384 (1996)",
+    "basionym recordID": "415790",
+    "typification": "Holotype ICN 97790",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "ICN 97790"
+        ]
+      }
+    ],
+    "locality raw": "Rio Grande do Sul",
+    "country": "Brazil",
+    "host": "on culms of half-rotten Bambusa",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "815616": {
+    "species": "Fomitiporia subhippophaëicola",
+    "author": "B.K. Cui & Hong Chen",
+    "protologo record0": "(2016)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "837288",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "837288": {
+    "species": "Fomitiporia subhippophaeicola",
+    "author": "B.K. Cui & Hong Chen",
+    "protologo record0": "Mycologia 108 (5) : 1013 (2016)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 008271",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 008271"
+        ]
+      }
+    ],
+    "locality raw": "Tibet",
+    "country": "China",
+    "host": "on trunk of Hippophae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "474392": {
+    "species": "Fomitiporia sublaevigata",
+    "author": "(Cleland & Rodway) Y.C. Dai",
+    "protologo record0": "Mycosystema 20 (1) : 19 (2001)",
+    "Basionym": "Poria sublaevigata",
+    "Basionym_author": "Cleland & Rodway",
+    "protologo basionym": "Pap. Proc. R. Soc. Tasm. : 39 (1930)",
+    "basionym recordID": "279261",
+    "typification": "",
+    "types": [],
+    "locality raw": "New South Wales",
+    "country": "Australia",
+    "host": "on dead branch",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phellinus sublaevigatus",
+    "_current_name_id": "413790",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "819447": {
+    "species": "Fomitiporia subrobusta",
+    "author": "B.K. Cui & Hong Chen",
+    "protologo record0": "Mycol. Progr. 16 (7) : 696 (2017)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Dai 13577",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Dai 13577"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on fallen angiosperm trunk",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "551916": {
+    "species": "Fomitiporia subtilissima",
+    "author": "Alves-Silva, Reck & Drechsler-Santos",
+    "protologo record0": "Fungal Diversity 78 : 168 (2016)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype FURB 47557",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "FURB 47557"
+        ]
+      }
+    ],
+    "locality raw": "Santa Catarina",
+    "country": "Brazil",
+    "host": "on dead root of Sloanea guianensis",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "819448": {
+    "species": "Fomitiporia subtropica",
+    "author": "B.K. Cui & Hong Chen",
+    "protologo record0": "Mycol. Progr. 16 (7) : 697 (2017)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Cui 9115",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Cui 9115"
+        ]
+      }
+    ],
+    "locality raw": "Guangdong",
+    "country": "China",
+    "host": "on dead Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "505889": {
+    "species": "Fomitiporia tabaquilio",
+    "author": "(Urcelay, Robledo & Rajchenb.) Decock & Robledo",
+    "protologo record0": "Mycologia 99 (5) : 748 (2008)",
+    "Basionym": "Phellinus tabaquilio",
+    "Basionym_author": "Urcelay, Robledo & Rajchenb.",
+    "protologo basionym": "Mycotaxon 76 : 288 (2000)",
+    "basionym recordID": "466236",
+    "typification": "Holotype CORD, Roblado & Urcelay 194",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "CORD",
+          "Roblado & Urcelay 194"
+        ]
+      }
+    ],
+    "locality raw": "Córdoba",
+    "country": "Argentina",
+    "host": "on wood of Polylepis australis",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "835633": {
+    "species": "Fomitiporia tasmanica",
+    "author": "G.M. Gates, X.H. Ji & Jia J. Chen",
+    "protologo record0": "Phytotaxa 489 (2) : 202 (2021)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Dai 18793",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Dai 18793"
+        ]
+      }
+    ],
+    "locality raw": "Tasmania",
+    "country": "Australia",
+    "host": "on fallen trunk of Nothofagus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "501407": {
+    "species": "Fomitiporia tenuis",
+    "author": "Decock, Bitew & G. Castillo",
+    "protologo record0": "Mycologia 97 (1) : 122 (2005)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype MUCL 44802",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "MUCL 44802"
+        ]
+      }
+    ],
+    "locality raw": "Ethiopia",
+    "country": "Ethiopia",
+    "host": "on lower trunk of liana",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "563606": {
+    "species": "Fomitiporia tenuitubus",
+    "author": "L.W. Zhou",
+    "protologo record0": "Mycol. Progr. 11 (4) : 910 (2012)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype IFP 015817",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "IFP 015817"
+        ]
+      }
+    ],
+    "locality raw": "Guangxi",
+    "country": "China",
+    "host": "on trunk of fallen Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "129841": {
+    "species": "Fomitiporia texana",
+    "author": "(Murrill) Nuss",
+    "protologo record0": "Biblthca Mycol. 105 : 108 (1986)",
+    "Basionym": "Pyropolyporus texanus",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "N. Amer. Fl. 9 (2) : 104 (1908)",
+    "basionym recordID": "167929",
+    "typification": "Typification: Long 327",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Long 327"
+        ]
+      }
+    ],
+    "locality raw": "Texas",
+    "country": "United States",
+    "host": "on Juniperus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "374846": {
+    "species": "Fomitiporia tibetica",
+    "author": "Y.C. Dai & M. Zang",
+    "protologo record0": "Mycotaxon 83 : 218 (2002)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype KUN 5895",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "KUN 5895"
+        ]
+      }
+    ],
+    "locality raw": "Tibet",
+    "country": "China",
+    "host": "on Abies",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Pseudoinonotus tibeticus",
+    "_current_name_id": "510812",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "356315": {
+    "species": "Fomitiporia torreyae",
+    "author": "Y.C. Dai & B.K. Cui",
+    "protologo record0": "Mycotaxon 94 : 344 (2006)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype IFP, Dai 7320",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "IFP",
+          "Dai 7320"
+        ]
+      }
+    ],
+    "locality raw": "Fujian",
+    "country": "China",
+    "host": "on Torreya grandis",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "858485": {
+    "species": "Fomitiporia triqueter",
+    "author": "Jian Chen, Yuan Yuan, K.Y. Luo, Y.C. Dai & Vlasák",
+    "protologo record0": "(2025)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "860285",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "860285": {
+    "species": "Fomitiporia triquetra",
+    "author": "Jian Chen, Yuan Yuan, K.Y. Luo, Y.C. Dai & Vlasák",
+    "protologo record0": "MycoKeys 118 : 279 (2025)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 053713",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 053713"
+        ]
+      }
+    ],
+    "locality raw": "Ecuador",
+    "country": "Ecuador",
+    "host": "on bark of living Angiospermae tree",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "451513": {
+    "species": "Fomitiporia tropicalis",
+    "author": "(Cooke) Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 8 (1907)",
+    "Basionym": "Fomes tropicalis",
+    "Basionym_author": "Cooke",
+    "protologo basionym": "Grevillea 15 (no. 73) : 22 (1886)",
+    "basionym recordID": "190974",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Guyana",
+    "country": "Guyana",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Larssoniporia tropicalis",
+    "_current_name_id": "812225",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "829577": {
+    "species": "Fomitiporia tsitsikamensis",
+    "author": "Tchotet, M.P.A. Coetzee, Rajchenb. & Jol. Roux",
+    "protologo record0": "Mycologia 112 (4) : 728 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype PREM 62382",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PREM 62382"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "237772": {
+    "species": "Fomitiporia tsugina",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 9 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Wilson, 6-19 Agug. 1905",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Wilson",
+          "6-19 Agug. 1905"
+        ]
+      }
+    ],
+    "locality raw": "New Hampshire",
+    "country": "United States",
+    "host": "on dead trunk of Tsuga canadensis",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fomitiporia punctata",
+    "_current_name_id": "286493",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "509830": {
+    "species": "Fomitiporia uncinata",
+    "author": "(Rajchenb.) G. Coelho, Guerrero & Rajchenb.",
+    "protologo record0": "Fungal Diversity 36 : 6 (2009)",
+    "Basionym": "Phellinus uncinatus",
+    "Basionym_author": "Rajchenb.",
+    "protologo basionym": "Mycotaxon 28 (1) : 114 (1987)",
+    "basionym recordID": "129913",
+    "typification": "Holotype BAFC 29836",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BAFC 29836"
+        ]
+      }
+    ],
+    "locality raw": "Misiones",
+    "country": "Argentina",
+    "host": "on Poaceae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "237560": {
+    "species": "Fomitiporia undulata",
+    "author": "Murrill",
+    "protologo record0": "N. Amer. Fl. 9 (1) : 10 (1907)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Typification: Peck, Oct. 1906",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Peck",
+          "Oct. 1906"
+        ]
+      }
+    ],
+    "locality raw": "Belize",
+    "country": "Belize",
+    "host": "on decayed log",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fuscoporia undulata",
+    "_current_name_id": "358546",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "237866": {
+    "species": "Fomitiporia weirii",
+    "author": "Murrill",
+    "protologo record0": "Mycologia 6 (2) : 93 (1914)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype NY, Weir, 1912",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "NY",
+          "Weir",
+          "1912"
+        ]
+      }
+    ],
+    "locality raw": "Idaho",
+    "country": "United States",
+    "host": "on trunk of Thuja plicata",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Coniferiporia weirii",
+    "_current_name_id": "814476",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "570360": {
+    "species": "Fomitiporia yanbeiensis",
+    "author": "S. Guo & Lin Zhou",
+    "protologo record0": "Southwest China Journal of Agricultural Sciences 30 (10) : 2334 (2017)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype SXSYJBB 1510",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "SXSYJBB 1510"
+        ]
+      }
+    ],
+    "locality raw": "Shanxi",
+    "country": "China",
+    "host": "from rotting wood of Hippophae rhamnoides",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "830988": {
+    "species": "Diacanthodes cerebriporoides",
+    "author": "Robledo & Urcelay",
+    "protologo record0": "Syst. Biodiv. 18 (6) : 548 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype CORD, Robledo 3026",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "CORD",
+          "Robledo 3026"
+        ]
+      }
+    ],
+    "locality raw": "Catamarca",
+    "country": "Argentina",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Incertae sedis",
+    "_order": "Polyporales"
+  },
+  "833321": {
+    "species": "Diacanthodes coffeae",
+    "author": "(Wakef.) Robledo, K. Põldmaa & Ryvarden",
+    "protologo record0": "Syst. Biodiv. 18 (6) : 550 (2020)",
+    "Basionym": "Polyporus coffeae",
+    "Basionym_author": "Wakef.",
+    "protologo basionym": "Bull. Misc. Inf. : 308 (1917)",
+    "basionym recordID": "185071",
+    "typification": "Holotype K(M), Small 327",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "Small 327"
+        ]
+      }
+    ],
+    "locality raw": "Uganda",
+    "country": "Uganda",
+    "host": "on dead roots of Coffea",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Incertae sedis",
+    "_order": "Polyporales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "136482": {
+    "species": "Diacanthodes fluminensis",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 96 : 24 (1989)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Brazil",
+    "country": "Brazil",
+    "host": "on soil in forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Incertae sedis",
+    "_order": "Polyporales"
+  },
+  "136483": {
+    "species": "Diacanthodes griseus",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 96 : 25 (1989)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype E, Corner, 10 Nov. 1930",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "E",
+          "Corner",
+          "10 Nov. 1930"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on soil in forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Incertae sedis",
+    "_order": "Polyporales"
+  },
+  "419676": {
+    "species": "Diacanthodes griseus var. griseus",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 96 : 25 (1989)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Incertae sedis",
+    "_order": "Polyporales"
+  },
+  "136596": {
+    "species": "Diacanthodes griseus var. subglaber",
+    "author": "Corner",
+    "protologo record0": "Beih. Nova Hedwigia 96 : 26 (1989)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on soil in submontane forest",
+    "_rank": "var.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Diacanthodes griseus",
+    "_current_name_id": "136483",
+    "_family": "Incertae sedis",
+    "_order": "Polyporales"
+  },
+  "830968": {
+    "species": "Diacanthodes neotropicalis",
+    "author": "Palacio & Robledo",
+    "protologo record0": "Syst. Biodiv. 18 (6) : 550 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype HUA 185578",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "HUA 185578"
+        ]
+      }
+    ],
+    "locality raw": "Colombia",
+    "country": "Colombia",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Incertae sedis",
+    "_order": "Polyporales"
+  },
+  "536412": {
+    "species": "Diacanthodes novo-guineenses",
+    "author": "(Henn.) O. Fidalgo",
+    "protologo record0": "(1962)",
+    "Basionym": "Polyporus novoguineensis",
+    "Basionym_author": "Henn.",
+    "protologo basionym": "Flora Kais. Wilhelm's Land : 6 (1889)",
+    "basionym recordID": "212127",
+    "typification": "Holotype K(M) 159451",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 159451"
+        ]
+      }
+    ],
+    "locality raw": "Papua New Guinea",
+    "country": "Guinea",
+    "host": "on wood",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "329835",
+    "_family": "Incertae sedis",
+    "_order": "Polyporales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "329835": {
+    "species": "Diacanthodes novoguineensis",
+    "author": "(Henn.) O. Fidalgo",
+    "protologo record0": "Rickia 1 : 149 (1962)",
+    "Basionym": "Polyporus novoguineensis",
+    "Basionym_author": "Henn.",
+    "protologo basionym": "Flora Kais. Wilhelm's Land : 6 (1889)",
+    "basionym recordID": "212127",
+    "typification": "Holotype K(M) 159451",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 159451"
+        ]
+      }
+    ],
+    "locality raw": "Papua New Guinea",
+    "country": "Guinea",
+    "host": "on wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Incertae sedis",
+    "_order": "Polyporales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "536411": {
+    "species": "Diacanthodes novo-guineensis",
+    "author": "(Henn.) O. Fidalgo",
+    "protologo record0": "(1962)",
+    "Basionym": "Polyporus novoguineensis",
+    "Basionym_author": "Henn.",
+    "protologo basionym": "Flora Kais. Wilhelm's Land : 6 (1889)",
+    "basionym recordID": "212127",
+    "typification": "Holotype K(M) 159451",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 159451"
+        ]
+      }
+    ],
+    "locality raw": "Papua New Guinea",
+    "country": "Guinea",
+    "host": "on wood",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "329835",
+    "_family": "Incertae sedis",
+    "_order": "Polyporales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "427555": {
+    "species": "Diacanthodes novoguineensis f. novoguineensis",
+    "author": "(Henn.) O. Fidalgo",
+    "protologo record0": "Rickia 1 : 149 (1962)",
+    "Basionym": "Polyporus novoguineensis",
+    "Basionym_author": "Henn.",
+    "protologo basionym": "Flora Kais. Wilhelm's Land : 6 (1889)",
+    "basionym recordID": "212127",
+    "typification": "Holotype K(M) 159451",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 159451"
+        ]
+      }
+    ],
+    "locality raw": "Papua New Guinea",
+    "country": "Guinea",
+    "host": "on wood",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "unresolved",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Incertae sedis",
+    "_order": "Polyporales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "334003": {
+    "species": "Diacanthodes novo-guineensis f. novo-guineensis",
+    "author": "(Henn.) O. Fidalgo",
+    "protologo record0": "(1962)",
+    "Basionym": "Polyporus novoguineensis",
+    "Basionym_author": "Henn.",
+    "protologo basionym": "Flora Kais. Wilhelm's Land : 6 (1889)",
+    "basionym recordID": "212127",
+    "typification": "Holotype K(M) 159451",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 159451"
+        ]
+      }
+    ],
+    "locality raw": "Papua New Guinea",
+    "country": "Guinea",
+    "host": "on wood",
+    "_rank": "f.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "427555",
+    "_family": "Incertae sedis",
+    "_order": "Polyporales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "349299": {
+    "species": "Diacanthodes novoguineensis f. subabortivus",
+    "author": "(Murrill) O. Fidalgo",
+    "protologo record0": "Rickia 1 : 159, 152 (1962)",
+    "Basionym": "Abortiporus subabortivus",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "Bull. Torrey bot. Club 65 : 655 (1938)",
+    "basionym recordID": "279084",
+    "typification": "",
+    "types": [],
+    "locality raw": "Florida",
+    "country": "United States",
+    "host": "on roots",
+    "_rank": "f.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Diacanthodes novoguineensis",
+    "_current_name_id": "329835",
+    "_family": "Incertae sedis",
+    "_order": "Polyporales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "494316": {
+    "species": "Diacanthodes novo-guineensis f. subabortivus",
+    "author": "(Murrill) O. Fidalgo",
+    "protologo record0": "(1962)",
+    "Basionym": "Abortiporus subabortivus",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "Bull. Torrey bot. Club 65 : 655 (1938)",
+    "basionym recordID": "279084",
+    "typification": "",
+    "types": [],
+    "locality raw": "Florida",
+    "country": "United States",
+    "host": "on roots",
+    "_rank": "f.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "349299",
+    "_family": "Incertae sedis",
+    "_order": "Polyporales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "286062": {
+    "species": "Diacanthodes philippinensis",
+    "author": "(Pat.) Singer",
+    "protologo record0": "Lloydia 8 (3) : 141 (1945)",
+    "Basionym": "Daedalea philippinensis",
+    "Basionym_author": "Pat.",
+    "protologo basionym": "Philipp. J. Sci. 10 (2) : 94 (1915)",
+    "basionym recordID": "204335",
+    "typification": "Typification: Baker 3394",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Baker 3394"
+        ]
+      }
+    ],
+    "locality raw": "Philippines",
+    "country": "Philippines",
+    "host": "on rotten wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Diacanthodes novoguineensis",
+    "_current_name_id": "329835",
+    "_family": "Incertae sedis",
+    "_order": "Polyporales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  }
+}

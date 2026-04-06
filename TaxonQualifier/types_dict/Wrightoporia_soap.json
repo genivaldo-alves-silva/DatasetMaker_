@@ -1,0 +1,1652 @@
+{
+  "325575": {
+    "species": "Wrightoporia africana",
+    "author": "I. Johans. & Ryvarden",
+    "protologo record0": "Trans. Br. mycol. Soc. 72 (2) : 196 (1979)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype O, Ryvarden 9332",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "O",
+          "Ryvarden 9332"
+        ]
+      }
+    ],
+    "locality raw": "Kenya",
+    "country": "Kenya",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Pseudowrightoporia africana",
+    "_current_name_id": "812230",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "553090": {
+    "species": "Wrightoporia afrocinnamomea",
+    "author": "Ryvarden",
+    "protologo record0": "Index Fungorum 517 : 1 (2022)",
+    "Basionym": "Wrightoporia cinnamomea",
+    "Basionym_author": "Ryvarden",
+    "protologo basionym": "Syn. Fung. 39 : 71 (2019)",
+    "basionym recordID": "556519",
+    "typification": "Holotype O, Ryvarden 32702",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "O",
+          "Ryvarden 32702"
+        ]
+      }
+    ],
+    "locality raw": "Zimbabwe",
+    "country": "Zimbabwe",
+    "host": "on dead hardwood log",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "801840": {
+    "species": "Wrightoporia araucariae",
+    "author": "Westph. & Reck",
+    "protologo record0": "Phytotaxa 166 (1) : 95 (2014)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype ICN 154335",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "ICN 154335"
+        ]
+      }
+    ],
+    "locality raw": "Rio Grande do Sul",
+    "country": "Brazil",
+    "host": "on dead logs of Araucaria angustifolia",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "533102": {
+    "species": "Wrightoporia aurantipora",
+    "author": "T. Hatt.",
+    "protologo record0": "Mycoscience 49 (1) : 57 (2008)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype TFM F-19004",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "TFM F-19004"
+        ]
+      }
+    ],
+    "locality raw": "Honshu",
+    "country": "Japan",
+    "host": "on hardwood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Pseudowrightoporia aurantipora",
+    "_current_name_id": "812231",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "518964": {
+    "species": "Wrightoporia austrosinensis",
+    "author": "Y.C. Dai",
+    "protologo record0": "Ann. Bot. Fenn. 48 (3) : 225 (2011)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype IFP, Dai 11579",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "IFP",
+          "Dai 11579"
+        ]
+      }
+    ],
+    "locality raw": "Hainan",
+    "country": "China",
+    "host": "on rotten wood of Pinus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "341030": {
+    "species": "Wrightoporia avellanea",
+    "author": "(Bres.) Pouzar",
+    "protologo record0": "Česká Mykol. 20 (3) : 173 (1966)",
+    "Basionym": "Poria avellanea",
+    "Basionym_author": "Bres.",
+    "protologo basionym": "Denkschr. Kaiserl. Akad. Wiss. Wien 83 : 14 (1909)",
+    "basionym recordID": "204095",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "800915": {
+    "species": "Wrightoporia biennis",
+    "author": "Jia J. Chen & B.K. Cui",
+    "protologo record0": "Mycotaxon 121 : 334 (2013)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Cui 8506",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Cui 8506"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on trunk of fallen Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Wrightoporiopsis biennis",
+    "_current_name_id": "812242",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "516783": {
+    "species": "Wrightoporia borealis",
+    "author": "Y.C. Dai",
+    "protologo record0": "Mycosystema 29 (6) : 816 (2010)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype IFP, Dai 7075",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "IFP",
+          "Dai 7075"
+        ]
+      }
+    ],
+    "locality raw": "Jilin",
+    "country": "中国",
+    "host": "on rotten wood of Abies",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "460416": {
+    "species": "Wrightoporia bracei",
+    "author": "(Murrill) I. Lindblad & Ryvarden",
+    "protologo record0": "Mycotaxon 71 : 357 (1999)",
+    "Basionym": "Poria bracei",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "Mycologia 13 (2) : 91 (1921)",
+    "basionym recordID": "171041",
+    "typification": "Typification: Brace 9594",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Brace 9594"
+        ]
+      }
+    ],
+    "locality raw": "Bahamas",
+    "country": "Bahamas",
+    "host": "on wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Amylosporus bracei",
+    "_current_name_id": "105039",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "291476": {
+    "species": "Wrightoporia braceii",
+    "author": "(Murrill) I. Lindblad & Ryvarden",
+    "protologo record0": "(1999)",
+    "Basionym": "Poria bracei",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "Mycologia 13 (2) : 91 (1921)",
+    "basionym recordID": "171041",
+    "typification": "Typification: Brace 9594",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Brace 9594"
+        ]
+      }
+    ],
+    "locality raw": "Bahamas",
+    "country": "Bahamas",
+    "host": "on wood",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "460416",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "517157": {
+    "species": "Wrightoporia brunneoochracea",
+    "author": "A. David & Rajchenb.",
+    "protologo record0": "(1985)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "105870",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "105870": {
+    "species": "Wrightoporia brunneo-ochracea",
+    "author": "A. David & Rajchenb.",
+    "protologo record0": "Mycotaxon 22 (2) : 319 (1985)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype Lyon University, David 1415",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "Lyon University",
+          "David 1415"
+        ]
+      }
+    ],
+    "locality raw": "Guadeloupe",
+    "country": "Guadeloupe",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "360689": {
+    "species": "Wrightoporia campbellii",
+    "author": "(Berk.) Teixeira",
+    "protologo record0": "J. Bot. 15 (2) : 127 (1992)",
+    "Basionym": "Polyporus campbellii",
+    "Basionym_author": "Berk.",
+    "protologo basionym": "Hooker's J. Bot. Kew Gard. Misc. 6 : 228 (1854)",
+    "basionym recordID": "192948",
+    "typification": "Holotype K(M) 51995",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M) 51995"
+        ]
+      }
+    ],
+    "locality raw": "Maharashtra",
+    "country": "India",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Amylosporus campbellii",
+    "_current_name_id": "308693",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "521514": {
+    "species": "Wrightoporia casuarinicola",
+    "author": "Y.C. Dai & B.K. Cui",
+    "protologo record0": "Mycotaxon 96 : 200 (2006)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype IFP, Dai 6914",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "IFP",
+          "Dai 6914"
+        ]
+      }
+    ],
+    "locality raw": "Guangxi",
+    "country": "China",
+    "host": "on Casuarina equisetifolia",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Amylosporus casuarinicola",
+    "_current_name_id": "812220",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "111093": {
+    "species": "Wrightoporia cinnamomea",
+    "author": "Ryvarden",
+    "protologo record0": "Nordic J. Bot. 2 : 146 (1982)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Thailand",
+    "country": "Thailand",
+    "host": "on deciduous wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "131493": {
+    "species": "Wrightoporia cremea",
+    "author": "Ryvarden",
+    "protologo record0": "Mycotaxon 28 (2) : 540 (1987)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype INPA 77538",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "INPA 77538"
+        ]
+      }
+    ],
+    "locality raw": "Amazonas",
+    "country": "Brazil",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "552566": {
+    "species": "Wrightoporia cremella",
+    "author": "Ryvarden",
+    "protologo record0": "Syn. Fung. 36 : 592 (2016)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype O, Ryvarden 46781",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "O",
+          "Ryvarden 46781"
+        ]
+      }
+    ],
+    "locality raw": "Costa Rica",
+    "country": "Costa Rica",
+    "host": "on dead hardwood tree",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "111094": {
+    "species": "Wrightoporia cylindrospora",
+    "author": "Ryvarden",
+    "protologo record0": "Nordic J. Bot. 2 : 147 (1982)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype CFMR, Davidson & Lentz, 19 Oct. 1960",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "CFMR",
+          "Davidson & Lentz",
+          "19 Oct. 1960"
+        ]
+      }
+    ],
+    "locality raw": "Maryland",
+    "country": "United States",
+    "host": "on Quercus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Pseudowrightoporia cylindrospora",
+    "_current_name_id": "812234",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "558335": {
+    "species": "Wrightoporia deviata",
+    "author": "Decock & Ryvarden",
+    "protologo record0": "Syn. Fung. 44 : 17 (2021)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BR, Decock ST-11-39",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BR",
+          "Decock ST-11-39"
+        ]
+      }
+    ],
+    "locality raw": "São Tomé",
+    "country": "São Tomé e Príncipe",
+    "host": "on dead wood Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "129702": {
+    "species": "Wrightoporia dimidiata",
+    "author": "A. David & Rajchenb.",
+    "protologo record0": "Canad. J. Bot. 65 (1) : 203 (1987)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Singapore",
+    "country": "Singapore",
+    "host": "at base of rotten stump",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "460415": {
+    "species": "Wrightoporia efibulata",
+    "author": "I. Lindblad & Ryvarden",
+    "protologo record0": "Mycotaxon 71 : 355 (1999)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype O, Lindblad 3607",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "O",
+          "Lindblad 3607"
+        ]
+      }
+    ],
+    "locality raw": "Costa Rica",
+    "country": "Costa Rica",
+    "host": "on dead hardwood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Amylosporus efibulatus",
+    "_current_name_id": "812221",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "129703": {
+    "species": "Wrightoporia flava",
+    "author": "(Ryvarden) A. David & Rajchenb.",
+    "protologo record0": "Canad. J. Bot. 65 (1) : 208 (1987)",
+    "Basionym": "Anomoporia flava",
+    "Basionym_author": "Ryvarden",
+    "protologo basionym": "Norw. Jl Bot. 22 : 28 (1975)",
+    "basionym recordID": "308714",
+    "typification": "",
+    "types": [],
+    "locality raw": "Kenya",
+    "country": "Kenya",
+    "host": "on wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "129704": {
+    "species": "Wrightoporia gillesii",
+    "author": "A. David & Rajchenb.",
+    "protologo record0": "Canad. J. Bot. 65 (1) : 204 (1987)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Gabon",
+    "country": "Gabon",
+    "host": "on wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Pseudowrightoporia gillesii",
+    "_current_name_id": "812235",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "325576": {
+    "species": "Wrightoporia gloeocystidiata",
+    "author": "I. Johans. & Ryvarden",
+    "protologo record0": "Trans. Br. mycol. Soc. 72 (2) : 197 (1979)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype O, Ryvarden 9864",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "O",
+          "Ryvarden 9864"
+        ]
+      }
+    ],
+    "locality raw": "Kenya",
+    "country": "Kenya",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "558057": {
+    "species": "Wrightoporia grandipora",
+    "author": "Decock & Ryvarden",
+    "protologo record0": "Syn. Fung. 42 : 13 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BR, Decock GA-06-36",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BR",
+          "Decock GA-06-36"
+        ]
+      }
+    ],
+    "locality raw": "Gabon",
+    "country": "Gabon",
+    "host": "on decayed wood of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "474334": {
+    "species": "Wrightoporia gyropora",
+    "author": "(Corner) Stalpers",
+    "protologo record0": "Stud. Mycol. 40 : 37 (1996)",
+    "Basionym": "Stecchericium gyroporum",
+    "Basionym_author": "Corner",
+    "protologo basionym": "Beih. Nova Hedwigia 96 : 121 (1989)",
+    "basionym recordID": "136529",
+    "typification": "Holotype E, Corner, 22 Feb. 1959",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "E",
+          "Corner",
+          "22 Feb. 1959"
+        ]
+      }
+    ],
+    "locality raw": "Brunei",
+    "country": "Brunei",
+    "host": "on bark",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Amylonotus gyroporus",
+    "_current_name_id": "812216",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "107374": {
+    "species": "Wrightoporia iobapha",
+    "author": "(Pat.) Ryvarden",
+    "protologo record0": "Occ. Pap. Farlow Herb. Crypt. Bot. 18 : 21 (1983)",
+    "Basionym": "Phaeolus iobaphus",
+    "Basionym_author": "Pat.",
+    "protologo basionym": "Bull. Soc. Mycol. France 38 (2) : 85 (1922)",
+    "basionym recordID": "190477",
+    "typification": "Typification: Baker 5306",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Baker 5306"
+        ]
+      }
+    ],
+    "locality raw": "Singapore",
+    "country": "Singapore",
+    "host": "on dead wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "291486": {
+    "species": "Wrightoporia iobaphus",
+    "author": "(Pat.) Ryvarden",
+    "protologo record0": "(1983)",
+    "Basionym": "Phaeolus iobaphus",
+    "Basionym_author": "Pat.",
+    "protologo basionym": "Bull. Soc. Mycol. France 38 (2) : 85 (1922)",
+    "basionym recordID": "190477",
+    "typification": "Typification: Baker 5306",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Baker 5306"
+        ]
+      }
+    ],
+    "locality raw": "Singapore",
+    "country": "Singapore",
+    "host": "on dead wood",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "107374",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "474335": {
+    "species": "Wrightoporia isabellina",
+    "author": "(Corner) Stalpers",
+    "protologo record0": "Stud. Mycol. 40 : 37 (1996)",
+    "Basionym": "Stecchericium isabellinum",
+    "Basionym_author": "Corner",
+    "protologo basionym": "Beih. Nova Hedwigia 96 : 122 (1989)",
+    "basionym recordID": "136531",
+    "typification": "",
+    "types": [],
+    "locality raw": "Brazil",
+    "country": "Brazil",
+    "host": "on fallen branch in forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Stecchericium isabellinum",
+    "_current_name_id": "136531",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "460006": {
+    "species": "Wrightoporia japonica",
+    "author": "Núñez & Ryvarden",
+    "protologo record0": "Fungal Diversity 3 : 119 (1999)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype O, Núñez 391",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "O",
+          "Núñez 391"
+        ]
+      }
+    ],
+    "locality raw": "Nansei-Shoto",
+    "country": "",
+    "host": "on wood of hardwood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Pseudowrightoporia japonica",
+    "_current_name_id": "812236",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "533103": {
+    "species": "Wrightoporia labyrinthina",
+    "author": "T. Hatt.",
+    "protologo record0": "Mycoscience 49 (1) : 59 (2008)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype TFM F-20724",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "TFM F-20724"
+        ]
+      }
+    ],
+    "locality raw": "Honshu",
+    "country": "Japan",
+    "host": "on twig of hardwood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Amylonotus labyrinthinus",
+    "_current_name_id": "812217",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "341031": {
+    "species": "Wrightoporia lenta",
+    "author": "(Overh. & J. Lowe) Pouzar",
+    "protologo record0": "Česká Mykol. 20 (3) : 173 (1966)",
+    "Basionym": "Poria lenta",
+    "Basionym_author": "Overh. & J. Lowe",
+    "protologo basionym": "Mycologia 38 (2) : 210 (1946)",
+    "basionym recordID": "289889",
+    "typification": "Typification: NY, Lowe 1767; colln Overholts 2093",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "NY",
+          "Lowe 1767; colln Overholts 2093"
+        ]
+      }
+    ],
+    "locality raw": "New York",
+    "country": "United States",
+    "host": "on wood of Coniferae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "522312": {
+    "species": "Wrightoporia luteola",
+    "author": "B.K. Cui & Y.C. Dai",
+    "protologo record0": "Nova Hedwigia 83 (1-2) : 159 (2006)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype IFP, Dai 6199",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "IFP",
+          "Dai 6199"
+        ]
+      }
+    ],
+    "locality raw": "Anhui",
+    "country": "中国",
+    "host": "on fallen trunk of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "467391": {
+    "species": "Wrightoporia micropora",
+    "author": "P.K. Buchanan & Ryvarden",
+    "protologo record0": "New Zealand J. Bot. 38 (2) : 261 (2000)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype PDD 70601",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PDD 70601"
+        ]
+      }
+    ],
+    "locality raw": "New Zealand South",
+    "country": "New Zealand / Aotearoa",
+    "host": "on wood of dead hardwood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "555359": {
+    "species": "Wrightoporia microporella",
+    "author": "Ryvarden",
+    "protologo record0": "Index Fungorum 371 : 1 (2018)",
+    "Basionym": "Wrightoporia micropora",
+    "Basionym_author": "Aime & Ryvarden",
+    "protologo basionym": "Syn. Fung. 23 : 28 (2007)",
+    "basionym recordID": "505149",
+    "typification": "Holotype BRG, Aime 1521",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BRG",
+          "Aime 1521"
+        ]
+      }
+    ],
+    "locality raw": "Guyana",
+    "country": "Guyana",
+    "host": "on underside of hardwood log in forest dominated by Dicymbe corymbosa",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "807508": {
+    "species": "Wrightoporia microporella",
+    "author": "Ryvarden",
+    "protologo record0": "Syn. Fung. 32 : 73 (2014)",
+    "Basionym": "Wrightoporia micropora",
+    "Basionym_author": "Aime & Ryvarden",
+    "protologo basionym": "Syn. Fung. 23 : 28 (2007)",
+    "basionym recordID": "505149",
+    "typification": "Holotype BRG, Aime 1521",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BRG",
+          "Aime 1521"
+        ]
+      }
+    ],
+    "locality raw": "Guyana",
+    "country": "Guyana",
+    "host": "on underside of hardwood log in forest dominated by Dicymbe corymbosa",
+    "_rank": "sp.",
+    "_name_status": "Invalid",
+    "_taxonomic_status": "invalid",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "467626": {
+    "species": "Wrightoporia neotropica",
+    "author": "Ryvarden",
+    "protologo record0": "Karstenia 40 (1-2) : 156 (2000)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype O, Ryvarden 35135",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "O",
+          "Ryvarden 35135"
+        ]
+      }
+    ],
+    "locality raw": "Venezuela",
+    "country": "Venezuela",
+    "host": "on dead log of hardwood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Wrightoporiopsis neotropica",
+    "_current_name_id": "812243",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "564036": {
+    "species": "Wrightoporia nigrolimitata",
+    "author": "Jia J. Chen",
+    "protologo record0": "Mycotaxon 120 : 296 (2012)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Li 1697",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Li 1697"
+        ]
+      }
+    ],
+    "locality raw": "Hunan",
+    "country": "中国",
+    "host": "on stump of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "133923": {
+    "species": "Wrightoporia novae-zelandiae",
+    "author": "Rajchenb. & A. David",
+    "protologo record0": "New Zealand J. Bot. 28 (2) : 185 (1990)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype PDD 5469",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PDD 5469"
+        ]
+      }
+    ],
+    "locality raw": "New Zealand North",
+    "country": "New Zealand / Aotearoa",
+    "host": "on Nothofagus fusca",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "129705": {
+    "species": "Wrightoporia ochrocrocea",
+    "author": "(Henn. & E. Nyman) A. David & Rajchenb.",
+    "protologo record0": "Canad. J. Bot. 65 (1) : 208 (1987)",
+    "Basionym": "Polyporus ochrocroceus",
+    "Basionym_author": "Henn. & E. Nyman",
+    "protologo basionym": "Monsunia 1 : 145 (1900)",
+    "basionym recordID": "213255",
+    "typification": "Typification: Nyman, Jul. 1898",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Nyman",
+          "Jul. 1898"
+        ]
+      }
+    ],
+    "locality raw": "Jawa",
+    "country": "Indonesia",
+    "host": "on branches",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "552567": {
+    "species": "Wrightoporia palmicola",
+    "author": "Baltazar & Ryvarden",
+    "protologo record0": "Syn. Fung. 36 : 594 (2016)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype O, Baltazar 317",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "O",
+          "Baltazar 317"
+        ]
+      }
+    ],
+    "locality raw": "Pernambuco",
+    "country": "Brasil",
+    "host": "on root of living Arecaceae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "126294": {
+    "species": "Wrightoporia perplexa",
+    "author": "Ryvarden",
+    "protologo record0": "Op. bot. 100 : 227 (1989)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Nepal",
+    "country": "Nepal",
+    "host": "in very humid Abies forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "443729": {
+    "species": "Wrightoporia porilacerata",
+    "author": "Log.-Leite, A.L. Gerber & Ryvarden",
+    "protologo record0": "Mycotaxon 67 : 252 (1998)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype FLOR 11455",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "FLOR 11455"
+        ]
+      }
+    ],
+    "locality raw": "Santa Catarina",
+    "country": "Brazil",
+    "host": "on dicotyledonous hardwood tree",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "129706": {
+    "species": "Wrightoporia pouzarii",
+    "author": "A. David & Rajchenb.",
+    "protologo record0": "Canad. J. Bot. 65 (1) : 208 (1987)",
+    "Basionym": "Amylonotus africanus",
+    "Basionym_author": "Ryvarden",
+    "protologo basionym": "Norw. Jl Bot. 22 (1) : 27 (1975)",
+    "basionym recordID": "308690",
+    "typification": "",
+    "types": [],
+    "locality raw": "Kenya",
+    "country": "Kenya",
+    "host": "on wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Amylonotus africanus",
+    "_current_name_id": "308690",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "542995": {
+    "species": "Wrightoporia radicata",
+    "author": "G.Y. Zheng & Z.S. Bi",
+    "protologo record0": "Macrofungus Flora of China's Guangdong Province : 157 (1997)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "129707": {
+    "species": "Wrightoporia ramosa",
+    "author": "A. David & Rajchenb.",
+    "protologo record0": "Canad. J. Bot. 65 (1) : 204 (1987)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "Singapore",
+    "country": "Singapore",
+    "host": "on rotten trunk",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Amylonotus ramosus",
+    "_current_name_id": "812219",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "489384": {
+    "species": "Wrightoporia roseocontexta",
+    "author": "Ryvarden & Iturr.",
+    "protologo record0": "Mycologia 95 (6) : 1076 (2003)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype VEN, Ryvarden 35504",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "VEN",
+          "Ryvarden 35504"
+        ]
+      }
+    ],
+    "locality raw": "Venezuela",
+    "country": "Venezuela",
+    "host": "on hardwood log",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Wrightoporiopsis roseocontexta",
+    "_current_name_id": "812244",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "414371": {
+    "species": "Wrightoporia rubella",
+    "author": "Y.C. Dai",
+    "protologo record0": "Karstenia 35 (2) : 86 (1995)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype H, Dai 1339",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "H",
+          "Dai 1339"
+        ]
+      }
+    ],
+    "locality raw": "Hebei",
+    "country": "China",
+    "host": "on rotten wood of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Amylosporus rubellus",
+    "_current_name_id": "812222",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "487985": {
+    "species": "Wrightoporia solomonensis",
+    "author": "(Corner) T. Hatt.",
+    "protologo record0": "Mycoscience 44 (6) : 461 (2003)",
+    "Basionym": "Stecchericium solomonense",
+    "Basionym_author": "Corner",
+    "protologo basionym": "Beih. Nova Hedwigia 96 : 124 (1989)",
+    "basionym recordID": "136534",
+    "typification": "Holotype E, Corner, 6 Jul. 1965",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "E",
+          "Corner",
+          "6 Jul. 1965"
+        ]
+      }
+    ],
+    "locality raw": "South Solomons",
+    "country": "United States",
+    "host": "on fallen branch in forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Pseudowrightoporia solomonensis",
+    "_current_name_id": "812237",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "833493": {
+    "species": "Wrightoporia srilankensis",
+    "author": "Y.C. Dai & Yuan Yuan",
+    "protologo record0": "Phytotaxa 437 (2) : 108 (2020)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 030715",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 030715"
+        ]
+      }
+    ],
+    "locality raw": "Sri Lanka",
+    "country": "Sri Lanka",
+    "host": "on rotten stump of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "533104": {
+    "species": "Wrightoporia straminea",
+    "author": "T. Hatt.",
+    "protologo record0": "Mycoscience 49 (1) : 60 (2008)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype TFM F-16387",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "TFM F-16387"
+        ]
+      }
+    ],
+    "locality raw": "Honshu",
+    "country": "Japan",
+    "host": "on hardwood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Pseudowrightoporia straminea",
+    "_current_name_id": "812238",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "133215": {
+    "species": "Wrightoporia subadusta",
+    "author": "Z.S. Bi & G.Y. Zheng",
+    "protologo record0": "Bull. bot. Res. 7 (4) : 76 (1987)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype HMGD, Zheng 11271",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "HMGD",
+          "Zheng 11271"
+        ]
+      }
+    ],
+    "locality raw": "Guangdong",
+    "country": "China",
+    "host": "on rotten wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Microporellus subadustus",
+    "_current_name_id": "847400",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "808216": {
+    "species": "Wrightoporia subavellanea",
+    "author": "Jia J. Chen & B.K. Cui",
+    "protologo record0": "Phytotaxa 175 (4) : 226 (2014)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Dai 11484",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Dai 11484"
+        ]
+      }
+    ],
+    "locality raw": "Guangxi",
+    "country": "China",
+    "host": "on rotten wood of Pinus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  },
+  "111095": {
+    "species": "Wrightoporia subrutilans",
+    "author": "(Murrill) Ryvarden",
+    "protologo record0": "Nordic J. Bot. 2 : 147 (1982)",
+    "Basionym": "Hapalopilus subrutilans",
+    "Basionym_author": "Murrill",
+    "protologo basionym": "Bull. Torrey bot. Club 65 : 655 (1938)",
+    "basionym recordID": "279344",
+    "typification": "",
+    "types": [],
+    "locality raw": "Florida",
+    "country": "United States",
+    "host": "on Magnolia glauca",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "474336": {
+    "species": "Wrightoporia tenuis",
+    "author": "(G.Y. Zheng & Z.S. Bi) Stalpers",
+    "protologo record0": "Stud. Mycol. 40 : 37 (1996)",
+    "Basionym": "Amylonotus tenuis",
+    "Basionym_author": "G.Y. Zheng & Z.S. Bi",
+    "protologo basionym": "Bull. bot. Res. 7 (4) : 73 (1987)",
+    "basionym recordID": "133213",
+    "typification": "",
+    "types": [],
+    "locality raw": "Guangdong",
+    "country": "China",
+    "host": "on rotten wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Amylonotus tenuis",
+    "_current_name_id": "133213",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "474096": {
+    "species": "Wrightoporia trametoides",
+    "author": "(Corner) Stalpers",
+    "protologo record0": "Stud. Mycol. 40 : 37 (1996)",
+    "Basionym": "Stecchericium trametoides",
+    "Basionym_author": "Corner",
+    "protologo basionym": "Beih. Nova Hedwigia 96 : 125 (1989)",
+    "basionym recordID": "136535",
+    "typification": "Holotype E, Corner, 22 Mar. 1940",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "E",
+          "Corner",
+          "22 Mar. 1940"
+        ]
+      }
+    ],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on dead trunk in swamp forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "474097": {
+    "species": "Wrightoporia trimitica",
+    "author": "(Corner) Stalpers",
+    "protologo record0": "Stud. Mycol. 40 : 37 (1996)",
+    "Basionym": "Stecchericium trimiticum",
+    "Basionym_author": "Corner",
+    "protologo basionym": "Beih. Nova Hedwigia 96 : 126 (1989)",
+    "basionym recordID": "136536",
+    "typification": "",
+    "types": [],
+    "locality raw": "Peninsular Malaysia",
+    "country": "Malaysia",
+    "host": "on twigs in montane forest",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "116148": {
+    "species": "Wrightoporia tropicalis",
+    "author": "(Cooke) Ryvarden",
+    "protologo record0": "Prelim. Polyp. Fl. E. Afr. : 619 (1980)",
+    "Basionym": "Fomes tropicalis",
+    "Basionym_author": "Cooke",
+    "protologo basionym": "Grevillea 15 (no. 73) : 22 (1886)",
+    "basionym recordID": "190974",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Guyana",
+    "country": "Guyana",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Larssoniporia tropicalis",
+    "_current_name_id": "812225",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "521515": {
+    "species": "Wrightoporia unguliformis",
+    "author": "Y.C. Dai & B.K. Cui",
+    "protologo record0": "Mycotaxon 96 : 203 (2006)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype HMAS 29718",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "HMAS 29718"
+        ]
+      }
+    ],
+    "locality raw": "Hainan",
+    "country": "China",
+    "host": "on fallen trunk of Angiospermae",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Bondarzewiaceae",
+    "_order": "Russulales"
+  }
+}

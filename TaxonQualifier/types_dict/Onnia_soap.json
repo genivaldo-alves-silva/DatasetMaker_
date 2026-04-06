@@ -1,0 +1,566 @@
+{
+  "431871": {
+    "species": "Onnia circinata",
+    "author": "(Fr.) P. Karst.",
+    "protologo record0": "Bidr. Känn. Finl. Nat. Folk 48 : 326 (1889)",
+    "Basionym": "Trametes circinata",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "K. svenska Vetensk-Akad. Handl. : 128 (1849)",
+    "basionym recordID": "536331",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "302027": {
+    "species": "Onnia cumingii",
+    "author": "(Berk.) Imazeki",
+    "protologo record0": "Bull. Tokyo Sci. Mus. 6 : 110 (1943)",
+    "Basionym": "Polyporus cumingii",
+    "Basionym_author": "Berk.",
+    "protologo basionym": "London J. Bot. 1 (3) : 147 (1842)",
+    "basionym recordID": "128890",
+    "typification": "Holotype K(M), Cuming 1986",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "Cuming 1986"
+        ]
+      }
+    ],
+    "locality raw": "Philippines",
+    "country": "Philippines",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Phylloporia spathulata",
+    "_current_name_id": "460305",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "474393": {
+    "species": "Onnia flavida",
+    "author": "(Berk.) Y.C. Dai",
+    "protologo record0": "Mycosystema 20 (1) : 20 (2001)",
+    "Basionym": "Polyporus flavidus",
+    "Basionym_author": "Berk.",
+    "protologo basionym": "Hooker's J. Bot. Kew Gard. Misc. 6 : 161 (1854)",
+    "basionym recordID": "374258",
+    "typification": "Typification: Hooker s.n.",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Hooker s.n."
+        ]
+      }
+    ],
+    "locality raw": "Nepal",
+    "country": "Nepal",
+    "host": "on dead wood",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Cylindrosporus flavidus",
+    "_current_name_id": "811779",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "844317": {
+    "species": "Onnia himalayana",
+    "author": "Y.C. Dai, H. Zhao & M. Zhou",
+    "protologo record0": "Frontiers Microbiol. 13 (no. 907961) : 7 (2022)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 037194",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 037194"
+        ]
+      }
+    ],
+    "locality raw": "Yunnan",
+    "country": "China",
+    "host": "on roots of Pinus yunnanensis",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "302028": {
+    "species": "Onnia incisa",
+    "author": "(Lloyd) Imazeki",
+    "protologo record0": "Bull. Gov. Forest Exp. Stn Tokyo 57 : 114 (1952)",
+    "Basionym": "Polystictus incisus",
+    "Basionym_author": "Lloyd",
+    "protologo basionym": "Mycol. Writ. 7 (Letter 67) : 1155 (1922)",
+    "basionym recordID": "267780",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "823451": {
+    "species": "Onnia kesiya",
+    "author": "M. Zhou & F. Wu",
+    "protologo record0": "Phytotaxa (2018)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "838404",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "838404": {
+    "species": "Onnia kesiyae",
+    "author": "M. Zhou & F. Wu",
+    "protologo record0": "Phytotaxa 349 (1) : 74 (2018)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC, Dai 18415",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC",
+          "Dai 18415"
+        ]
+      }
+    ],
+    "locality raw": "Vietnam",
+    "country": "Vietnam",
+    "host": "on root of Pinus kesiya",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "318996": {
+    "species": "Onnia leporina",
+    "author": "(Fr.) H. Jahn",
+    "protologo record0": "Westfälische Pilzbriefe 11 : 85 (1978)",
+    "Basionym": "Polyporus leporinus",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "Öfvers. K. Svensk. Vetensk.-Akad. Förhandl. 9 : 130 (1852)",
+    "basionym recordID": "375033",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Sweden",
+    "country": "Sweden",
+    "host": "on dead trunks",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Inonotus leporinus",
+    "_current_name_id": "360575",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "815594": {
+    "species": "Onnia microspora",
+    "author": "Y.C. Dai & L.W. Zhou",
+    "protologo record0": "Mycologia 109 (1) : 30 (2017)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 008999",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 008999"
+        ]
+      }
+    ],
+    "locality raw": "Anhui",
+    "country": "中国",
+    "host": "on root of living Pinus massoniana",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "302029": {
+    "species": "Onnia musashiensis",
+    "author": "(Henn.) Imazeki",
+    "protologo record0": "Bull. Tokyo Sci. Mus. 6 : 110 (1943)",
+    "Basionym": "Fomes musashiensis",
+    "Basionym_author": "Henn.",
+    "protologo basionym": "Bot. Jb. 31 : 737 (1902)",
+    "basionym recordID": "201031",
+    "typification": "Typification: Ikeno 91",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "Ikeno 91"
+        ]
+      }
+    ],
+    "locality raw": "Honshu",
+    "country": "Japan",
+    "host": "on trunk",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Polyporus musashiensis",
+    "_current_name_id": "271872",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "302030": {
+    "species": "Onnia orientalis",
+    "author": "(Lloyd) Imazeki",
+    "protologo record0": "Bull. Tokyo Sci. Mus. 6 : 110 (1943)",
+    "Basionym": "Polyporus orientalis",
+    "Basionym_author": "Lloyd",
+    "protologo basionym": "Mycol. Writ. 3 (Syn. Stip. Polyporoids) : 193 (1912)",
+    "basionym recordID": "204497",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fulvoderma vallatum",
+    "_current_name_id": "854321",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "844715": {
+    "species": "Onnia pakistanica",
+    "author": "Bashir, Jabeen, Naseer & Khalid",
+    "protologo record0": "Phytotaxa 658 (3) : 255 (2024)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype LAH 37526",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "LAH 37526"
+        ]
+      }
+    ],
+    "locality raw": "Pakistan",
+    "country": "Pakistan",
+    "host": "on fallen stems of Pinus wallichiana",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "302031": {
+    "species": "Onnia scaura",
+    "author": "(Lloyd) Imazeki",
+    "protologo record0": "Bull. Tokyo Sci. Mus. 6 : 110 (1943)",
+    "Basionym": "Fomes scaurus",
+    "Basionym_author": "Lloyd",
+    "protologo basionym": "Mycol. Writ. 4 : 11 (1914)",
+    "basionym recordID": "444580",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Inonotus scaurus",
+    "_current_name_id": "413249",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "302032": {
+    "species": "Onnia subpertusa",
+    "author": "Imazeki",
+    "protologo record0": "Bull. Tokyo Sci. Mus. 6 : 110 (1943)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "",
+    "types": [],
+    "locality raw": "",
+    "country": "",
+    "host": "",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "815593": {
+    "species": "Onnia subtriquetra",
+    "author": "Vlasák & Y.C. Dai",
+    "protologo record0": "Mycologia 109 (1) : 29 (2017)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype PRM 944506",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "PRM 944506"
+        ]
+      }
+    ],
+    "locality raw": "Virginia",
+    "country": "United States",
+    "host": "on Pinus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "815595": {
+    "species": "Onnia tibetica",
+    "author": "Y.C. Dai & S.H. He",
+    "protologo record0": "Mycologia 109 (1) : 31 (2017)",
+    "Basionym": "",
+    "Basionym_author": "",
+    "protologo basionym": "",
+    "basionym recordID": "",
+    "typification": "Holotype BJFC 017168",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "BJFC 017168"
+        ]
+      }
+    ],
+    "locality raw": "Tibet",
+    "country": "China",
+    "host": "on root of living Pinus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales"
+  },
+  "445578": {
+    "species": "Onnia tomentosa",
+    "author": "(Fr.) P. Karst.",
+    "protologo record0": "Rev. Mycol. 11 (no. 47) : 205 (1889)",
+    "Basionym": "Polyporus tomentosus",
+    "Basionym_author": "Fr.",
+    "protologo basionym": "Systema Mycologicum 1 : 351 (1821)",
+    "basionym recordID": "449600",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Sweden",
+    "country": "Sweden",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "273226": {
+    "species": "Onnia triqueter",
+    "author": "(Pers.) Imazeki",
+    "protologo record0": "(1955)",
+    "Basionym": "Boletus triqueter",
+    "Basionym_author": "Pers.",
+    "protologo basionym": "Observ. mycol. 1 : 86 (1796)",
+    "basionym recordID": "444100",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Germany",
+    "country": "Germany",
+    "host": "on trunks of Quercus",
+    "_rank": "sp.",
+    "_name_status": "Orthographic variant",
+    "_taxonomic_status": "orthographic_variant",
+    "_current_name": "",
+    "_current_name_id": "335400",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "335400": {
+    "species": "Onnia triquetra",
+    "author": "(Pers.) Imazeki",
+    "protologo record0": "Mycol. Fl. Japan 2 (4) : 386 (1955)",
+    "Basionym": "Boletus triqueter",
+    "Basionym_author": "Pers.",
+    "protologo basionym": "Observ. mycol. 1 : 86 (1796)",
+    "basionym recordID": "444100",
+    "typification": "Typification: not indicated",
+    "types": [
+      {
+        "type_of_type": "",
+        "material": [
+          "not indicated"
+        ]
+      }
+    ],
+    "locality raw": "Germany",
+    "country": "Germany",
+    "host": "on trunks of Quercus",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "accepted",
+    "_current_name": "",
+    "_current_name_id": "",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  },
+  "538185": {
+    "species": "Onnia vallata",
+    "author": "(Berk.) Y.C. Dai & Niemelä",
+    "protologo record0": "Flora Fungorum Sinicorum 29 : 90 (2005)",
+    "Basionym": "Polyporus vallatus",
+    "Basionym_author": "Berk.",
+    "protologo basionym": "Hooker's J. Bot. Kew Gard. Misc. 6 : 138 (1854)",
+    "basionym recordID": "225204",
+    "typification": "Holotype K(M), Hooker s.n.",
+    "types": [
+      {
+        "type_of_type": "Holotype",
+        "material": [
+          "K(M)",
+          "Hooker s.n."
+        ]
+      }
+    ],
+    "locality raw": "Meghalaya",
+    "country": "India",
+    "host": "on soil",
+    "_rank": "sp.",
+    "_name_status": "Legitimate",
+    "_taxonomic_status": "synonym",
+    "_current_name": "Fulvoderma vallatum",
+    "_current_name_id": "854321",
+    "_family": "Hymenochaetaceae",
+    "_order": "Hymenochaetales",
+    "type_of_type": "",
+    "type_material": "",
+    "herdado_do_basionym": true
+  }
+}
