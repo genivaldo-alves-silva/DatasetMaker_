@@ -10,11 +10,13 @@ Uso:
     python main.py --obtain --force-run    # Ignora .gb existentes, baixa tudo
     python main.py --gb_handle             # Etapa 2: Processar arquivos GenBank
     python main.py --gb_handle Fomitiporia # Etapa 2 apenas para Fomitiporia
+    python main.py --gb_handle Fomitiporia --g-force # Etapa 2, força processamento de todos os .gb do gênero
     python main.py --qualify               # Etapa 3: Qualificação taxonômica
     python main.py --qualify Lentinus      # Etapa 3 apenas para Lentinus
     python main.py --enrich                # Etapa 4: Enriquecimento por artigos (Fases 0-5)
     python main.py --enrich Fomitiporia    # Etapa 4 apenas para Fomitiporia
-    python main.py --obtain --gb_handle    # Executa etapas 1 e 2
+    python main.py --obtain --gb_handle    # Executa etapas 1 e 2 para os inputs
+    python main.py --obtain --gb_handle Fomitiporia # Etapas 1 e 2 para Fomitiporia
     python main.py -T 8                    # Usa 8 threads para processamento paralelo
     python main.py -g -T 4                 # Processa GenBank com 4 threads
     python main.py --no-parallel           # Modo sequencial (útil para debug)
@@ -74,11 +76,13 @@ Exemplos:
   python main.py --obtain -f Fomitiporia # Força download completo de Fomitiporia
   python main.py --gb_handle             # Processa arquivos .gb de todos os gêneros
   python main.py --gb_handle Fomitiporia # Processa apenas Fomitiporia
+    python main.py --gb_handle Fomitiporia --g-force # Força processar todos os .gb do gênero
   python main.py --qualify               # Qualificação taxonômica
   python main.py --qualify Lentinus      # Qualifica apenas Lentinus
     python main.py --enrich                # Enriquecimento via artigos (Fases 0-5)
     python main.py --enrich Fomitiporia    # Enriquece apenas Fomitiporia
-  python main.py --obtain --gb_handle    # Executa etapas 1 e 2
+  python main.py --obtain --gb_handle    # Executa etapas 1 e 2 para os inputs
+  python main.py --obtain --gb_handle Fomitiporia # Etapas 1 e 2 para Fomitiporia
   python main.py -T 8                    # Usa 8 threads para processamento
   python main.py -g -T 4                 # Processa GenBank com 4 threads
   python main.py --no-parallel           # Executa sequencialmente (debug)
@@ -86,6 +90,10 @@ Exemplos:
   # Modo complexo de espécies (múltiplos gêneros como dataset único):
   python main.py -s                      # Combina gêneros do input em <primeiro>_complex/
   python main.py -s -c Wrightoporia_clade # Nome customizado para o complexo
+  
+  # Modo BLAST complex (para inputs .fas):
+  python main.py --blast-complex         # Agrupa gêneros detectados no BLAST em pasta única
+  python main.py --blast-complex-name Clado_Fas # Nome customizado
         """
     )
     
@@ -101,7 +109,7 @@ Exemplos:
         const=True,
         default=False,
         metavar="GENUS",
-        help="Etapa 2: Processar arquivos GenBank (.csv, .xlsx, .parquet). Opcionalmente especifique um gênero."
+        help="Etapa 2: Processar arquivos GenBank (.csv, .xlsx, .parquet). Com --obtain, o gênero também filtra a etapa 1."
     )
     parser.add_argument(
         "--qualify", "-q",
@@ -145,6 +153,11 @@ Exemplos:
         action="store_true",
         help="Ignora arquivos .gb existentes e baixa todas as sequências do zero (usado com --obtain)"
     )
+    parser.add_argument(
+        "--g-force",
+        action="store_true",
+        help="Usado com --gb_handle: força reprocessamento de todos os .gb/.gbk do gênero especificado"
+    )
     
     # Opções para complexos de espécies (múltiplos gêneros como um único dataset)
     parser.add_argument(
@@ -160,6 +173,20 @@ Exemplos:
         help="Nome da pasta de saída para o complexo (requer --sppcomplex-mode). Padrão: <primeiro_gênero>_complex"
     )
     
+    # Opções para BLAST complex (múltiplos gêneros do FASTA como um único dataset)
+    parser.add_argument(
+        "--blast-complex",
+        action="store_true",
+        help="Modo BLAST complex: trata todos os gêneros detectados no FASTA como um único dataset combinado"
+    )
+    parser.add_argument(
+        "--blast-complex-name",
+        type=str,
+        default=None,
+        metavar="NAME",
+        help="Nome da pasta de saída para o complexo BLAST (requer --blast-complex). Padrão: <primeiro_gênero>_blast_complex"
+    )
+    
     # Argumento posicional opcional para gênero (executa todas as etapas para esse gênero)
     parser.add_argument(
         "genus",
@@ -171,14 +198,18 @@ Exemplos:
     return parser.parse_args()
 
 
-def run_obtain(force_run=False, genus_filter=None, sppcomplex_mode=False, complex_name=None):
+def run_obtain(force_run=False, genus_filter=None, 
+               sppcomplex_mode=False, complex_name=None,
+               blast_complex=False, blast_complex_name=None):
     """Etapa 1: Obtenção de sequências do GenBank.
     
     Args:
         force_run: Se True, ignora .gb existentes e baixa tudo do zero
         genus_filter: Gênero específico para processar (ou None para todos)
-        sppcomplex_mode: Se True, combina todos os gêneros em uma única pasta
+        sppcomplex_mode: Se True, combina todos os gêneros (TXT) em uma única pasta
         complex_name: Nome da pasta do complexo (requer sppcomplex_mode)
+        blast_complex: Se True, combina todos os gêneros (FASTA) em uma única pasta
+        blast_complex_name: Nome da pasta do complexo BLAST (requer blast_complex)
     """
     print("\n🚀 [Etapa 1] Obtendo sequências do GenBank...")
     if force_run:
@@ -186,19 +217,23 @@ def run_obtain(force_run=False, genus_filter=None, sppcomplex_mode=False, comple
     if genus_filter:
         print(f"   📌 Filtro de gênero: {genus_filter}")
     if sppcomplex_mode:
-        print(f"   🔗 Modo complexo de espécies: combinando gêneros em '{complex_name or '<auto>'}")
+        print(f"   🔗 Modo complexo de espécies (TXT): combinando gêneros em '{complex_name or '<auto>'}")
+    if blast_complex:
+        print(f"   🔗 Modo BLAST complex (FASTA): combinando gêneros em '{blast_complex_name or '<auto>'}")
     
     processed_genera = process_genbank_inputs(
         force_run=force_run,
         genus_filter=genus_filter,
         sppcomplex_mode=sppcomplex_mode,
-        complex_name=complex_name
+        complex_name=complex_name,
+        blast_complex=blast_complex,
+        blast_complex_name=blast_complex_name
     )
     print("✅ Obtenção de sequências concluída.")
     return processed_genera
 
 
-def run_gb_handle(genus=None, parallel=True, max_workers=None, force_run=False, sppcomplex_mode=False, complex_name=None):
+def run_gb_handle(genus=None, parallel=True, max_workers=None, force_run=False, sppcomplex_mode=False, complex_name=None, g_force=False):
     """Etapa 2: Processamento dos arquivos GenBank.
     
     Args:
@@ -208,6 +243,7 @@ def run_gb_handle(genus=None, parallel=True, max_workers=None, force_run=False, 
         force_run: Se True, força reprocessamento mesmo sem arquivos novos
         sppcomplex_mode: Se True, processa pasta do complexo como dataset único
         complex_name: Nome da pasta do complexo (requer sppcomplex_mode)
+        g_force: Se True, força processamento de todos os .gb/.gbk no --gb_handle
     """
     if sppcomplex_mode and complex_name:
         print(f"\n🚀 [Etapa 2] Processando complexo '{complex_name}' como dataset único...")
@@ -221,8 +257,9 @@ def run_gb_handle(genus=None, parallel=True, max_workers=None, force_run=False, 
     elif not parallel:
         print("   🔄 Modo sequencial (sem paralelização)")
     
-    if force_run:
-        print("   ⚡ --force-run: forçando reprocessamento")
+    if force_run or g_force:
+        trigger = "--g-force" if g_force and not force_run else "--force-run"
+        print(f"   ⚡ {trigger}: forçando reprocessamento")
     
     gb_handle(
         input_folder=GENBANK_OUT_DIR, 
@@ -230,7 +267,8 @@ def run_gb_handle(genus=None, parallel=True, max_workers=None, force_run=False, 
         genus_filter=complex_name if sppcomplex_mode else genus,
         parallel=parallel,
         max_workers=max_workers,
-        force_run=force_run,
+        force_run=(force_run or g_force),
+        g_force=g_force,
         sppcomplex_mode=sppcomplex_mode
     )
     print("✅ Processamento de datasets concluído.")
@@ -352,15 +390,48 @@ def main():
     
     # Gênero global (argumento posicional) - usado quando nenhuma flag específica tem gênero
     global_genus = args.genus
+
+    # Quando as etapas 1 e 2 são solicitadas juntas, o gênero explícito de
+    # --gb_handle deve ser usado também para a obtenção no GenBank.
+    obtain_genus = (
+        args.gb_handle
+        if isinstance(args.gb_handle, str)
+        else global_genus
+    )
+    if (
+        isinstance(args.gb_handle, str)
+        and global_genus
+        and args.gb_handle != global_genus
+    ):
+        print(
+            "❌ Gêneros conflitantes: "
+            f"argumento posicional '{global_genus}' e "
+            f"--gb_handle '{args.gb_handle}'."
+        )
+        return
     
     # Modo complexo de espécies
     sppcomplex_mode = args.sppcomplex_mode
     complex_name = args.complex_name
     
+    # Modo BLAST complex
+    blast_complex = args.blast_complex
+    blast_complex_name = args.blast_complex_name
+
+    # Validação: --g-force requer gênero explícito no --gb_handle (ou modo complexo)
+    if args.g_force and args.gb_handle is False:
+        print("⚠️  Aviso: --g-force ignorado (requer --gb_handle)")
+    
+    
     # Validação: --complex-name requer --sppcomplex-mode
     if complex_name and not sppcomplex_mode:
         print("⚠️  Aviso: --complex-name ignorado (requer --sppcomplex-mode)")
         complex_name = None
+        
+    # Validação: --blast-complex-name requer --blast-complex
+    if blast_complex_name and not blast_complex:
+        print("⚠️  Aviso: --blast-complex-name ignorado (requer --blast-complex)")
+        blast_complex_name = None
     
     if global_genus:
         print(f"\n📌 Processando gênero: {global_genus}")
@@ -369,6 +440,11 @@ def main():
         print(f"\n🔗 Modo complexo de espécies ativo")
         if complex_name:
             print(f"   Nome do complexo: {complex_name}")
+
+    if blast_complex:
+        print(f"\n🔗 Modo BLAST complex ativo")
+        if blast_complex_name:
+            print(f"   Nome do complexo BLAST: {blast_complex_name}")
     
     processed_genera = None
     
@@ -376,26 +452,40 @@ def main():
     if run_all or args.obtain:
         processed_genera = run_obtain(
             force_run=args.force_run,
-            genus_filter=global_genus,
+            genus_filter=obtain_genus,
             sppcomplex_mode=sppcomplex_mode,
-            complex_name=complex_name
+            complex_name=complex_name,
+            blast_complex=blast_complex,
+            blast_complex_name=blast_complex_name
         )
-        # Se em modo complex, atualiza complex_name com o valor retornado (caso não tenha sido especificado)
+        # Se em modo complex, atualiza complex_name com o valor retornado
         if sppcomplex_mode and processed_genera and isinstance(processed_genera, dict):
             complex_name = processed_genera.get('complex_name', complex_name)
             processed_genera = processed_genera.get('genera', [])
+        
+        # Se em modo BLAST complex, migra e atualiza como sppcomplex para etapas seguintes
+        if blast_complex and processed_genera and isinstance(processed_genera, dict):
+            complex_name = processed_genera.get('complex_name', blast_complex_name)
+            processed_genera = processed_genera.get('genera', [])
+            sppcomplex_mode = True # Trata como complexo nas etapas seguintes
     
     # Etapa 2: Processamento GenBank
     if run_all or args.gb_handle:
         # Prioridade: flag específica > argumento posicional
         genus_gb = args.gb_handle if isinstance(args.gb_handle, str) else global_genus
+        g_force_effective = bool(args.g_force)
+        if g_force_effective and not (genus_gb or (sppcomplex_mode and complex_name)):
+            print("⚠️  Aviso: --g-force requer um gênero em --gb_handle GENUS (ou --sppcomplex-mode com complexo definido). Ignorando --g-force.")
+            g_force_effective = False
+
         run_gb_handle(
             genus=genus_gb,
             parallel=not args.no_parallel,
             max_workers=args.threads,
             force_run=args.force_run,
             sppcomplex_mode=sppcomplex_mode,
-            complex_name=complex_name
+            complex_name=complex_name,
+            g_force=g_force_effective,
         )
     
     # Etapa 3: Qualificação taxonômica

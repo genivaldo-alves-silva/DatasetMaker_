@@ -4,14 +4,29 @@
 # Melhorado: estrutura de pastas gb/, detecção de data de .gb existentes, --force-run
 
 import os
+from pathlib import Path
 import re
 import time
 import argparse
 import requests
+import sys
 from datetime import datetime
 from Bio import SeqIO
 from Bio.Blast import NCBIWWW, NCBIXML
 from dotenv import load_dotenv
+
+# Import local check_genus module
+try:
+    SCRIPT_DIR = Path(__file__).resolve().parent
+    if str(SCRIPT_DIR) not in sys.path:
+        sys.path.insert(0, str(SCRIPT_DIR))
+    from check_genus import check_genus
+    HAS_GENUS_CHECK = True
+except ImportError:
+    print("⚠️ Módulo check_genus não encontrado. Verificação de gênero desativada.")
+    HAS_GENUS_CHECK = False
+    def check_genus(genus):
+        return True  # Assume todos são válidos se módulo não disponível
 
 # 🗝️ Carregando variáveis de ambiente do arquivo .env
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -26,6 +41,79 @@ if not api_key:
 os.environ["NCBI_API_KEY"] = api_key
 
 ###################### Funções de Parsing ######################
+
+def extract_genus_from_blast_title(title):
+    """
+    Extrai o nome do gênero de um título BLAST de forma robusta.
+    
+    Lida com formatos variados:
+    - "gi|...|gb|...| Inocybe sp. isolate..." → "Inocybe"
+    - "gi|...|gb|...| Uncultured Inocybe clone..." → "Inocybe"
+    - "gi|...|gb|...| Uncultured fungus clone..." → "Uncultured_fungus"
+    - "Fomitiporia mediterranea strain..." → "Fomitiporia"
+    
+    Args:
+        title: String do título BLAST
+        
+    Returns:
+        Nome do gênero ou "NA" se não encontrado
+    """
+    import re
+    
+    # Remove prefixos de identificador (gi|...|gb|...|, ref|...|, etc.)
+    cleaned = re.sub(r'^\S+\|.*?\|\s*', '', title)
+    
+    # Lista de palavras para pular (não são gêneros)
+    skip_words = {
+        'uncultured', 'basidiomycota', 'ascomycota', 'synthetic', 'environmental', 'unidentified',
+        'unknown', 'unclassified', 'metagenome', 'clone', 'isolate',
+        'strain', 'voucher', 'partial', 'complete', 'sequence',
+        'gene', 'rna', 'dna', 'sp', 'spp', 'internal', 'transcribed',
+        'spacer', 'ribosomal', 'subunit', 'large', 'small', 'mitochondrial',
+        'fungus', 'fungi', 'mycorrhizal', 'ectomycorrhizal', 'endophyte',
+        'thelephoraceae', 'agaricomycetes', 'agaricales', 'polyporales', 'boletales',
+        'agaricomycotina', 'tremellomycetes', 'pucciniomycetes', 'ustilaginomycetes'
+    }
+    
+    words = cleaned.split()
+    
+    for word in words:
+        # Remove pontuação
+        clean_word = word.strip('.,;:()[]{}')
+        
+        # Pula palavras vazias ou muito curtas
+        if not clean_word or len(clean_word) < 2:
+            continue
+        
+        # Pula palavras na lista de skip (case-insensitive)
+        if clean_word.lower() in skip_words:
+            continue
+            
+        # Pula nomes de famílias, ordens, classes, etc. (sufixos comuns)
+        low_word = clean_word.lower()
+        if (low_word.endswith('aceae') or low_word.endswith('ales') or 
+            low_word.endswith('mycetes') or low_word.endswith('mycota') or 
+            low_word.endswith('mycotina')):
+            continue
+        
+        # Verifica se é um nome de gênero válido:
+        # - Começa com letra maiúscula
+        # - Seguido por letras minúsculas (pode ter hífens)
+        # - Não é tudo maiúsculo (ex: siglas)
+        if re.match(r'^[A-Z][a-z]+(?:-[a-z]+)*$', clean_word):
+            return clean_word
+
+    
+    # Fallback: se encontrou "Uncultured" mas nenhum gênero depois
+    if 'uncultured' in cleaned.lower():
+        # Tenta extrair "Uncultured_<algo>"
+        for word in words:
+            clean_word = word.strip('.,;:()[]{}')
+            if clean_word.lower() not in skip_words and len(clean_word) >= 2:
+                return f"Uncultured_{clean_word}"
+        return "Uncultured"
+    
+    return "NA"
 
 def parse_fasta(file_path):
     """Lê um arquivo FASTA e retorna um dicionário de espécimes e sequências."""
@@ -75,13 +163,13 @@ def get_inputs(input_dir):
 
 ###################### Funções de BLAST e GenBank ######################
 
-def run_blast_and_extract(sequence, hitlist_size=100, min_query_coverage=85, min_identity=90):
+def run_blast_and_extract(sequence, hitlist_size=200, min_query_coverage=85, min_identity=90):
     """
     Executa BLAST para uma sequência e retorna:
-      - all_ids: IDs dos 100 primeiros hits (sem filtro)
-      - top3: lista com até 3 hits filtrados (dicts com genus, query_cov, identity, accession)
+      - all_ids: IDs dos hits (sem filtro)
+      - filtered_hits: todos os hits que passaram no filtro (dicts com genus, query_cov, identity, accession)
     """
-    print("🔍 Rodando BLAST...")
+    print(f"🔍 Rodando BLAST (top {hitlist_size} hits)...")
     try:
         result_handle = NCBIWWW.qblast(
             program="blastn",
@@ -105,7 +193,7 @@ def run_blast_and_extract(sequence, hitlist_size=100, min_query_coverage=85, min
 
                 if query_cov >= min_query_coverage and id_percent >= min_identity:
                     title = alignment.title
-                    genus = title.split()[1] if " " in title else "NA"
+                    genus = extract_genus_from_blast_title(title)
                     filtered_hits.append({
                         "genus": genus,
                         "query_cov": round(query_cov, 2),
@@ -114,13 +202,13 @@ def run_blast_and_extract(sequence, hitlist_size=100, min_query_coverage=85, min
                     })
 
         filtered_hits = sorted(filtered_hits, key=lambda x: x["identity"], reverse=True)
-        top3 = filtered_hits[:3]
 
-        return all_ids, top3
+        return all_ids, filtered_hits
 
     except Exception as e:
         print(f"❌ Erro no BLAST: {e}")
         return [], []
+
 
 def fetch_genbank_records(ids, api_key, batch_size=200):
     """
@@ -304,7 +392,7 @@ def update_general_log(log_path, log_entries):
         for entry in log_entries:
             f.write(f"{entry}\n")
 
-def process_fasta_input(input_fname, input_data, output_dir, force_run=False):
+def process_fasta_input(input_fname, input_data, output_dir, force_run=False, blast_complex=False, complex_name=None):
     """
     Processa um arquivo de entrada FASTA, executa BLAST e salva resultados.
     
@@ -313,24 +401,156 @@ def process_fasta_input(input_fname, input_data, output_dir, force_run=False):
         input_data: Dicionário com espécimes e sequências
         output_dir: Diretório de saída
         force_run: Se True, ignora datas anteriores e baixa tudo
+        blast_complex: Se True, agrupa todos os resultados em uma única pasta
+        complex_name: Nome da pasta do complexo (se blast_complex for True)
     """
     date_str = datetime.now().strftime("%d%b%Y").lower()
     
     # Agrupar espécimes por top 3 gêneros
     genus_groups = {}
     general_log_entries = []
+    
+    all_blast_ids = []
+    detected_genera = set()
+    first_detected_genus = None
 
     for specimen, seq in input_data.items():
         print(f"  🧬 Espécime: {specimen} (len={len(seq)})")
-        all_ids, top3 = run_blast_and_extract(seq)
+        all_ids, filtered_hits = run_blast_and_extract(seq)
         
-        top_genus = top3[0]["genus"] if top3 else "NA"
-        if top_genus not in genus_groups:
-            genus_groups[top_genus] = {"specimens": [], "top3": top3, "all_ids": all_ids}
-        genus_groups[top_genus]["specimens"].append(specimen)
+        # Selecionar o primeiro gênero válido na lista completa (priorizando identificados)
+        top_genus = "NA"
+        for hit in filtered_hits:
+            g = hit["genus"]
+            if g != "NA" and not g.startswith("Uncultured"):
+                top_genus = g
+                break
+        
+        # Fallback: Se não encontrou gênero nomeado, pega o primeiro válido (pode ser Uncultured)
+        if top_genus == "NA" and filtered_hits:
+            for hit in filtered_hits:
+                if hit["genus"] != "NA":
+                    top_genus = hit["genus"]
+                    break
+        
+        print(f"     🏷️  Gênero atribuído: {top_genus}")
+        
+        top3 = filtered_hits[:3]
+        if top3:
+            top3_names = [h["genus"] for h in top3]
+            print(f"     📊 Top 3 BLAST: {', '.join(top3_names)}")
+        
+        if not first_detected_genus and top_genus != "NA":
+            first_detected_genus = top_genus
+        
+        if top_genus != "NA":
+            detected_genera.add(top_genus)
+            
+        if blast_complex:
+            # No modo complexo, colocamos todos no mesmo grupo
+            target_group = "COMPLEX"
+        else:
+            target_group = top_genus
+
+        if target_group not in genus_groups:
+            genus_groups[target_group] = {"specimens": [], "top3_list": [], "all_ids": []}
+        
+        genus_groups[target_group]["specimens"].append(specimen)
+        genus_groups[target_group]["top3_list"].append((specimen, top3))
+        genus_groups[target_group]["all_ids"].extend(all_ids)
         
         top3_str = "|".join([hit["genus"] for hit in top3])
         general_log_entries.append(f"{input_fname};{date_str};{specimen};{top3_str};{top_genus}")
+    
+    if blast_complex:
+        # Define nome do complexo se não especificado
+        effective_complex_name = complex_name or f"{first_detected_genus or 'unknown'}_blast_complex"
+        genus_folder = os.path.join(output_dir, effective_complex_name)
+        os.makedirs(genus_folder, exist_ok=True)
+        gb_folder = get_gb_folder(genus_folder)
+        
+        print(f"\n  🔗 Modo BLAST complex: combinando {len(detected_genera)} gêneros em '{effective_complex_name}'")
+        
+        # Salvar hits do BLAST consolidados
+        blast_hits_fname = f"{effective_complex_name}_blast_hits_{date_str}.gb"
+        blast_hits_fpath = os.path.join(gb_folder, blast_hits_fname)
+        
+        # Pegar IDs únicos (limitado aos primeiros 100 de cada espécime para não exagerar)
+        unique_ids = list(dict.fromkeys(genus_groups["COMPLEX"]["all_ids"]))[:200]
+        if unique_ids:
+            genbank_data = fetch_genbank_records(unique_ids, api_key)
+            if genbank_data:
+                with open(blast_hits_fpath, "w") as f:
+                    f.write(genbank_data)
+                print(f"  💾 Salvo (BLAST hits): {blast_hits_fpath}")
+        
+        # Buscar sequências de todos os gêneros detectados
+        all_genbank_data = ""
+        last_date = None if force_run else get_last_gb_date(genus_folder)
+        
+        for g in detected_genera:
+            print(f"  🔬 Buscando sequências de: {g}")
+            g_data = fetch_genbank_by_genus(g, api_key, last_date=last_date, force_run=force_run)
+            if g_data:
+                all_genbank_data += g_data
+
+        all_genbank_fname = f"{effective_complex_name}_all_genbank_{date_str}.gb"
+        all_genbank_fpath = os.path.join(gb_folder, all_genbank_fname)
+        
+        if all_genbank_data:
+            with open(all_genbank_fpath, "w") as f:
+                f.write(all_genbank_data)
+            print(f"  💾 Salvo (All GenBank): {all_genbank_fpath}")
+        
+        # Atualizar logs
+        log_path = os.path.join(genus_folder, f"{effective_complex_name}.log")
+        with open(log_path, "a") as f:
+            f.write(f"\n[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] BLAST COMPLEX MODE\n")
+            f.write(f"Input: {input_fname}\n")
+            f.write(f"Detected Genera: {', '.join(detected_genera)}\n")
+            for spec, t3 in genus_groups["COMPLEX"]["top3_list"]:
+                f.write(f"  - {spec}: Top3 BLAST: {', '.join([h['genus'] for h in t3])}\n")
+        
+        # Retorna o nome do complexo na primeira entrada para que o chamador saiba
+        general_log_entries[0] += f";{effective_complex_name}"
+        
+    else:
+        # Comportamento padrão: salvar resultados para cada grupo de gênero
+        for genus, group_data in genus_groups.items():
+            genus_folder = os.path.join(output_dir, genus)
+            os.makedirs(genus_folder, exist_ok=True)
+            gb_folder = get_gb_folder(genus_folder)
+            
+            # Salvar hits do BLAST na pasta gb/
+            blast_hits_fname = f"{genus}_blast_top100_hits_{date_str}.gb"
+            blast_hits_fpath = os.path.join(gb_folder, blast_hits_fname)
+            if group_data["all_ids"]:
+                # Usando a nova função para baixar os registros top100
+                genbank_data = fetch_genbank_records(group_data["all_ids"][:100], api_key)
+                if genbank_data:
+                    with open(blast_hits_fpath, "w") as f:
+                        f.write(genbank_data)
+                    print(f"  💾 Salvo: {blast_hits_fpath}")
+            
+            # Detectar última data dos arquivos .gb existentes
+            last_date = None if force_run else get_last_gb_date(genus_folder)
+            
+            # Buscar e salvar todas as sequências do gênero na pasta gb/
+            all_genbank_fname = f"{genus}_all_genbank_{date_str}.gb"
+            all_genbank_fpath = os.path.join(gb_folder, all_genbank_fname)
+            all_genbank_data = fetch_genbank_by_genus(genus, api_key, last_date=last_date, force_run=force_run)
+            if all_genbank_data:
+                with open(all_genbank_fpath, "w") as f:
+                    f.write(all_genbank_data)
+                print(f"  💾 Salvo: {all_genbank_fpath}")
+            else:
+                print(f"  ℹ️  Nenhuma sequência nova encontrada para {genus}")
+            
+            output_files = [blast_hits_fpath, all_genbank_fpath]
+            # Use only one top3 for the log call if many specimens; here we'll simplify to latest
+            update_genus_log(genus_folder, input_fname, group_data["specimens"], group_data["top3_list"][-1][1], output_files)
+
+    return general_log_entries
     
     # Salvar resultados e logs para cada grupo de gênero
     for genus, group_data in genus_groups.items():
@@ -503,7 +723,8 @@ def process_txt_input_complex(input_fname, genera_list, output_dir, complex_name
 ###################### Main ######################
 
 def process_genbank_inputs(input_dir=None, output_dir=None, force_run=False, genus_filter=None, 
-                           sppcomplex_mode=False, complex_name=None):
+                           sppcomplex_mode=False, complex_name=None,
+                           blast_complex=False, blast_complex_name=None):
     """
     Função principal para processar inputs do GenBank.
     Pode ser chamada externamente com caminhos personalizados.
@@ -518,6 +739,8 @@ def process_genbank_inputs(input_dir=None, output_dir=None, force_run=False, gen
         sppcomplex_mode: Se True, combina todos os gêneros em uma única pasta.
         complex_name: Nome da pasta do complexo (requer sppcomplex_mode).
                       Se None e sppcomplex_mode=True, usa <primeiro_gênero>_complex.
+        blast_complex: Se True, agrupa resultados de BLAST em uma única pasta.
+        blast_complex_name: Nome da pasta para o complexo BLAST.
     
     Returns:
         - Em modo normal: list de gêneros processados
@@ -565,11 +788,21 @@ def process_genbank_inputs(input_dir=None, output_dir=None, force_run=False, gen
         print(f"\n📂 Processando: {fname} (tipo={info['type']})")
         
         if info["type"] == "fasta":
-            # FASTA: executa BLAST - não suporta sppcomplex_mode por enquanto
-            if sppcomplex_mode:
-                print("⚠️  Modo complexo não suportado para inputs FASTA. Processando normalmente.")
-            log_entries = process_fasta_input(fname, info["data"], output_dir, force_run=force_run)
+            # FASTA: executa BLAST
+            log_entries = process_fasta_input(
+                fname, info["data"], output_dir, 
+                force_run=force_run,
+                blast_complex=blast_complex,
+                complex_name=blast_complex_name
+            )
             all_general_log_entries.extend(log_entries)
+            
+            # Se em modo BLAST complex, captura o nome da pasta para retorno
+            if blast_complex:
+                # O nome do complexo foi anexado ao primeiro log_entry
+                parts = log_entries[0].split(";")
+                if len(parts) > 5:
+                    blast_complex_name = parts[5]
         
         elif info["type"] == "txt":
             genera_in_file = info["data"]
@@ -605,6 +838,9 @@ def process_genbank_inputs(input_dir=None, output_dir=None, force_run=False, gen
     # Retorna informações do complexo se em modo complex
     if sppcomplex_mode and complex_name:
         return {'genera': processed_genera, 'complex_name': complex_name}
+    
+    if blast_complex and blast_complex_name:
+        return {'genera': processed_genera, 'complex_name': blast_complex_name}
     
     return processed_genera
 
@@ -674,6 +910,20 @@ Estrutura de saída:
         metavar="NAME",
         help="Nome da pasta do complexo (requer --sppcomplex-mode). Padrão: <primeiro_gênero>_complex"
     )
+
+    parser.add_argument(
+        "--blast-complex",
+        action="store_true",
+        help="Modo BLAST complex: combina todos os gêneros detectados do FASTA em uma única pasta."
+    )
+
+    parser.add_argument(
+        "--blast-complex-name",
+        type=str,
+        default=None,
+        metavar="NAME",
+        help="Nome da pasta para o complexo BLAST (requer --blast-complex). Padrão: <primeiro_gênero>_blast_complex"
+    )
     
     return parser.parse_args()
 
@@ -686,5 +936,7 @@ if __name__ == "__main__":
         force_run=args.force_run,
         genus_filter=args.genus,
         sppcomplex_mode=args.sppcomplex_mode,
-        complex_name=args.complex_name
+        complex_name=args.complex_name,
+        blast_complex=args.blast_complex,
+        blast_complex_name=args.blast_complex_name
     )

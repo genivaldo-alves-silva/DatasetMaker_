@@ -351,7 +351,7 @@ Obtenha sua API Key em: https://www.ncbi.nlm.nih.gov/account/settings/
 
 ## 📝 Notas para Contexto de IA
 
-### Use em testes e pra valer o ambiente abaixo
+### Use em testes e 'pra valer' o ambiente abaixo
 - ~/jupyter/bin/activate
 
 ### Estrutura de pastas importante:

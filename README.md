@@ -176,3 +176,4 @@ pytest -q get_taxon_ref_/test_*.py
 
 - This repository also contains work-in-progress modules (`dereplicate`, `type_qualifier`, `phylogeny`).
 - For deeper implementation context, see `CONTEXT_README.md` and `get_taxon_ref_/IMPLEMENTATION_CONTEXT.md`.
+- For the full end-to-end flow map, see [MERMAID_FLOW.md](MERMAID_FLOW.md).

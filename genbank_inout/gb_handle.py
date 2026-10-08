@@ -1393,7 +1393,7 @@ def process_genus_folder(genus_name, input_path, output_path, gene_dict, max_wor
         print(f"❌ Ocorreu um erro no processamento de {genus_name}. Verifique o log para mais detalhes.")
         
 # --- Execução Principal ---
-def gb_handle(input_folder=None, output_folder=None, aggregate_all=False, parallel=True, max_workers=None, genus_filter=None, force_run=False, sppcomplex_mode=False):
+def gb_handle(input_folder=None, output_folder=None, aggregate_all=False, parallel=True, max_workers=None, genus_filter=None, force_run=False, sppcomplex_mode=False, g_force=False):
     """
     Função principal para processar arquivos GenBank e gerar datasets.
     
@@ -1406,6 +1406,7 @@ def gb_handle(input_folder=None, output_folder=None, aggregate_all=False, parall
         genus_filter: Se especificado, processa apenas este gênero (ex: 'Fomitiporia').
                       Em sppcomplex_mode, este é o nome do complexo a processar.
         force_run: Se True, força reprocessamento mesmo sem arquivos novos.
+        g_force: Se True, força processamento de todos os .gb/.gbk no gênero/complexo alvo.
         sppcomplex_mode: Se True, processa a pasta do complexo como dataset único.
                          Neste modo, genus_filter deve conter o nome do complexo.
     """
@@ -1439,6 +1440,9 @@ def gb_handle(input_folder=None, output_folder=None, aggregate_all=False, parall
     except FileNotFoundError:
         print(f"❌ Erro: O arquivo 'gendict.json' não foi encontrado em '{gendict_path}'.")
         return
+
+    # force_run efetivo considera também a flag dedicada do gb_handle
+    force_run_effective = force_run or g_force
 
     # Se a opção aggregate estiver ativa, processa tudo junto
     if aggregate_all:
@@ -1495,9 +1499,9 @@ def gb_handle(input_folder=None, output_folder=None, aggregate_all=False, parall
             # 🔹 Verificação se deve reprocessar
             # force_run=True: sempre reprocessa
             # Caso contrário: só reprocessa se houver arquivos .gb novos (modificados hoje)
-            reprocess_required = force_run
+            reprocess_required = force_run_effective
             
-            if force_run:
+            if force_run_effective:
                 print(f"\n⚡ --force-run ativo: reprocessando '{genus_name}'")
             elif os.path.exists(output_path) and os.path.isdir(output_path):
                 today = datetime.date.today()
