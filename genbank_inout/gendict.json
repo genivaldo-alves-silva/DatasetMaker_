@@ -1709,5 +1709,24 @@
     "large subunit ribosomal RNA gene, partial sequence; mitochondrial",
     "large subunit ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product",
     "large subunit ribosomal RNA, partial sequence; mitochondrial"
+  ],
+  "gpdh": [
+    "glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds",
+    "GAPDH-like gene, complete sequence",
+    "GAPDH",
+    "GPDH",
+    "gpd",
+    "gapdh",
+    "(gpd)-like",
+    "gpd3 sequence",
+    "glyceraldehyde",
+    "glyceraldehyde 3-phosphate dehydrogenase (GAPDH) gene, partial cds",
+    "glyceraldehyde 3-phosphate dehydrogenase (gpd) gene, partial cds",
+    "glyceraldehyde-3-phosphate dehydrogenase (gpd) gene, partial cds",
+    "glyceraldehyde-3-phosphate dehydrogenase (gapdh) gene, partial cds",
+    "glyceraldehyde 3-phosphate dehydrogenase-like gene, partial sequence",
+    "glyceraldehyde 3-phosphate dehydrogenase (GPDH) gene, partial cds",
+    "glyceraldehyde 3-phosphate dehydrogenase (gpd)-like gene, partial sequence",
+    "gpdh gene for glyceraldehyde 3 phosphate dehydrogenase, partial cds"
   ]
 }
